@@ -1,0 +1,56 @@
+and the reason i'm asking is, i think if i just take your bookings in the fourth quarter, and if i add maybe eur0.5 billion service sales, then it looks like we should be well above eur1.6 billion.
+and then i have a follow-up.
+thank you.
+so we'll leave it at that today, but it's all underpinned by a strong ramp in 10 nanometer.
+so, i think the q1 guidance is probably below where most people think it would be, even if we look back at quarters with similar revenue -- run rates.
+so, i just wondered if we could talk about 10 nanometer ramp, now you've got maybe a bit more visibility around it.
+the 40% litho intensity, yes, that's what node-on-node -- that's still what we think is a realistic number.
+and just one follow-up.
+it looks like your chinese orders are very strong, somewhere around eur500 million, which i would assume is mostly dalian.
+can you just give us a sense of your market share into china through the course of this year, or rather on those orders?
+jerome ramel from exane bnp paribas.
+yes.
+but if you look at that -- what customers are telling us, it's going to be a significant ramp, and will be driven by the leading-edge players, not so much by the followers, which will follow on, i said as an answer to an earlier question, which will probably have a much longer tail.
+okay.
+muse.
+good afternoon, c.j.
+i guess first question, i know there's a lot of moving parts here, but curious what are the key milestones we should be watching for euv to be designed in at the 7 nanometer node.
+when we see china -- the chinese logic or foundry market, we are clearly focusing on the nodes before 10. so the 28 nanometer node is still relatively strong in china, but also very clear indications of the move to 16 and 14. and that is where we see chinese foundries going.
+and we'll just -- a bit too early to comment on that, c.j.
+(multiple speakers).
+mr. hosseini.
+amit harchandani, citi.
+and there's a very clear driver of our customers to say, what part of my installed base can we upgrade to the next node?
+so, it's nothing new.
+i think it's going to be part of our business going forward.
+and just as a follow-up if i may, wolfgang, could you kindly just once again explain or elaborate upon your comment of euv revenue recognition for this year?
+so, first half at that level, and second half you said decline.
+so to draw a conclusion on asps or asp trends is a bit difficult because it's quite a mixed bag.
+now in 2015, which is true, we had a mixed bag of 28 nanometer node, 14/16 nanometer node, and some early 10 nanometer node shipments.
+and it did include, as we put in the presentation, there's a lot more krf.
+how should we think about the mix -- new fab/existing fab on the 3-d nand, and also the foundry market?
+got it.
+and then i have just a quick follow-up on euv.
+so, this is what we are focused on.
+do you have that visibility already, or is that still something that has to be defined?
+yes, we have that visibility -- reasonable visibility from our customers.
+but we believe that the initial year of the production shipment will be a dozen or so tools.
+and then this will double every year that we move on.
+directionally, margin goes up.
+you pointed out the 3350 is really the tool that has the improvements on it that will give us the 1,500 wafers per day and the 80% availability capability.
+so it will be around mid-year.
+so it will be throughout the year.
+what is, or what was, the availability of this machine actually during q4?
+but why not more, given the progress made by euv [adornment] and your confidence in the 2020 target of eur10 billion revenues?
+on your question on the technical details of the 3350, well, we started shipping the 3350 in our factory, and we measure availability at that customer sites.
+and that's why we get better throughput.
+and i wanted to understand whether the linearity of the capex is also more weighted like the dram capex in the first half, or do you expect the nand capex to be more evenly split throughout the year?
+well, what customers will actually do, because they are very expensive machines, they will always ramp these tools slowly.
+customers have their plans, and whether they follow cadence a or cadence b. what they tell us is that they need their production output in a certain period, in a certain year, which is starting (technical difficulty) and in 2018. and then you just calculate back, using the cycle time that we need.
+and then we come to a moment where we need to start shipping the tool.
+when do they tell us that they need the tool?
+and that's [for] 2018-2019 output, 2017 shipment, starting for us.
+ladies and gentlemen, we have time for one last call.
+i had two questions.
+obviously it's going to be up, but how much?
+let me make one thing clear: china is not only 3d nand.

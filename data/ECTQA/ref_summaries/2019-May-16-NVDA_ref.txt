@@ -1,0 +1,46 @@
+i guess what i'm really asking is kind of what's changed over the last, let's call it, 3 months relative to your prior commentary from a visibility perspective and just demand perspective within that segment.
+thanks for the question as we start out here.
+we saw probably a combination of those moving forward continuing with their capex expenditures and building out in terms of what they need for the data centers.
+okay.
+and your next question comes from the line of harlan sur of jpmorgan.
+do you anticipate continued china gaming demand on a go-forward basis?
+yes.
+our strategy with rtx was to take a lead and move the world to ray tracing.
+epic is supporting ray tracing.
+is it really to see around how long it could take for data center to come back?
+so when you think about our growth between q1 and q2, yes, we do expect in terms of our gaming to increase.
+is it caution on their own business going forward?
+any color on that would be helpful, too.
+in fact, today, i think that -- i just saw it today, but i've known about this work for some time, harry shum's group, microsoft ai research group, today announced their multitask dnn general language understanding model.
+of course, it's going to continue to evolve, but these models are gigantic to train.
+this inference engine that has been really successful for us at the csps is now going out into the edge, and we call them edge servers and enterprise servers.
+our strategy for cloud gaming is to extend our pc position for geforce gamers into the cloud, and our strategy for building out our network is partnerships with telcos around the world.
+i actually had a clarification for colette and a question for jensen.
+it is very different than an accelerator strategy.
+for example, if you were building a smart microphone, you need an accelerator for speech recognition, asr.
+our accelerated computing platform is designed to enable the computer industry to bring forward into the future all the software that exists today, whether it's tensorflow or caffe or pytorch or it could be classical machine learning algorithms like xgboost, which is actually right now the most popular framework and machine learning overall.
+this whole body of software doesn't run on a single function accelerator.
+while some of it could be 8-bit integers, some of it really wants to be 16-bit floating point.
+this is a question for colette.
+and given those should be adding to efficiency, i'm just surprised it's down that much.
+but we have some that have paused and are going through those periods.
+what are your thoughts on that?
+and your next question comes from the line of c.j.
+and it has to be done at the edge because of the amount of data that otherwise would be transferred to the cloud is just too much.
+and how should we think about growth trajectory into the second half of the year?
+there's the component of ai computing infrastructure we call dgx and/or any of the oem service that include our gpus that are used for developing the ais.
+and so these are the 4 components of opportunities that we have in the automotive industry.
+we're doing great in china.
+but if you think about the basic computational pipeline of a self-driving car, it's no different essentially than a smart retail or the future of computational medical instruments, agriculture, industrial inspection, delivery drones, all basically use essentially the same technique.
+and so the cpu shortage situation has been described fairly broadly, and it affected our initial ramp.
+and the new category of gaming notebooks that we created called max-q has made it possible for really amazing gaming performance to fit into a thin and light.
+and so this is going to be a really -- this is a fast-growing segment, and all the oems know it.
+obviously, the design cycles are very long, so you do have some visibility, and i guess the question is when can we expect an acceleration of auto revenue.
+and so the pause in gaming is now behind us.
+and as colette said earlier, somewhere between q2 and q3, we'll get back to normal levels for gaming.
+and so i think we're in a pretty good shape.
+and in fact, if you take our turing and you compare it against a 7-nanometer gpu on energy efficiency, it's incomparable.
+we'll see probably an increase sequentially quarter-to-quarter along there, but our year-over-year growth will start to decline as we will not be growing at the speed that we did in this last year.
+but i do believe we're on track to meet that goal.
+accelerated computing in ai are the greatest forces in computing today, and nvidia is leading these movements.
+some call it an embedded ai, some edge ai or autonomous machines.

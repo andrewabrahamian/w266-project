@@ -1,0 +1,54 @@
+yes.
+okay.
+but it is, of course, you need to separate, as you indicated, between nand and dram.
+and those were very significant.
+or are you now booking the 3400c?
+cost is actually going down in these higher productivity tools.
+generally, you could say if you have more than 2,000 wafers per day productivity on a dram system, it becomes attractive at -- to basically
+start using euv for several layers in dram.
+but in the last quarter, you were saying you had to get to over 90%.
+and where you're heading?
+i guess the question, if i could go back to your 2019 outlook for duv.
+it sounds like you're now saying kind of first half similar to second half and already growth into the second half of '19.
+and i guess as my follow-up, can you talk to how you're expecting linearity of shipments for the 30 euv tools in 2019?
+on gross margin, i think we have articulated a target of 40% there for 2020. i think we're on track to get there and i think, as we've mentioned before, 4 levers to get there.
+and i think the opportunity here is in the memory space, in the dram space.
+to your point, the improved productivity and specs on the 3400c suggest it's going to be higher than that.
+but again, like i said earlier, i assume a successful execution of our 3400c specification targets.
+and then just as quick follow-ups on euv.
+on -- i think the mix is predominantly logic.
+and of course, throughout 2019, when we see the first module results, the test results of the critical modules of the 3400c, we can probably engage with our customers at that time, the memory customers, who will see whether they would like an increased number of memory tools.
+alex duval from goldman sachs.
+and logic will be ramping 10-nanometer in macro processes and 7-nanometer in the foundry space.
+now like i said earlier, that's why i think that the deep uv business for 2019 will be at least as good as in 2018. but by -- a little bit more skewed towards logic.
+but effectively means that our customer plans, which is a result also of when their fabs are ready, when can they take the tools, yes, that hasn't changed that much.
+yes?
+sales.
+no.
+and that's particularly helpful when you look at our metrology and inspection business.
+i'm just wondering, does that reflect the finalized capex plans by your key customers?
+and you're long enough into this industry to understand that once you have the dram structure there, you're going to fill it up because it's the only way to cover your fixed cost is to bring out as many dram business you can in this new fab.
+one of the key foundries is no longer pursuing leading edge.
+7-nanometer, 7-plus and 5 is going to be big.
+your installed base management business is growing into next year.
+so i don't think there are questions about that.
+and yes, and i would not be surprised if there would be.
+or is it more in line with trend line growth?
+we don't know.
+amit harchandani from citigroup.
+would that be a fair assessment to make?
+yes, the capacity is indeed around 30 systems.
+that is still to be fixed.
+tammy qiu from berenberg.
+and i have a short follow-up.
+i'm just wondering, has your accelerated r&d been impacting a number of layers euv can be used by the time of high-na is available?
+the next question comes from mr. adithya metuku.
+i have 2 questions.
+firstly, a clarification on the opex.
+i can take the last question and roger can take your first question.
+so it's a -- the effectivity numbers and the effectivity control is increasing significantly.
+so we have made a lot of progress this year together with our customers on the effectivity control.
+that's right.
+so with r&d going up, there is logic that certain capex goes up as well.
+and it's -- and the opex run rate is significantly higher than what consensus modeling for 2019. so i just wondered, you made a comment earlier on opex picking up short term, but coming down medium term.
+thank you for participating.

@@ -1,0 +1,37 @@
+(operator instructions) sandeep deshpande, jp morgan.
+you probably will get a lot of euv related orders in the second half of next year given that production starts in 2019. so, how do you see developments in the first half of 2017?
+thank you.
+as you said, the foundry 10 nanometer ramp ending towards the end of the year.
+we expect that in 2017 the continuation as almost a logical evolution from 10 nanometer into the 7nanometer node to happen.
+thirdly, we will have shipped three systems by the end of q3 so that leaves three to four systems in q4 and amongst those systems are systems where we have the opportunity to recognize revenue.
+now the backlog of the 10 tools, how many customers do we have in the backlog?
+i'm not going to go into customer specifics, but you can imagine that leaders act first and how many tools will we ship.
+our expectation is that euv will be used at mid-teen dram node for about two layers.
+i hope this helps, c.j.
+timothy arcuri, cowen & company.
+but just sort of in general, what do you think the reuse will look like between 10 nanometer and 7 nanometer?
+can you again remind us of what the margin targets will be?
+so in order to get to our 2020 target of 50% overall gross margin, we would have to arrive at 40% for euv.
+the third one is as you learn, you're also having less e&o, excess and obsolete, due to redesign.
+okay.
+but given the fact that there is a ton more dram wafer capacity, would it make sense that by 2020 dram actually would account for a larger mix of euv demand than logic just because there is more wafer capacity?
+that's a good point.
+that is very important, but we don't have that information yet so that's why it's pretty difficult for us to make that particular assessment.
+i think whether we are a public company or a private company, we would spend the money wisely and that means that yes, we have an r&d budget today about eur1.1 billion.
+so the first one is timing, the second one is volume of insertion, and the third one is production capacity ramp at each node.
+the volume of insertion, yes, the high end of the range six to nine layers, that could be.
+customers have also found out we suppose and that's basically on what we hear from them that trying to do 7 nanometer on the critical layers with multiple patterning strategies is a very costly and a very painful exercise.
+so we're just closer let's say to the insertion points and to the decision points, customers have done a lot more work.
+that's why we have a bit more clarity and it is indeed at somewhat of the higher end of that range that we talked about last year, but it is what it is.
+wolfgang?
+first on the post hmi, how realistic will you be able to intercept the 7 nanometer with the radical inspection product or should we think beyond 7 nanometer with the hmi product?
+and then i have a follow-up.
+so, we keep advancing it so that customers can get the cost down on these layers as well and as a consequence when you look at our eur10 billion plan by 2020, the duv business will not look much different than it does today.
+all together we think it's about eur2.3 billion.
+but we could have also chosen to actually partner with another e-beam manufacturer.
+and e-beam in itself is a highly competitive market and hmi is a great company and it just allows us to be faster, but it doesn't mean that that's the only way to bring the solution that we have in mind to the market.
+i think one addition probably on the timeline, that's not completely nailed down.
+and it's interesting to understand that you think it's three to six.
+so, i would invite you to contact our investor relations department and discuss with them why you think it's three to six while we based on our customer interactions think it's six to nine.
+i think we have time for just one last call.
+you could argue that we're in a bit of a slow period.

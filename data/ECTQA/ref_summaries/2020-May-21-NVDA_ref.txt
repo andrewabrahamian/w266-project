@@ -1,0 +1,69 @@
+and we think that is a true indication of their excitement about our platform and most particularly our excitement regarding a100, and that's launched and its additional products.
+you sort of mentioned a couple of offsets.
+i guess what were you trying to say with those kind of factors?
+so let me start, and i'll see if jensen also wants to add on to it.
+i think you're talking about our sequential between q1 and q2.
+so in summary, we do expect grow sequentially between q1 and q2 for our overall gaming business.
+yes.
+you don't -- is there any chance that it could be up like on -- for what we've seen in terms of like typical levels in the past?
+i think when we think about that sequential growth, we'll probably be in the low -- moving up to probably the mid-single digits in terms of -- that's what our guidance right now, and we'll just have to see how the quarter goes.
+that's very helpful.
+first, of course, is that rtx and ray tracing is just the home run.
+accelerated computing is now common sense in data centers.
+but today, data centers all over the world expect a very significant part of their data center being accelerated with gpus.
+the number of workloads that we've accelerated since in the last 5 years have expanded tremendously, whether it's imaging or video or conversational ai or deep recommender systems that probably unquestionably, at this point, the most important machine learning model in the world.
+and so i think the general sense of it -- the summary of it is that the number of workloads for accelerated computing has continued to grow, the adoption of machine learning and ai and all the cloud and hyperscalers has grown.
+the common sense of using acceleration is now a foregone conclusion.
+we are guiding q2 non-gaap gross margins at 66%.
+whenever you shop on the web, it recommends a product.
+and as you know, cloud is a $100 billion market segment of it today, growing about 40% into $1 trillion opportunity.
+so the second is cloud computing.
+and so i think it's fair to say that we're really well positioned in the 2 fundamental forces of it today, data center scale computing and artificial intelligence.
+and the segments that it's going to make a real impact are all gigantic markets.
+hyperscale ai, cloud and edge ai.
+yes, c.j., thanks for the question.
+you need to find a way to have an accelerated computational defense system that allows you to find insight, detect early warning asap.
+national labs are going to be gearing up.
+nvidia has a lot of robots that are helping us in our labs.
+there's a strong movement of companies that are going to support a larger percentage of people working from home.
+and these dynamics are really good for us.
+you're guiding july essentially flat sequentially, despite what i'm guessing is better mixed with non-ops coming in and automotive guided down 40% sequentially.
+and then one quick one for jensen.
+let's see, the trade tension.
+your next question comes from mark lipacis with jefferies.
+and then you kind of introduced solutions that were targeted more inferencing.
+or is this -- would you still -- should we still expect to see inferencing-specific solutions in the market and then training-specific solutions and then an ampere solution for a different class application?
+the first class of workload that we discovered was -- the major workload was deep learning training.
+and so notice, i've said 3 different architecture in a data center today.
+we finally have the ability to accelerate that.
+and so the versatility of ampere is the thing that i'm most excited about.
+and so the number of different models that are being trained is growing.
+terabytes, hundreds of terabytes.
+and so those models were early for us at the time.
+so number one is the diversity of workload.
+at the time, cloud was largely where our acceleration went for deep learning.
+and as i mentioned earlier, we're working with walmart and bmw and usps, and that's just the tip of the iceberg.
+and so i think the conditions are a little different.
+i mean we are -- we've ramped a few weeks.
+your next question comes from harlan sur with jpmorgan.
+but now when we think about scaling out compute acceleration to data center skilled implementation, how does mellanox' ethernet switching platforms differ from those provided by other large networking oems, some of whom have been your long-term partners?
+i appreciate the question.
+and the reason for that is because the problems we're trying to solve no longer fit in one computer, no matter how big it is.
+and so it has to be distributed.
+and that's the reason why they're doing so well.
+it's so incredible.
+and they pioneered, in a lot of ways, software-defined data centers.
+and today, we're the only computing -- accelerated computing platform that you could really largely address.
+this journey took 20-some-odd years.
+and the big -- the gigantic breakthrough, of course, we know well now, and nvidia is recognized as one of the 3 pillars that ignited the modern ai, the big bang of modern ai.
+and so their accuracy in predicting user preferences is core to everything they do.
+i guess i'm just kind of curious, when we look at the full year guide, is there something structural going on opex as you try to take advantage of all these opportunities?
+okay.
+we have about close to 3,000 mellanox employees coming on board.
+you've seen some good results from our investment, and there's more to do.
+and so this is -- i'm certain that this is going to come back.
+there's -- those aren't large industries for us.
+all of our products has ai in it, and we're accelerating frameworks for all of the ai industry.
+the technology that made egx a100 is really quite remarkable.
+the acquisition of mellanox gives us deep expertise and scale to innovate from end to end.
+you may now disconnect.

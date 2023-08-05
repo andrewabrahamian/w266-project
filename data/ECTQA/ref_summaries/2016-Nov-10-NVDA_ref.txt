@@ -1,0 +1,53 @@
+mark lipacis, jefferies.
+and, secondarily, for it managers it translates to lower energy consumption, and most importantly, it translates to a substantial reduction in data center cost.
+and so, a pretty big deal.
+jen-hsun, one more on the data center business.
+for example, when i go back to your fy15, it grew 60% to 70% year on year.
+i think embedded in your question, in fact, are many of the variables that influence our business.
+we relied on supercomputing centers in the beginning, and then, we relied on remote workstations, data center workstations, if you will, virtualized workstations.
+our gpu now has the ability with one architecture to run all of those applications that i mentioned from graphics virtualization to scientific computing to ai.
+we have energy discovery.
+we have financial services industry.
+and so, we're starting to see applications in all of those different dimensions.
+but, i think really, the mega point though is really the size of the industries we are now able to engage.
+that it is so available everywhere.
+it's in the cloud.
+so, gpu computing.
+so, there's no laws of physics involved.
+search is an artificial intelligence problem.
+hi.
+thanks for taking my question and congratulations.
+you mentioned that maxwell upgrade was about 30% of your (technical difficulty) exactly two years.
+because what i heard incomplete information, but i'm going to infer from some of the important words that i did hear, and i'm going to apply in this case human intelligence to see if i can predict what it is that you were trying to ask.
+i think, one, the number of gamers in the world is growing.
+the quality of games has grown significantly.
+they have very different design points.
+that's probably the second one.
+and, as a quick follow-up on the gaming side, was wondering if you had any thoughts on whether or not there is still a big gap between the ramp-up of pascal supply and the pent-up demand for those new products?
+i would say that we're probably in the first at-bat of the first inning of grid.
+and yet, on the other hand, i believe that in the future applications will become increasingly gpu-accelerated.
+it's about putting gpus in large-scale data centers and be able to virtualize the applications so that we can enjoy it on any computer, on any device, and putting computing closer to the data.
+and i could surely expect to see it continue to grow at the rate that we're seeing for some time.
+i'll start backwards and answer the fpga question first.
+and, fpga is what you use when the volume is not large.
+it could do fluid dynamics.
+it could do artificial intelligence.
+and so, we have created a computing architecture that's good at both of those things.
+it's a computing architecture.
+and, not a dedicated application thingy.
+i think that, that's probably the most significant bit in the automotive industry.
+so, i think people now recognize that ai computing is a very software-rich problem, and it is a supremely exciting ai problem.
+you might need eight processors.
+harlan sur, jpmorgan.
+good afternoon.
+and, when do you expect the adoption curve for the maxwell-based accelerators to start to kick in with some of your cloud customers?
+yes, thank you.
+the first thing is that it's not a detection problem, it's an ai computing problem.
+that the service is a network of cars by which they continuously improve.
+i don't believe it's actually possible at this moment in time to deliver an ai computing platform of the performance level that is required to do autonomous driving at an energy efficiency level that is possible in a car and to put all the functionality together in a reasonable way.
+so, those are probably the three reasons.
+the number of software companies that have now jumped on to using gpu deep learning and taking advantage of the computing platform that we have taken almost seven years to build, and it's really quite amazing.
+it's one of our great strengths, if you will.
+we have no more time for questions.
+i would leave you with several thoughts that, first, we're seeing growth across all of our platforms from gaming to pro graphics, to cars to data centers.
+starting from gpus that we have optimized and evolved and enhanced for deep learning to system architectures to algorithms for deep learning, to tools necessary for developers to frameworks, and the work that we do with all of the framework developers and ai researchers around the world, to servers to the cloud to data centers to ecosystems and working with isvs and startups and all the way to evangelizing and teaching people how to use deep learning to revolutionize the software that they build.

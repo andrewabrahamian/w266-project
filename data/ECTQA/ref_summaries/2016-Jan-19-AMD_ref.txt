@@ -1,0 +1,42 @@
+looking at your guidance for growth, year-over-year growth in revenue in 2016, you are ending with the last quarter your game console revenues down year over year.
+game consoles -- we see units going up 2016 to 2015. we've also said in the enterprise embedded and semi-custom segment that we will be ramping some new design revenue in the second half of 2016.  so we see that as a positive growth driver.
+and then if you look overall at our computing and graphics business, we do believe even in a down pc market that we have the opportunity to gain share as a growth vector in computing and graphics.
+okay.
+yes.
+so certainly we've seen some sequential improvement in the second half of 2015 and we look forward to those product releases in 2016.
+ian ing, mkm partners.
+great.
+and the guidance specifically for q1 of 2016 is 32%.
+so for the year, i'm not giving guidance today.
+lisa, just to follow-up on the last one, on arm servers.
+got it.
+and as i follow up perhaps a longer-term question, which is what is the strategy to actually get to a meaningful earnings and cash flow growth?
+and as the mix is shifting to your embedded products, gross margins are sort of holding around that 30% level, but you're not really able to reduce cost.
+and then as we go forward, we have our data center strategy as well as our semi-custom and new markets that will bring additional opportunities.
+and we need to continue to work with our customers on design opportunities and moving the platforms into production as we go through the year 2016.
+if i can add, lisa, i think the other thing i would add is if you look at a couple of areas that lisa mentioned -- data center in particular, but also the embedded space.
+good luck.
+thanks for taking my questions.
+so it's leading to a stronger product mix, so those are the key factors.
+if you look at the past couple of years it's been the case because they are coming off of a strong holiday season.
+so i would say that has to be factored into the guidance.
+well, if i just looked, you're down 14% and intel down what they are, there is a differential there.
+for my follow-up --
+the other thing -- just one last clarification.
+(multiple speakers)
+no, that's free cash flow.
+i think there's some -- my observation looking at the product roadmap is there's some pretty big hurdles past: getting polaris on finfet, getting zen on finfet over the next few quarters.
+i guess particularly i'm looking at how you balance semi-custom versus discrete gpu?
+it seems like quite a bit to take on, given the lower spending levels of the business at a whole and i just wonder how you are prioritizing that versus the guidance for the year?
+all right.
+thank you.
+i think the radeon technologies group has added a lot of focus to our graphics activities.
+all right.
+i think we have had really a good discussion around where to go there.
+and then i think as you go forward to 2016 -- i'm not being that specific about the base business, but i will say i think units will be up.
+and i guess piggybacking off that to an earlier question -- this time for devinder on the gross margin side.
+so from my standpoint, i want to see how it unfolds in terms of the mix of product, mix of the business before getting into the gross margin.
+so i think being first to market, we've gotten a lot of experience on the technology.
+steven chin, ubs.
+so the overall product capability and performance is good.
+that concludes our call for today.

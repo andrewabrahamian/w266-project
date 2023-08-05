@@ -1,0 +1,51 @@
+and are there many multiple customers within that?
+yes.
+got it.
+the next question comes from mr. c.j.
+muse with evercore isi.
+yes.
+so no real change.
+okay.
+and i guess as my follow-up, you guided gross margin higher year-over-year despite the nice tick higher in euv shipments.
+i wouldn't like to nail it down to an exact percentage.
+and then from a mix between deep uv and holistic lithography, you will see also, the next 2 or 3 years, a continued mix towards holistic lithography, which will have a slightly higher mix in our overall revenue.
+because if you look at what our customers really want from us is node-to-node transitions, and node-to-node transitions, going forward, are really a combination of the entire set of products and services that we are offering.
+my first question is on euv.
+could you possibly help us understand in terms of the recognition on euv into 2018, are you going to be recognizing that in all the tools on shipments by the second half of this year as well as the past deferred revenue on euv will be fully recognized in 2018?
+there are still shipments that have -- of tools that have changes in them that require us to wait with revenue recognition for an acceptance of the tool at the customer side.
+good.
+the next question comes from mr. amit harchandani.
+and as an unrelated follow-up, if i could get some clarity around china.
+now if they can do this faster, then you would probably see an uptick on that eur 3 billion.
+whereas if you compare it to the memory, there's been a significant uptick there.
+i think we've -- both for memory and logic, we see similar patterns in 2018 with -- there are some potential upside, which is customer-driven.
+and in nand, the capacity addition of what we can see based on litho will be around mid-40s.
+and then i have a follow-up.
+so you talked about euv, and you talked about 125 wafers an hour.
+we'll eventually start in the back half of 2018, but that capability is actually there.
+now with respect to the availability with the 3400, we're over 80%.
+now split between dram and nand is very difficult for the simple reason that customers are continuously assessing how to allocate their lithography capabilities and their capacity between dram and between nand, and there are a lot of relocations going on between dram and nand.
+was it the customer lowering the performance requirement that got you there earlier?
+jerome ramel, exane bnp paribas.
+the question is, can we eventually use high na euv in existing fabs?
+well, i think it's similar to the current euv tool.
+and i think that was the main reason why we start building new fabs and then take into account that some of the tools are a bit bigger.
+great quarter, by the way.
+i noticed that the dry euv moved up from 20 units to 25 units, q3 to q4, but the immersion went from 22 to 20. is that evidence of the increasing importance of nand in your portfolio?
+it's not -- in no case it is going down significantly.
+so it is true that the 2,000 wafers per day is -- we've said it before, is a realistic economic productivity target.
+the way that we -- the lead time to increase capacity at zeiss has lapsed.
+does the elaborate question give me a quick follow-up?
+you said that you have already shipped your first tool.
+well, yes.
+so it's an e-beam tool, it can be used for e-beam mask inspection.
+i'm just wondering, what's your view on 2019 and what going to be the end market driver there?
+but when it happens, we have all the means and the flexibility to react.
+well, what you're basically asking is, is moore's law still viable, yes?
+the -- first of all for everybody, we had 2 agreements with zeiss: one was a high na investment agreement and one was an equity agreement.
+so the dividend is basically, since smt basically distributes their earnings, a very good reflection of the profitability of that business.
+and that takes your profit all the way to a eur 17 million loss.
+i just had a last question on the euv backlog.
+all of them, because there will be -- even if it's -- we have the commitment to have all those tool ultimately to be at 251. but -- so in fact, they're all at the 251 configuration.
+so we'll go through the year.
+thank you for participating.

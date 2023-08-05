@@ -1,0 +1,48 @@
+chris danely, citigroup.
+sure.
+one, we saw in the second quarter, and we project out into the second half, a bit of stabilization of the enterprise side of the market.
+so we expect strong demand.
+it's going to be driven by the many, many machines that connect to the cloud that drive orders of magnitudes more data than what the average human creates today, and that's getting to the cloud.
+so there's kind of the short versus the longer-term point of view.
+we expect to be above that low double digits in the back half driven by the three things he talked about that.
+stacy, you did a nice job relative to the full-year guidance, kind of giving us your expectation for pc demand for the year.
+and to the extent that it's still a subdued view, is this really confidence in data center, or what other parts of the business would drive above seasonal -- or high end of seasonal, sorry?
+i think if you look at the second half, we already said that q2 ended up being a little bit better than what we had anticipated.
+and if you take a look at q2, it ended up coming at kind of the mid-single digit decline.
+so as we go through this back half of this year and into next year, it's really starting to ramp up.
+we think large cost advantages and good performance position there.
+thank you.
+great.
+and so we had some good insight into the buying patterns as those customers went from q1 to q2.
+i'm not seeing anything unusual there.
+the average day paid and all of that still looks really healthy.
+pc gaming has been a bright spot for the team with growth in the double digits year-over-year range for the past number of quarters.
+we still expect that.
+hi, guys.
+thanks for taking my question.
+if it stabilizes at that rate, that gives us the ability to grow to the levels that we are projecting.
+that if you look to the expectations we had at the beginning of the year, the enterprise is a bit weaker than we thought overall for the year.
+and i think cloud will be in line with what we thought.
+and as you said, we do expect some asp uplift in the back half.
+we see a little bit more startup costs.
+so think of that as some good things happen, but we have again an increase in startup costs and we have some of the dalion costs with the first production of 3-d cross point that also kick in a bit more in q4.
+can you clarify why they chose to do that?
+and i guess with the inventory levels right now, where do they stand relative to where you would expect them to be into the third quarter?
+it was little bit less of an inventory burn then what we expected.
+good afternoon.
+so we'll talk about that in more depth at the investor meeting, but i'll give you some off-the-cuff comments here.
+that's very helpful.
+let me take the margin side and then i will let brian come in over the top to talk a little bit about the roadmap and how we think about that from the customer's perspective.
+but i would say that there is nothing that i am seeing in the overall roadmap that for me is a significant headwind as we go into 2017. so we will give you a lot more insight in that in a few months.
+one of the things we have learned on 14-nanometers is how to make meaningful performance and improvements, both in the silicon and then with the silicon combined with the architecture.
+and as i said, i'm being relatively cautious in this and making sure that we put an estimate out there that we are very comfortable with.
+but we are hearing similar things around the enterprise conversion.
+it's comfort with windows 10, ability to make that transition, they're wanting to do it on new hardware.
+and actually the more we go and start to play with it, start to give it out to customers, the more types of applications and workloads we're finding that it can be used for.
+we had the 7360 this year.
+if you take a look at the average autonomous drone doing some kind of scan looking for somebody lost in the forest or scanning a mine, it's going to throw off about 20 gigabytes a minute.
+and so we know that even if there was no competition, the competition is we've got to build a product that's better and drives replacement as well as growth.
+operator, can you go -- please go ahead and introduce our first questioner --  or last questioner, excuse me.
+just following up from the earlier round.
+to my philosophy just generally, i'm not a believer in taking on debt to do stock buybacks.
+you really have not seen us do that.

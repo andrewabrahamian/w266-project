@@ -1,0 +1,41 @@
+first one for lisa.
+and how many -- what percentage of your data center customers actually look at total cost of ownership in evaluating the products?
+and i'm wondering, like, what do you think that has -- impact that might have on the competitive pricing environment?
+so -- i mean maybe let me give some context on sort of the data center business for us, and then i'll answer your question.
+we see it across all workloads, so whether you're talking about a virtualized environment or you're talking about high-performance computing or you're talking about the enterprise sort of workloads, we see a strong performance as well as strong total cost of ownership.
+and so the overall point of -- we think that rome is very well positioned.
+yes.
+as it relates to customer support and all that stuff, like i said, customers are much, much more familiar with the architecture in the second-generation compared to the first generation.
+we're very pleased with it.
+the ramp for 7-nanometer has gone very quickly in -- here in the third quarter.
+and we continue to expect that, as we go into the fourth quarter, you'll see that the data center gpus will increase as well, as i mentioned in the prepared remarks, that client and graphics would also increase.
+and we're seeing actually very nice momentum in commercial as well as our traditional consumer market, so we also see good sequential growth in asps there.
+i don't think it's a significant driver of our business.
+i had 2 questions as well.
+we expect that to continue to grow as we go into q4 and into the first half of next year.
+well, it's a good question, vivek.
+i get asked it from time to time.
+but i think we are very well balanced between top line and bottom line growth.
+as it relates to epyc in the enterprise, i'm actually very encouraged with what we see in the enterprise.
+so i think it's a good question, and we will certainly give you more guidance as we get into 2020. but the way to think about it at a high level is we are going through a product transition with semi-custom now.
+and so it will be one of the growth drivers as we go into 2020 and beyond.
+and that is fundamentally due to the new products that are ramping and obviously some benefit from the semi-custom business, it's been down slightly in q3 compared to q2.
+but you also have some legacy product, right?
+i think if you look at our long-term model, we had said 40 to 44 points, and we'll be exiting the year at 44, and i think very well -- positions us well as we go into 2020 and turn over more of the product portfolio to the new products.
+you're up about 50%, their units were up 20% but even so.
+well, i think we have in mind strong double digits.
+i'm just curious, out of the gate, what kind of mix have you seen maybe skew towards the 48 and 64 core solutions?
+so aaron, it's fair to say that initially, out of the chute, we are seeing a higher mix to the higher end.
+we are seeing, as you might expect with that mix, that the rome asps are showing lift versus the previous first-generation epyc.
+and then as just as a quick follow-up, maybe more of a model question.
+so i think on the samsung base, if you look at the second half, it's approximately $100 million.
+and then on the -- yes, on the semi-custom side, we had said last quarter that it would be down, let's call it, mid-30s.
+okay.
+and as a quick follow-up, your nearest competitor talked about pull-ins in their data center business, particularly in china, was there anything in the quarter that you thought was kind of abnormal from a customer activity standpoint on the client side or the server side?
+our next question is coming from mitch steves from rbc.
+there's been a lot of articles just in terms of some firmware issues, there's some software bugs and things out there.
+or what are you exactly referring to?
+so you're going to see that as is normal with a new platform, that we'll continue to improve the platforms over time.
+so timothy, the way i would answer that question is, look, we made a set of choices, and the set of choices include process technology, they include architecture, our chiplet architecture.
+we've reached the end of our question-and-answer session.
+we thank you for your participation today.

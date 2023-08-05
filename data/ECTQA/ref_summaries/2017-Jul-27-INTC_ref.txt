@@ -1,0 +1,35 @@
+i was curious on the -- on the data center business, maybe you can just talk about the growth you need sequentially in the back half to get to that high single digits for the year.
+clarify by segment as well as the contribution from scalable into those segments.
+sure.
+thanks, blayne, for the question.
+you saw our operating margin increased to 38% this quarter.
+adjacencies at 12%.
+so we expect that trend to continue.
+and then -- but it's going to continue on into '18 as well.
+so i think that's kind of how we see the second half playing out.
+the only thing i would add, brian, is we came into the year looking at high single-digit growth for the business and margins expanding quarter-by-quarter throughout the year.
+and kind of 2 months in, we see nice acceleration on both top and bottom line.
+what is driving that?
+obviously, memory pricing has been strong, but i was just wondering if there's any other factors you're now adding to that outlook.
+and so that's what you see as the driver for the rest of the profitability growth as we go into next year.
+so it's 64-tier products on traditional nand, the ramp out of fab 68 and then the real start-up and continuation and getting the rest of the products qualified on 3d xpoint is what gets us everything profitable next year.
+the trend of -- look, enterprise is going to continue to decline.
+so i don't think we're talking about something going normalizing.
+but if you look at it over the long haul, even if you look at the first half of the year, 11% down this quarter, 3% down last quarter, you take a look at that as on average and you get to that high single-digit number.
+that's very helpful.
+and it's really asp improvements, good unit cost performance, volume leverage to the fab kind of working in our favor.
+and i appreciate it's early days and you have a very strong product out.
+and so you see us coming out with our xeon scalable.
+so i'd tell you that, yes, we're seeing increased competitive pressure from a variety of places.
+we -- the yields on 10 nanometers are continuing to improve pretty much right in line with the forecasted ramp rates.
+and so you'll see a variety of skus progressing through to 2018 as we ramp the 10-nanometer products, starting with, i'll call it, more simpler skus at the beginning, going all the way through the high-performance, high-complexity skus towards the middle and back half of the year, which is -- it's a traditional ramp like you see us push out on a new product ramp.
+it weighs on our ability to get the growth rate higher.
+and i would -- if i sounded like i was giving an excuse, i maybe should correct that.
+any it needs to build inventory to do that?
+i think the inventory levels as we see it in the channel is slightly higher than the lean levels they've been for the last couple of quarters, but no dramatic difference from our perspective on how we see pc tam for the full year.
+so we expect the second half of 2017, from an asp perspective, to be pretty much what you've seen in the past where asps continue to increase on the various platforms of xeon, right?
+our next question comes from romit shah from nomura securities.
+we talked about that, both [brian] and bob, around tam being down somewhere in that low- to mid-single-digit range.
+but for the most part, we're within a couple of percent.
+that was the highest number of pre-samples.
+it's really focused towards the data center products.

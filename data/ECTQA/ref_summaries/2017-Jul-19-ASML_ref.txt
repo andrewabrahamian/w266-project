@@ -1,0 +1,44 @@
+okay.
+you just need to use euv.
+but this year, it's 20% [up].
+and that is why, in the second half, the options piece is coming down a little bit.
+and i think the trends are of continuous growth there will all go into next year.
+we just have to make it a bit more reliable, and that will take a bit of time.
+and i guess as my follow-up, in terms of your commentary around memory, in particular, dram, can you specify how much of that strength you're seeing across-the-board on shrinks versus 2d nand upgrades over to dram?
+so it's a mix, whereby open spots in, you can say, open pedestals in effect to these are currently being filled because of the strong end market demand in dram, which is particularly driven by the data centers.
+the next question comes from mr. andrew gardiner.
+but given what we're seeing, some of the lower sort of end scenarios that you have there, in particularly unlikely, i mean, first of all, you have talked about the sort of layer count -- initial layer count expectations of euv.
+you're now seeing sort of 10 layers.
+i mean, we will not be standing there in new york last year telling you exactly where to pinpoint the revenue in 2020. we gave you a bit of a model with the key sensitivities and, as we've explained, the 2 major ones when we go through all of our sensitivities end market demand.
+and then with the recent accomplishments on euv, if we follow through, which is our intent to -- now that we have the specs met, that we get the availability up.
+yes.
+i mean, at this point, i would say that it's going to be around eur 1 billion or so.
+wondered if you could give a bit more color on the key technical aspects you're working on, what's the feedback been from customers you've been discussing with and anything else important on the solutions so far.
+the development that we're seeing there is that we're executing as planned, as part of the acquisition, on the combination of the asml lithographic -- let's say the holistic lithographic computational competence with the e-beam competence that hmi has in the field.
+your booking for the june quarter was down 4%, excluding the euv.
+and i wouldn't put too much weight, albeit it gives you some info on the structure of the backlog.
+and how much of it is really going to drive the demand higher this year.
+well, i think in -- when you think about the growth in capital intensity, where the 50% growth, is really deep uv.
+so difficult to predict.
+yes, around 40%.
+well, i think it doesn't really matter.
+this is wolfgang.
+this -- the order discussion that we're currently having are about 2019, and that's the case, yes.
+we've said before, we will ramp our capacity double, double from 2018 to 2019. that is true for our build capacity here in veldhoven, but we're seeing 1- or 2-quarter delays in that capacity in the supply chain.
+so that -- around 30 demand, if i add it all up today, is -- that would -- could probably nicely fit to what our capacity is, could be a bit more than 30. but it's a bit too early to give you a final number.
+i'm not sure whether you were on -- early on the call.
+but we're -- like i said earlier, we're feeling pretty comfortable about those levels at this point.
+the next question comes from mr. amit harchandani.
+two questions, if i may.
+that's helpful.
+or in other words, is that already starting to emerge as a constraint in your view?
+and i think it's not so much a matter of money.
+money doesn't always help you.
+what's leading edge?
+now you have to put that into perspective of why china has taken this step.
+if you read their 5-year plan, that's what they want.
+so how should we think about q4 gross margin, given the deferred revenue into 2018?
+then i have a follow-up.
+but i think the most important thing for us is what i said earlier.
+i just had a follow-up on the 250 watts demo.
+when you get more light on the wafer, you move the wafer faster.

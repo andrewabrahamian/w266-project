@@ -1,0 +1,44 @@
+on gross margin, sandeep, it's a combination actually of 3 things.
+the remaining 2% uplift is in euv, and that is a combination of 2 things.
+i guess, first question, you talked about accelerating your euv road map.
+then i've got a quick follow-up.
+okay.
+so when we say we see this deep uv strength, both memory and logic moving into 2019, that is based on the interaction that we have with our customers on this 9- to 12-month horizon.
+what level is due to have the [size of] volume to drive it to a 40% gross margin for euv based on your 2020 model?
+and the first evidence, we actually gave you for the q3 gross margin guidance.
+well, the volume, we haven't changed really.
+mix, we said -- the gross margin, we said before, was based on our views that we would, in 2020, ship a combination of a 125 wafer-per-hour tool and a potentially higher wafer-per-hour tool.
+so that helps.
+so we cannot collect a real good sales income from a wafer -- sorry, from a sales per wafer system that we're going to apply going forward.
+peter, i was interested in some of the comments you were making in terms of euv tool shipments or capacity, and you guys have talked specifically about 2019 and the sort of the 30-unit level in prior quarters.
+is that the case?
+yes.
+so i think from a supply point of view, we are more confident about the 30 units.
+there are some activities on the latter, so the multinationals into china.
+and that's something that we have not full insight in, but that is a potential upside if they do this very well.
+and that in total is about 12 systems.
+and then 2024 onwards, we will see the high-volume introduction.
+but if i recall from the road map you've presented before, you'd said the next stage was 155 wafers per hour.
+and can you help us understand what this means for asps?
+i know you've said it will deliver value to yourself and the customers, but can you help us quantify that?
+we see r&d budgets going up.
+that, of course, is there to support the ramp-up of the higher-productivity tool.
+with progress we've made with euv, the fact that euv can be used on more layers, i think it is good to realize that our sales numbers beyond 2020 will also grow.
+and i think that is not a major hindrance for our customers to start introducing a higher-productivity tool because the benefits of the higher productivity are so large that they can deal with the initial higher cost of the consumables.
+but we as an industry are all working on driving the cost of the consumables down.
+i mean, it's been driven by the top 3 customers that we have in -- both in logic and in memory, and they will be the drivers also for our shipments in 2019. and we -- and our plan in dram is going to be part of that.
+amit harchandani from citigroup.
+and when they are more productive, they will produce more wafers, which gives us an upside in the service revenue.
+so how do you ensure customers don't defer taking delivery of the older generation b tool in situations where they don't have to ramp before 2020?
+i just wanted to check that you said that both q4 sales and q4 profit would be higher than the third quarter.
+next question is from mr. adithya metuku.
+so in light of this, can you provide some color on how much higher your euv gross margins in 2020 can be, higher than the 40% you've guided for, especially given the asp and productivity of new euv tools would be higher than what you've been planning previously.
+so that's probably not what you are suggesting.
+so we're not guiding on the quarterly.
+so i only have one question.
+oh, i think so because it's a matter of cost, but now it's a matter of when.
+i don't think it happens in 2019. it'll happen probably 2020 and beyond.
+but on the -- on your question on the r&d tools, you have to realize that when we started euv, it was completely new technology.
+it's mitch steves from rbc capital markets.
+on the other hand, we will then see that high-na comes up.
+thank you for participating.

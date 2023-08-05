@@ -1,0 +1,26 @@
+and, certainly, our customers are indicating optimism towards the demand requirements in the second half of the year, and especially, as inventory adjustments work through the system and as supply cuts, the effect of those come through the industry, as well as second half of the calendar year tends to be seasonally stronger, compared to the first half of the year, we do expect that by the second half of the year, we'll have an environment that will be improved, stronger, compared to the first half of the year.
+and just keep in mind that the long-term demand trends in our end markets of cloud, client, enterprise, graphics, all of these end markets, the trends continue to be strong, needing more memory and more storage ultimately.
+and then i guess just as a quick follow-up, dave.
+so, obviously, there will be periods of time where we do have inventory increasing for some period of time and then, of course, it will adjust down through the years as we -- as those demand and supply numbers get more aligned.
+but i think over the long term, we'll have it more aligned with ultimately where we want it to be.
+so opex will likely go up a little bit.
+we still think we have more work to do in terms of driving the mix towards high-value solutions in terms of improving our cost competitiveness, both on the front-end and on the back-end side.
+and we'll, of course, from time-to-time, use inventory as a lever to manage the profitability of our business and, of course, manage our customers' requirements as well.
+that's helpful.
+so the question is, how to think about incremental free cash flow generation?
+there's not a ton of deleveraging that will go on through the rest of the year, quite honestly.
+and so i would expect us to be -- continue to be good buyers of the stock, so to speak, through the next 3 quarters, and contribute a high portion of our free cash flow in the form of a buyback.
+and our next question will come from mark newman with bernstein.
+first question really, i'd like to ask on the supply adjustments you're making, you're taking down the guidance for both dram and nand production.
+for example, is that reduction of utilization?
+and, of course, our intention here is to align our supply output in line with the industry demand trends.
+i was just going to say, if you look at our gross margin guidance, it would reflect that we have a very good cost structure for our products.
+and in fact, in terms of cost, on a year-over-year basis, we actually, our cost reductions we believe both in dram and nand, will be above the industry.
+and as we noted in my remarks, that in our fiscal second quarter, the bits for dram, let me first talk about dram here, the bits for dram will be down on a year-over-year basis, and this needs to be compared with the long-term dram demand cagr of 20%, high teens to 20% range.
+and during the course of calendar 2019, we'll first be bringing out client nvme products to the market, and then later in the year, we'll bring enterprise and cloud nvme ssds.
+how do we think about that?
+i think what we have shown you today is that we are able to take decisive actions and we are able to take them fast.
+we of course continue to make very good progress on our technology nodes.
+so, all in all, 2019 and beyond feel very good about our technology roadmap, manufacturing roadmap capability, as well as overall cost capabilities.
+in terms of, on the capex side, just keep in mind that we have said that with the adjustments that we just have made, over wafer equipment capex actually is coming down in fiscal year '19 versus fiscal year '18.
+this does conclude the program and we may all disconnect.

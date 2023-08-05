@@ -1,0 +1,31 @@
+so maybe you can just kind of level set and put those things together and do you think the pickup in your business, is it primarily being driven by fundamentals or how much of this is maybe some of that inventory stocking because of trade concerns?
+we talked about our inventory actually improving faster than what we perhaps anticipated some time ago and overall we even see some shortages in some leading-edge products, particularly on the dram side.
+and especially when you look at the trends of through next year, 5g, you look at smartphone average capacities continuing to increase, both for nand and dram, and cloud demand drivers continuing to be solid, new platforms, new cpu architectures being used that allow greater use and higher use of dram capacities as well as there are applications driving more dram and nand.
+yes, maybe calendar q1 may have some cyclicality, but the industry fundamentals overall from demand/supply point of view i think in 2020 will be in a much healthier place.
+sanjay, i just have several questions just around the guided gross margins for the fiscal first quarter.
+okay.
+but the second piece is cost.
+and as we talked about, obviously, on the nand side, we're going to have very minimal cost declines as we kind of transition to replacement gate.
+the third piece is mix.
+if you look at the mix from just a move to high-value solutions that, of course, is positive, but what is overshadowing that is the mix of nand and dram.
+and of course, nand has a lower gross margin than dram.
+our next question comes from mitch steves with rbc.
+but one of the bigger questions i have was just your commentary about pricing getting better, but then you're talking about gross margins going down on a higher revenue base.
+so we are very proud of that accomplishment and 96-layer is continuing to ramp during the course of our fiscal year 2020. in fact, 96-layer will be the major driver of our nand bit growth in fiscal year 2020.
+as i mentioned in my prepared remarks, with respect to replacement gate, we have seen now functionality and yielding dies.
+so on the inventory question.
+i would say in terms of days.
+now the adjustments we've made to our supply, both in terms of capital spending reductions and in terms of utilization adjustments, we have brought our inventory down pretty meaningfully this quarter.
+and so in order to support the increased demand next year, we will have to utilize this inventory for that purpose.
+and of course, there is an impact of huawei in terms of our overall business.
+i was wondering if you can kind of elaborate on that particular comment.
+yes.
+and in that context, i'm surprised with your nand bit demand projection for next year.
+but overall, the cloud demand trends are solid.
+so i think in fiscal '20, the main focus for us on nand will be to continue to increase the mix of high-value solutions.
+and most of it driven by the progress on the managed nand side.
+so these are all opportunities for us in fiscal year '20, but no question that at the die level our cost reduction capabilities will be overall limited in terms of the cost reductions due to the rg transition that we talked about earlier.
+last year, expected to be in calendar year '19 around 4 and a pretty similar double-digit gains continuing.
+they require more dram as well.
+thank you.
+you may now all disconnect.

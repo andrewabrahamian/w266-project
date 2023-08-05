@@ -1,0 +1,37 @@
+i know it's a tough q3 comp, but could you comment a little bit about that?
+sure.
+we did the souq acquisition last year in may, so the full pick up on that year-over-year was in 2017, and now, we're lapping that.
+india, although diwali moved into q4, so far, that's going really well.
+we've seen great response from customers.
+but without whole foods, we still grew 38%.
+again, the theme here is going to be banking some of the investments from prior years and looking to gain greater control.
+it's -- we're making that investment to match up with very strong fulfilled by amazon demand and afn, or amazon-fulfilled network units, that are growing at a faster rate than our paid units.
+so we are really happy that, again, we're seeing great cost performance in a number of areas across the business.
+this quarter, 46%.
+yes, thanks for your question.
+we've had sequential increase in growth rate the last prior 3 quarters, i believe, it was.
+i wouldn't point to any specific country.
+much of our -- not only our revenue for the quarter but also for the year comes in that very tight window between middle of november and the end of the year.
+we'll just have to see how revenue comes in.
+that has, again, been caught up for in prior quarters.
+we think it's been a great addition to our fulfillment capacity.
+our next question comes from the line of eric sheridan with ubs.
+so how should we think about that 15%?
+is that not a good reading indicator on growth into 2019?
+two quick questions.
+first, can you quantify the contribution of pillpack acquisition in the quarter?
+they're very strong.
+and your comment on revenue versus operating income versus potentially gross profit, i would say the impact of third-party growth, and we're now up to 53% of our paid units in the quarter were a third party, it's steadily been going up.
+so i think the impact on revenue growth rates, since the revenue component of that is not as large, is probably something to consider on a year-over-year period.
+so are we kind of close to being at a full ad load?
+and does that fit into your broader advertising growth strategy?
+so yes, we are seeing really strong adoption across a number of groups, amazon vendors and sellers, for sure, authors as well as third-party advertisers who want to reach amazon customers.
+so we don't think -- we'll continue to invent both on the product side, the tools side, with our goal being improve the usability of the tools for advertisers, make smarter recommendations for customers, automate activities so that advertisers don't have to work as hard and invent new products for advertisers.
+i mean, one, we're bringing a lot of cool hardware options to customers.
+and then also delivering tools for developers, helping them build for and really with alexa.
+any color you can share there?
+i mean, i think so much of what we're focused on is making sure that there's a high degree of relevancy and usefulness for customers when you look at advertisements that you see on the site, in particular, and how we position those.
+i'd mentioned earlier the linkage with prime member savings at whole foods market that we set up in q2, the expansion of grocery delivery to more than 60 cities in the u.s. using prime now and whole foods stores, the ability to pick up groceries from whole foods, adding content.
+yes, just on the -- this is dave.
+and that's something we work very hard in all our businesses, including aws, to do that.
+so when you look at aws now, we've lowered prices of 67x since we launched, including a few more in the last few months.

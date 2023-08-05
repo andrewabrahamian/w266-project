@@ -1,0 +1,30 @@
+thank you.
+brent thill, ubs.
+we're continuing to expect strong annuity growth.
+the next place where we're very focused on is really the new scenarios, and e5 is obviously a big element of it.
+you'd expect to continue to see installed base growth, as even some of the items satya talked about have more relevance, and continue to make us, the value prop higher, even in small business, which is where you've seen new user adds.
+sure.
+we'll take the next question, please?
+great.
+every server product of ours has cloud enrollment rights, whether it be sql, whether it be windows server, and you'll see that increasingly, even in this next wave of servers.
+so to your point about margins, i feel that we actually will have software licenses with hybrid rights.
+we will have [ias] services, and you talked about the existence proof, at least from amazon about what margins at scale can be achieved there.
+and because frankly, we saw that macro weakness, you've even seen it, in terms of server shipments, right?
+it's weakness across workloads, which tends to make more sense, frankly, with a macro or a budget it spend constraint.
+amy, this one for you.
+and is there any way that you could sort of bracket what the gross margin percentage decline might be in fy17?
+you probably don't want to give specific guidance, but maybe some high level color?
+you're right, we saw about a 200 basis point change this quarter.
+and you're right, we do expect to see, and continue to do that as we lead into 2017, within the overall envelope i discussed.
+should it be more like it's been in the past, where you've had very conservative assumptions, or more like what you just did here?
+i give the guidance that i expect for the quarter, and i do it on the earnings call to the best of my ability.
+what you've seen this quarter is in fact the biggest in-quarter delta for us all the time is the non-annuity performance, than in our -- all of our segments, that is transactional business, that is the most impacted in quarter, by budget changes or macro changes.
+so i don't think it's a philosophical shift.
+but overall, continuing to see the renewals we've seen, continuing to see the cloud growth we've seen, i'm not sure i think of it as a fundamental trajectory change, outside of that component we discussed.
+in terms of overall, rough orders of magnitude, the intelligent cloud segment has the least exposure to the transactional business.
+as you look at the results this quarter, and the -- as you pointed out the op margins in intelligent cloud and business process productivity that were impacted due to the shift to the cloud, do you think that as you look into next year that the cloud business is at scale, that it continues to grow and take share, relative to overall revenue?
+thanks for the question.
+so for the first time now, we have the ability to go to an enterprise, and talk about their entire data estate across windows and linux.
+and so, we think that that's a very good incremental opportunity for us.
+i think you made some comments around some iot applications that are now sitting on azure.
+this concludes today's teleconference.

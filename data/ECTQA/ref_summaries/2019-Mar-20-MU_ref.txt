@@ -1,0 +1,28 @@
+okay.
+but over the long term, you would see us be in this low-30s percent level.
+and second half of the calendar year, with respect to demand improvement, we'll be -- demand will improve in the second half of the calendar year compared to the first half of the calendar year.
+sanjay, i guess, i just wanted a little bit more detail behind the decision to actually shutter some dram capacity in the current quarter.
+there seems to be a little bit of a reversion from that.
+i'm wondering if you can help us understand what the cost implication of that is.
+the second node of replacement gate will get higher layers later compared to the first node.
+i guess, a 2-part question.
+in dram, the reduction in supply growth is a result of this idling capacity, idling wafer starts is bigger impact.
+our next question comes from the line of harlan sur of jpmorgan.
+so back to a question on inventory.
+and that is already -- we are guiding to bit growth in dram for our f q3, and that should continue in f q4 and for the rest of the year as well.
+and the trends of increasing average capacities in smartphones, both for dram and nand, continues to be intact.
+all of that bodes well for the long-term demand trends as well.
+so why would you reduce starts now if you're so optimistic about demand coming back in the back of the year?
+and we believe that this improving demand environment, second half versus first half that i referred to earlier, we will be able to capture the benefit of that with our supply cutbacks that we have mentioned and also help bring our -- over time continue to drive improvement in our inventory position as well.
+so it seems like some of these actions have to ultimately impact your ability to cost-down vis-à-vis that level.
+but one of the advantages of carrying the inventory we're carrying, 64-layer and 96-layer inventory in the next year is that it has a very good cost structure, and so we should have a good cost structure in 2020 on nand as well.
+it won't be counted as part of the cost.
+and as i said, it's implied in the guidance of the margins we gave for the fiscal third quarter.
+so as we said -- i mean, we have high levels of inventory currently, both in nand and dram, and it gives us an opportunity to bring our production to be in line with demand.
+and again, applications are also advancing toward features that require more and more storage.
+we have just brought our first nvme client drive into the market, and later this year, we will have nvme for enterprise and cloud applications as well.
+and over the course of next few months, by mid this year, that inventory will be returning to normalized levels to a large extent.
+and i guess, i just wanted some confirmation around that.
+that combined with -- are starting to see some benefit.
+you might want to put it on mute.
+we'll start to see these reductions in the dram inventory levels.

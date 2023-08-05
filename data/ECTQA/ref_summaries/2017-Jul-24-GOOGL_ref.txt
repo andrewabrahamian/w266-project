@@ -1,0 +1,31 @@
+and so obviously, when you think about it from that standpoint, local becomes important.
+first one for ruth.
+can you just talk about your strategy in building out that cloud infrastructure, how we should think about it in terms of building out extra capacity or whether it's more in line with near-term demand?
+thanks.
+we have strong positions in healthy, growing areas and are adding really exciting additional growth areas.
+first, i think, really, to your question on an over time point, you can see the impact of the timing shift in the equity refresh, which we discussed previously.
+we're focused on organizational effectiveness to make the most of all of our resources, and all of that really underpins the goal to sustain both revenue and earnings growth over the longer term.
+we are continuing to do it well.
+and our next question comes from mark mahaney of rbc capital markets.
+i had 2 questions, please.
+so are there any reasons why that wouldn't be the case in the next year or 2?
+so on the first question, there are obviously a number of factors that affect sites tac.
+we've talked about them over time.
+but the increase in sites tac year-over-year, i think what i would stress is it really provides another lens on just how strong our mobile business is.
+and on questions around visual search, when we think about google lens, we think about it as a set of capabilities, which will roll out across many different products.
+i think early days, we want to make sure it works well for use cases where it can and bet on the long-term trends in computer vision as we make progress there.
+one for sundar.
+so all that starts adding up and i think pushes in this right long-term direction.
+but i think as users use everything across multiple products and devices in a thoughtful way, i think making all of this work well, we see it as a opportunity ahead of us.
+i was wondering, could you give us a couple of examples of micro-moments or search verticals where you've really seen an increase in your monetization over the last year?
+so i think that applies generally broadly.
+i'd be curious to hear that.
+oems get to distribute other apps as well.
+so on -- as you know, we don't break out by product.
+there's really not much of an update there.
+but within our own products, we are trying to help users get a better experience across on the consumer side and the advertising side, and i think there is opportunity there.
+what's extraordinary about that team is with the focus on users and advertisers, what is it that is most useful.
+i wonder if you could update us on your thoughts regarding the conversions of chrome and android operating systems.
+so if i look at youtube on mobile, on emerging markets, on larger screens, they all look like newer opportunities, and so i think there's a lot more growth ahead.
+and the combination of not just gcp, g suite working together with gcp, we are seeing increasing win rates and adoption across enterprise customers.
+thank you, and that concludes our question-and-answer session for today.

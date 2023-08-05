@@ -1,0 +1,37 @@
+so our q1 revenue guidance was up 32% year-on-year, and if you take a look at that, it's actually significantly better than our typical seasonality.
+so we see gpus, ryzen and epyc, all up in q1, and that's contributing to the strong guidance.
+okay.
+yes.
+so what you should be -- expect with semi-custom is, on a full year basis, the revenue will be likely down compared to 2017 just due to where we are in the cycle, and units will be down.
+but again, back to the -- your question -- your initial question on the q1 revenue guidance, it is really driven by new product strength.
+what happens to the net debt in the first half?
+typically, we invest in the business.
+our next question is coming from mark lipacis from jefferies.
+yes, absolutely, mark.
+we announced that the large oems are now qualified and starting to ship to end customers.
+on the cloud side, we have publicly talked about microsoft azure as well as baidu adopting epyc in their cloud of environments.
+if you look at blockchain in particular, our estimates are that it was about 1/3 of the growth, 1/3 of the $140 million, and then the rest of the 2/3 are around the gpus -- the other segments of gpus and ryzen.
+can you give us a feeling -- do you expect q1 to be the trough for gross margins through the year given you're guiding in line to maybe a little above for the year, where you're guiding q1?
+so as we -- starting off with 36% margin in q1 is a good start.
+for my follow-up, i know your competitors saw some unusual strength in the enterprise market and enterprise spending in q4.
+although i wouldn't say that, that's necessarily a market trend.
+for my first one, just a clarification.
+so that impact in the first quarter sort of guidance would have been about, let's call it, $100 million or about thereabouts.
+and so that might help you calibrate where we are.
+yes, lisa, very helpful.
+lisa, while the year-over-year gross margin improvement has been strong both in the calendar sort of third quarter, fourth quarter and now on the guide in the first quarter, the sequential gross margin leverage is perhaps a little bit less than i would have thought, especially as you move into q4 and q1 and semi-custom comes down.
+and i'm curious, is there any sort of unusual expenses around spectre or meltdown that's going on?
+so the product that we announced with intel was a semi-custom graphics product.
+and we are also actively working on cpu products in the 7-nanometer technology as well.
+just trying to get a sense of the contribution from that segment in your q1 guidance.
+that's one factor, but we do see strength across the rest of our gpu business as well as our cpu business with ryzen and epyc.
+i do expect a steady ramp of epyc as we go through the year.
+it's pretty immaterial from that standpoint.
+so seasonality for the semi-custom business changes.
+and then, lisa, just another clarification on ryzen.
+but overall, i think we saw very strong growth.
+and then it gets better in the second of the year.
+obviously, we have managed it pretty well, but supporting the higher revenue from the strength of the business is going to be the key from that standpoint.
+and 2018, we are guiding to free cash flow being positive for the year.
+if we look at the double-digit growth for this year, what are the absolute dollar drivers in terms of which product categories do you expect within epyc gpus for machine learning or for ryzen if you were to rank order those in terms of absolute dollar impact this year?
+we thank you for your participation today.

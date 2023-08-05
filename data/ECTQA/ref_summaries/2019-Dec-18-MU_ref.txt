@@ -1,0 +1,29 @@
+because on one hand, you're talking about some shortages.
+so shortages on the leading-edge nodes on dram.
+the assembly and test constraints will be eliminated largely by the end of fiscal second quarter.
+congratulations on the solid results.
+sanjay, i wanted to talk a little bit about the capex guidance for this fiscal year.
+i think i understand the strategy around nand to, kind of, constrain spending on the first generation of replacement gate where cost downs are de minimis and, kind of, weighed to version 2.0. but i'm kind of curious, as you think about the dram strategy, especially given that demand came in much stronger than expected, this year, 20%, and there were some of us that thought at the beginning of the year, we'd be lucky to get to low double-digit growth.
+certainly, as we move our dram production to leading-edge node, for example, through 1z that we mentioned that we did very well with ramping 1z dram node in our mobile products during the quarter, so of course, those give us bit growth.
+and in fiscal year 2020, we -- in calendar year 2020, we see our supply growth to be somewhat above the industry supply growth.
+but all in all, our strategy is to have our supply growth cagr to be aligned with the industry demand growth cagr.
+so certainly, 5g will be a growth driver.
+so at this point, we are not providing guidance for any time frame beyond our fiscal year 2020 in terms of capex.
+but as we have always said, we have been evaluating euv technology.
+that's how we will manage it, and we'll share those details with you at appropriate time in the future.
+as you think about your inventory, as you move through the year, i understood some of the aggregate commentary, but can you be a bit more specific?
+and when you talk about 110 days, sanjay, is that being on a more normal level of inventory, just given because the company is going to be carrying the extra nand inventory for the replacement gate node?
+yes.
+secondarily, of course, our goal is to generate good free cash flow.
+that may or may not happen this quarter, but clearly, we're on the right track in terms of generating positive free cash flow for the company.
+our next question comes from harlan sur of jp morgan.
+so these are all the trends that actually point to continuing higher-than-industry-average level of growth for drams in the cloud and server.
+so i think the demand drivers and our thesis that has always been there that the industry has strong demand drivers has very much been intact.
+and what's the differences between cost per bit on 1z compared to 1y?
+what's the reason for the pull in?
+there's, of course, chinese new year as well that can play a role in the china demand.
+have you seen it yet?
+it enables us to gain greater stability, greater margin opportunity through the cycles as well as brings us closer to understanding the application landscape with the customer, and i'm very pleased that micron is executing quite well with respect to achieving our objective in this area.
+so obviously, high-value solutions, the reason -- one of the major reasons we're shifting the strategy to high-value solutions is because they carry higher margins.
+that would be helpful.
+so 3d xpoint, certainly, as we said, exciting opportunity for us longer term.

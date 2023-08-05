@@ -1,0 +1,37 @@
+sure, matt.
+so yes, as it relates to how the year is developing, it's developing largely as we expected when we started the year.
+so maybe you could talk a little bit more granularly about the drivers of q2, just given that it's a bit of a transition for a whole new portfolio rolling out, and if there's any kind of color on contributions from older or newer products in the second quarter guidance, that would be helpful.
+i think starting with server, again, it's the greatest percentage of growth, and it really is the start of some shipments of rome.
+we expect that rome will launch here in the third quarter and there's some preparations that need to be done for that.
+look, as we look at the server market, we know very well that the data center market takes time to ramp with any new product.
+and q1, the mix shift did more to enterprise and channel.
+and from that, the asps were higher, the units were lower and so again, largely as we would've expected.
+sure.
+so yes, we are very pleased with our partnership and expanding our partnership with sony on their next-generation consoles.
+as we see the semi-custom business at this point, we still believe that it's going to be down substantially in 2019. let's call it approximately 20% plus.
+and then on the follow-up, in your prepared remarks, you mentioned that data center cpus and gpus accounted for about mid-teens percentage of your revenue in the quarter.
+like what's going on with the gross margins?
+can i rank order the growth by business?
+you're guiding 29% for the year-on-year, $510 million in q2, and obviously, high single-digits for the full revenue.
+as you know, we are preparing for a strong series of significant 7-nanometer product launches this year and also share gains as we get to the back half of the year.
+and as you have seen us in the past, we do have a way of modulating the opex as needed, but right now, we are investing in the road maps, we're embarking on product launches and the go-to-market activities and very focused to make sure that we are well positioned in the first half going into the second half where we see the revenue lift compared to the first half of 2019.
+does that apply opex -- do see opex going up from current levels for the rest of the year then?
+or does it go down or does it stay flat?
+the client and data center businesses are higher than corporate average and the semi-custom business and graphics, as we just said on the last question, are lower than corporate average especially on the graphics consumer side and the data center gpu side obviously is better.
+i think early in the year in the second quarter, we are getting the second quarter [at our] 41% guide and our guidance for the year is greater than 41% on an annual basis, is what we have stated so far.
+okay, great.
+your next question today is coming from mitch steves from rbc capital markets.
+no, we haven't done that.
+but i think the gross margins are below corporate average.
+our next question is coming from mark lipacis from jefferies.
+i had a couple of questions on the server strategy longer term.
+or to what extent does your customization strategy fall under your semi-custom model?
+as it relates to customization for server cpus, there are varying degrees of customization that customers want, especially as you go through a number of the different cloud workloads that are out there.
+so we view that as a early opportunity for us but one where there is a lot of opportunity to help customers really optimize for very high-performance computing applications.
+first, you have naples now and rome server shipping soon.
+at what point does pricing matter, and at what point does your feature list matter more?
+in general, what -- do you need to do anything extra to attract enterprise customers?
+the pushback that we get, i don't know if i would call it pushback.
+things are progressing well.
+that does conclude today's teleconference.
+we thank you for your participation today.

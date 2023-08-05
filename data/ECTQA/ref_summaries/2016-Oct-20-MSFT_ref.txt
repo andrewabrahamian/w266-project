@@ -1,0 +1,25 @@
+thank you.
+overall, again, i go back to how we think about azure.
+can you talk to us about where we are in that cycle of guys moving from e1 to e3?
+excellent.
+we will take the next question, please.
+so i am actually as excited about new cloud growth from new cloud workloads from the same customers, so the most interesting thing that i am observing is that it could be the same model of customer that was participating with us in the client server area who are not just building or moving their it, but they are building new digital services for hyper-scale.
+question for amy.
+mark moerdler, bernstein.
+but amy, i will let you add to it.
+there is going to be variability.
+as it grows at the pace we've seen, it does impact quarter-to-quarter the overall commercial cloud revenue mix.
+do you expect to see, as we get towards the end of the year, that the two enterprise cloud segments move positive and mpc is not as much of a driver?
+you will also continue to see us invest where we see massive market addressable expansion with sales capacity as well.
+and so, it can make a bit of a distraction towards seeing the underlying trend.
+so whether or not the term were to change, given how we recognize revenue, i would you let know if it was going to be material.
+raimo lenschow, barclays bank.
+and amy, if you could just comment on the margin structure of your azure business relative to aws, and if you have time, talk about the windows 10 cycle.
+it is also because of the design point we have around not just azure, but as well as dynamics 365 and office 365, and the extensibility of our cloud services across all three of them.
+in terms of the gross margin question, i feel very good to talk about this quarter, about our improvement year-over-year and remain confident that we are heading in the right direction.
+and so, i think when you think about that plus the breadth of our offerings, i think we're pretty confident.
+thank you very much, and congrats from me as well.
+so it's really the combination of sql advanced analytics and the cloud, with things like azure data lake, that are really the choices customers are trying to make as they think about their digital capability and the next generation of services and both the storage and processing capability they need.
+so the way to measure, though, from the investment side, is to see ai when it is infused into everything we do.
+we are committed to long-term research, but we're also very focused on having the long-term research translated into everyday use products, and that's what you will see from us going forward.
+this concludes today's teleconference.

@@ -1,0 +1,23 @@
+great.
+if there's anything you could share with us around that.
+so that pace of depreciation doesn't change per se.
+i feel confident in our ability to produce gross margin improvement across all those services.
+this has been happening over multiple years.
+amy, there were a lot of numbers in this print that look very strong, but one that stood out to me was the commercial bookings growth of 30%.
+one is, you mentioned that maybe part of the strength was terrific execution on renewals.
+let me start by saying the biggest driver in commercial bookings growth this quarter was excellent execution on a large base of renewals.
+and so when you start to see that, you can and i do think we'll continue to see good growth in this number.
+and so that's helped us, in fact, come up with microsoft 365 as this very strong offering that brings together office 365, windows 10 as well as our enterprise mobility + security and support even cross-platform devices.
+and so while we, of course, get some strength from our largest geos, and i would say they were probably the largest contributors, it was actually quite broad.
+we did that.
+you saw that in the operating -- in the intelligent cloud opex growth over the past few quarters.
+and just finally, i'm wondering, again, looking back 3 years, it was a different number in the september quarter that follows, and can you help us just with the year-over-year growth of the expiry base for the september quarter?
+i'm not sure if you had commented on that.
+and it turns out that it's helpful to think about it that way both for customers who are rationalizing their portfolios of apps as they lift, shift, modernize as to what they run in their data centers or in our data centers but also forward-looking new workloads.
+azure iot or azure stack are becoming the run times of the edge, where you do need not only the ability to do compute and storage but to run the ai inference and the edge.
+and so that leads why i always tend to say i don't focus as much on the mix per se.
+so q1, i would say, is just up a little, so i wouldn't expect any material impact.
+our next question comes from the line of raimo lenschow with barclays.
+amy, as the azure business continues to gain scale and, to raimo's question, the premium mix continues to become a bigger part of that, is there any reason to think that the gross margin gains shouldn't accelerate in '18 versus where they were in '17?
+so that wraps up the q&a portion of today's earnings call.
+thank you.

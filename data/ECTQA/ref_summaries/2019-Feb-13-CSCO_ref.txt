@@ -1,0 +1,38 @@
+yes.
+and then i have a follow-up.
+so i will tell you that we saw minimal impact.
+remember, in q1, we had the extraordinary $400 million payout from arista, but there's nothing in q2 besides that.
+so the drivers we had are really just again the headwinds being the component costs in q2, that turns around.
+yes, ittai, thank you.
+so we built aci in the data center.
+so -- and you're going to see even more announcements over the next few months relative to extending that.
+so think about an application that's either running in the cloud or running in the data center that requires a certain policy that gets deployed across all those domains, and i think that's the thing that our customers are really excited about.
+so i would say it's still very early across all those areas that i just described.
+i didn't catch the data center switch comment.
+so we are pleased with that.
+i think there's a couple of key differentiators for us, ittai.
+the whole intent-based architecture we have and the ability for us with our silicon to do real-time packet examinations for the customers and let them look at packet flows dynamically, there's a lot of differentiators, including a lot of power consumption advantages we think we're going to have.
+samik chatterjee from jpmorgan.
+chuck, i just wanted to check with you how -- what you're seeing in terms of momentum in the emerging countries.
+yes, order's up 6%.
+bricm was up 2%.
+i have 2 questions -- or 1 question, 1 follow-up.
+and one of the things they were saying is they think they're actually going to gain market share despite all the issues.
+what is your view?
+what kind of experiences you've had in the last few weeks and few months on the competition with huawei when you talk with or when you discuss this with the carriers?
+so first of all, the magnitude of the market opportunity in china skews the overall global market share numbers.
+well, i think when you just look at the raw 9k sales versus the installed base of the products that the 9k replaces, we are very early in that cycle.
+a quarter ago.
+we just started shipping this quarter.
+well, i'll make a comment, and kelly can add on to it.
+i don't think that the growth of the core fundamentally changes or -- our overarching acquisition strategy.
+we just announced again another increase to the dividend, just showing the commitment we have and the faith we have in the cash flows of the business, as well as just another increase in the share buyback authorization.
+and then are you comfortable giving a percentage of revenue, something like that, that we could get a little bit of an indicator from?
+yes, i would say, to the first part of that question, we are continuing to progress along those lines.
+it's about an architecture that really does have integrated security from the network to the cloud, to the edge, to email, where you're building a comprehensive integrated strategy, where you're seeing threats in one area and you're protecting across all those domains.
+first of all, i think our teams have executed incredibly well in light of a very complicated macro and geopolitical environment that we find ourselves in.
+and i have a high degree of confidence in our ability to execute.
+there's obviously a lot of variables, a lot of complexities, but we're pleased with what we accomplished last quarter.
+thanks for joining us.
+cisco's next quarterly earnings conference call, which will reflect our fiscal 2019 third quarter results, will be on wednesday, may 15, 2019, at 1:30 p.m. pacific time, 4:30 p.m. eastern time.
+we now plan to close the call.

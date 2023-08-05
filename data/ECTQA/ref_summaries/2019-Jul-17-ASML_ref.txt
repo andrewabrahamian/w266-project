@@ -1,0 +1,50 @@
+mitch steves from rbc.
+i just have 2 quick ones.
+yes.
+on the last one, it's '19 -- the 30% down is the total memory sales of asml into the memory segment as compared to 2018. and so that's what the 30% meant.
+so by the end of the year, we will be able to see really some, let's say, you could say, more marathon evidence of the 2,000 wafers per day.
+next question comes from mr. david mulholland.
+firstly on the euv bookings in the quarter.
+i am kind of following up from last question.
+you are really talking about the bookings now, the -- let's say, the bookings sequence in q3 and q4 going forward.
+okay.
+yes, on the euv bookings, i think the majority of the bookings that we shipped in q2 are for logic.
+because like i said, we have a production capacity actually between 30 and 35 units.
+i mean you can advance with the follow-up because you're right.
+and they are lowering their wafer starts, i mean something will happen.
+so this is -- so it's too early.
+and if you're able to hit them, what are you thinking about layer count as we transition to 1 alpha?
+i think it's an interesting question.
+and like i said in previous quarters, also it's not only the economics, i think we also get a very clear feedback that the device performance using euv is also significantly better.
+and then as part of that considering you're likely building emergent tools for memory and then having to build for logic, are there any negative gross margin implications from that change over?
+no.
+i don't think it's a pull in.
+i think that the majority of what we're seeing is incremental.
+and you're also suggesting that your gross margin in q4 is likely to be quite close to sort of the 50% range, the high 40s.
+or would that shipment be entirely 3400cs?
+a couple of comments on the gross margin.
+it will be higher, right.
+and actually the road maps of our customers are more aggressive because of euv and because that it works, i mean they see the results today.
+and then how do we think about the trade negotiations between the u.s. and china maybe impacting the timing of equipment installations there?
+that's happening this year.
+that's helpful.
+free cash flow clearly is very back loaded.
+and now having said that, we are negotiating with our customers from time-to-time.
+we work together with the suppliers and actually making all the facilities and all the piping and then -- and everything that goes with a semiconductor fab.
+and that gives us the confidence that while some customers might not adhere to the 18 months for all kinds of commercial reasons and that they sign the orders a bit later, the tool will ship, and that's how it works.
+we've pushed down the accelerator last year on r&d.
+and what do you think is going to be your long-term capacity for euv tools post this 2020, which is the big initial ramp up of euv?
+i just was trying to clarify on that one.
+but it cannot only be taken up by productivity improvement, so we need more euv tools.
+but currently, i would say 45 units for a system with higher productivity capability, that should be sufficient for next couple of years.
+the next question comes from krish sankar.
+and we're comfortable that we'll get there in 2020.
+next caller?
+i'm just kind of curious you talked about in your prepared comments that the non-euv memory revenue for the back half of the year needs to be about eur 900 million.
+or could you actually envision a scenario where memory would actually go lower from these levels?
+it will turn whether it's the end of the year or beginning of next year, i mean i don't think it's going to last out a lot longer.
+it's pretty obvious that in the memory space, dram space, there should be a pretty high correlation as productivity goes up, economics make more sense and even intra-node insertion of more layers seems like very plausible for dram.
+so this is what -- and this is normal when you introduce a new system, which has quite a significantly number -- higher number of new parts in it.
+but how much it is, i don't think we should discuss this in this call.
+i mean we don't know how this is going to pan out.
+thank you for participating.

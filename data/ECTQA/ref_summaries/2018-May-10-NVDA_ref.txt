@@ -1,0 +1,61 @@
+how are you looking at that?
+okay.
+but my sense is that there's a fair amount of pent-up demand still.
+and how you optimize for different neural networks, whether it's image recognition, speech recognition, natural language translation, recommendation systems, all of these networks have different architectures, and the optimizing compiler that's necessary to make the neural network run smoothly and fast is incredibly complex.
+for example, we invented recently -- reinvented the gpu and it's called the tensor core gpu, and the first of its kind is called volta.
+what needs to happen for the next inflection?
+how do you go and address that $50 billion market, right?
+so any color on both sort of how you look at growth and competition would be very helpful.
+with respect to the -- our ability to address the tam, there are 3 major segments.
+one is, of course, training for deep learning.
+we've taken with grid and our quadro virtual workstation and now with quadro -- with nvidia rtx, we turned the data center into a powerful graphic supercomputer.
+and high-performance computing, the way to think about that is, i think, at this point, it's very clear that going forward, supercomputers are going to get built with accelerators in them.
+and the core is that the cpu scaling has slowed.
+and so the world needs another approach going forward.
+yes.
+and we felt that using one gaming brand, a graphics card brand and interchanging the gpu underneath causes it to be less -- causes it to be more opaque and less transparent for gamers to choose the gpu brand that they wanted.
+muse with evercore isi.
+so i would love to get your thoughts on, a, the current state of benchmarks for ai workloads.
+thanks for the question.
+the fastest single gpu, the fastest single node -- single computer node.
+and one instance, one cloud instance.
+and so you need a lot of software capability and you're -- the versatility of your platform needs to be great.
+from architecture, to system software, to algorithms, to applications, we have a great deal of expertise across the entire stack.
+next question is from blayne curtis with barclays.
+the reason for that is there's just an explosion in the number of different types of neural networks that are available.
+the second will be in vertical markets.
+and so in the vertical markets, we're going to see inference both in the data center for developing the self-driving car stack as well as in the self-driving cars themselves.
+and that's the reason why we're so determined to go create that market.
+i actually wanted to go back to the question about seasonality for gaming in june.
+we are expecting the -- we are expecting q2 to be better than seasonality, if i understand your question.
+i have a question for colette.
+your gross margins have been expanding on product mix, despite component pricing headwinds on the dram side.
+when do you expect component pricing to become a tailwind to your gross margin?
+we call it the tensor core gpu.
+the initial deployment is for internal consumption.
+and now they're starting to open up volta for external consumption, their cloud customers.
+your next question comes from mark lipacis with jefferies.
+our own fieldwork is indicating very positive reception for dgx.
+and what, when dgx-2 starts to ramp in the back half of the year, is that -- is it something that kind of layers on top of dgx?
+so the question was on the dgx family of products.
+i was wondering, jensen, if you could help us understand the high-growth you've seen in the data center market.
+thank you.
+so its growth rate is obviously very high.
+and so dgx is really designed for enterprises and we're seeing great success there.
+again, a very small part of our business right now.
+and so the thing that we -- our strategy is to create a sku that allows the crypto miners to fulfill their needs, and we call it cmp, and to the -- as much as possible, fulfill their demand that way.
+it took us 1 decade to do.
+so it takes a server, one node of a server, several hours to render one frame.
+and in order to render 30 frames per second, just imagine the number of servers you need.
+and we're now doing it in real time.
+unfortunately, they are moving quite fast to the next question, so i wasn't able to add on.
+but let me see if i can add on here and provide a little bit of clarity in terms of the seasonality.
+we left q4 with very low inventory in terms of the channel.
+that be really helpful.
+let me start off here, and i'll have jensen finish up on the last part of that question.
+volta is doing extremely well.
+the bottom line is, pubg is a home run.
+and more and more -- more gamers that play, more of their friends join, and more of their friends join, more gamers that play.
+gaming was strong.
+we're delighted to see prices normalizing and we can better serve pent-up gamer demand.
+and our invention of the tensor core gpu has further enhanced our strong position to power the ai era.

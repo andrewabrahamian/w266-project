@@ -1,0 +1,40 @@
+my first question is on euv.
+yes.
+so when that is done, then customers start preparing their integration wafers and then basically running them in what we call marathon tests of sometimes months, sometimes quarters.
+and we expect that customers will repeat what we have seen in our own factory, simply because we have the 3350 there since the second half of last year.
+don't forget that customers don't run 1,500 wafers per day at the current level of the n7 rollout.
+so it's the capability that we need to show on a regular basis, plus the agreed upon results out of marathon tests regarding availability and productivity.
+yes, if you look at our total backlog, you see about a quarter is in memory.
+timothy arcuri, cowen and company.
+so it's not one customer, it's pretty much every customer.
+following on from that, when you look at the third quarter, when you talked to us in january and you had indicated eur1.3 billion in the first quarter, you had indicated that you would see this significant ramp of revenues into the second quarter.
+so it's relatively safe to assume that the second half is going to be stronger than the first half of the year.
+this is wolfgang.
+but in summary, we look at our forecasts and we are very confident that we grow the number year-over-year by about 10% or so.
+thank you.
+i guess first question, now that you have pretty decent visibility into the 10-nanometer ramp, curious how you're thinking about litho intensity relative to [2016, 2014]?
+so i'm just wondering how should we think about the balance of this year in terms of revenues, and then also looking into 2017, because i think by then you probably would have built up a backlog of, i guess, six or seven euv tools for which you may have recognized half, possibly less, in a gross margin dilutive fashion.
+so i'm just wondering how should we think about from a phasing perspective about that.
+so you see we are making some progress, which also makes it easier for us to recognize revenue.
+i won't give you a number here, but the additional units that we are shipping, plus some of the performance milestones on the revenue that we already recognize that we may achieve this year will certainly lead to more euv revenue this year.
+but if you go to a 7 nanometer insertion, or 7 nanometer equivalent, and we talked early about dram going to be around the same time, when you look at order lead times, people will have to take delivery starting end of 2017 and beginning of 2018.
+so, yes, you'll have a carryover, it's hard to tell you what that number is.
+just a bit of a follow-up on that last one, in terms of the -- sort of the planning for production next year.
+i still like to refer back to what we said at spie, or what the customers said at spie.
+and then we'll see the first results and that will drive also the order interaction with us and the customers.
+well to answer your last question, a step down in the [particular] node, that is not what we anticipate.
+what are they trialing the 80% availability, what are they (multiple speakers)?
+we often get asked why is your system revenue flattening out.
+and now we are at a pretty decent level.
+can you say whether the services and field options have higher or lower margins than the systems business?
+there's a lot of software in there also.
+it must have quite a bit of visibility to it.
+so if we would report that differently, some of the options have longer order lead times.
+amit harchandani, citi.
+two quick clarifications, if i may.
+firstly, with regards to the topic of equipment reuse, we have again seen some comments from some of your larger customers that have reported q1 results, talking about reusing equipment.
+and then i have a follow-up.
+logic is going to be up second half, memory is going to be stable, h1 versus h2.
+but i would summarize it like this.
+i said, the number of customers that over the last couple of years have been able to start an initial new logic node has shrunk, there is only a very few.
+we will give you update when we get the orders.

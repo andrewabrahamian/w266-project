@@ -1,0 +1,33 @@
+so can you speak to the accuracy of that?
+yes.
+it's been a fulsome growth for us over time.
+okay.
+so first, i'd say in our -- obviously, we're well into skylake, but the transition now is into cascade lake, and that's a higher performance sku.
+and we realize it will be a more competitive environment, and we've tried to capture that in essence in how we think about 2020 for both demand equation but also the margins that we've flagged a little bit on the -- on our q2 call back at analyst day, i think.
+from the last 2 years, i think, as you know, we've spent over $30 billion in capex to both have more capacity for 14 while we also begin to ramp 10.
+in my prepared comments, i said we added 25% wafer start capacity 2018 to 2019. our first half to second half unit volume will be up double digit, so we're making good progress throughout the course of the year, but our expectations were in the second half we will be back in a supply/demand equilibrium.
+second, we -- when we put the design rules in for 7-nanometer, we were less aggressive in terms of density.
+our learning from going from 14 to 10 is -- with the benefit of hindsight, we were just -- we tried to scale at a 2.7 factor, and that was -- that ended up putting too much indention or revolutionary nodes into the fab environment to meet those kind of hurdles.
+we've had euv that we've been working with for a few years now.
+our next question comes from the line of pierre ferragu from new street research.
+let me -- a little better now?
+i think you were talking about competition and how we feel about that now maybe...
+both at the pc and the data center level.
+and in that world, we just raised our full year outlook by $1.5 billion and increased our operating margin.
+so yes, i think, competitively, nothing's really changed in the last 3, 6, 9 months relative to what we expected, and our -- the only thing that's really changed is our performance.
+but we do know that, going into next year, that our role is to dramatically expand the role we play in our customers' success.
+so we're expanding the product, the architectures, the packaging technologies, the process capabilities and the software that we build so we can continue to deliver better and better product performance for our customers.
+i was wondering if you could tell us, within your enterprise, cloud and comm businesses in dcg, in the quarter, how much of each of those was driven by china?
+and given the 200-millimeter -- $200 million pull-forward across enterprise and cloud that you mentioned -- enterprise and comm that you mentioned, was that beating enterprise relative to your expectations more or less than $200 million?
+but as we look at the e&g growth in particular, we're trying to determine what is kind of -- what has the tendency to like pull in versus what can we count on as we project things forward.
+or is that sort of off the table for now?
+i mean, first, to the comment, yes, the -- nothing new about process relative to what we said at analyst day, ramp 10, 2-year cadence for 7 and our expectations that the cadence going forward will be more like 2- to 2.5-year time frame.
+our next question comes from the line of ross seymore from deutsche bank.
+but for the node transition, 14 will be a little bit better.
+we expect to do that again.
+so we believe that data center, we've been in pretty decent shape.
+so we're trying to put the capacity in place, but we think we'll meet the customer demand and try to give us the inventory buffer that has been depleted over the course of the last 9 months or so.
+we're going to hand the call back over to bob for some closing comments.
+look, thanks for joining us.
+10-nanometer era is now.
+thank you.

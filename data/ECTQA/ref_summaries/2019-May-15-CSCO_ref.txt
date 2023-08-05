@@ -1,0 +1,42 @@
+i wonder if you could comment on the trade situation and the 25% rate increase and just kind of give us some idea for how much is contemplated in guidance of that.
+so i wonder if you could just give us any more color on what's happening there.
+that's the first question.
+we're having a hard time hearing you.
+yes.
+thank you.
+we do monitor that news flow in addition to what's going on in the business with many programs -- mitigation programs.
+so my question to you and helpful for all of us is, how impactful is this new wi-fi 6 refresh and the new campus core, the catalyst 6000 refresh heading into the back half and is that a pull forward across the portfolio?
+and i think that architecture where you can actually see threats across the continuum and then dynamically defend across that same -- those same threat -- that same threat surface area is what's really driving the growth here.
+kelly?
+just wondering if you're giving that out.
+and again, we're growing very quickly, the software portfolio, in line, if not faster, than what we had talked about then.
+two quick clarifications and a question.
+so that is part of why i guided q3 gross margin where i did and where we actually ended up on our gross margin at the 64.6%.
+james suva with citigroup global markets.
+i think the only area where we saw a real shift was in service provider.
+but if you go back and look at our quarter, if you just -- obviously, sp was sp.
+first, deferred revenue was down a little bit quarter-over-quarter, and i know that there's been some adjustments around 606. so i'm just wondering if we can get a little reflection on kind of what the mix is doing there.
+i will say the only thing that's kind of changed in the deferred revenue is -- and we kind of talked about this maybe a couple of calls ago, is it's really driven by our collab business.
+if you look at the rest of our businesses like with the ramp of the subscriptions of the enterprise portfolio as well as security, those are all growing quarter-on-quarter.
+and -- or are we going to see that happen across other parts of the business that you could see some volatility there?
+okay.
+but it's very isolated to that.
+i think that back a couple of years ago, people would never believe that and would have viewed cisco as kind of a shared donor.
+because i think it's a little bit difficult to figure out what you guys are going to grow at considering the first half has already been solid.
+and i know -- i can remember conversations a couple of years ago about things that we're building.
+so they've -- we've had some very strategic acquisitions that have contributed to it and continue to grow.
+and we're just going to continue to execute on the things that we can do.
+so i think thinking about those kinds of things and 400 gig would be representative of that.
+but to give you any time line, i think we're just going to have to wait and keep plugging away.
+so again, you're seeing that go through our gross margins as they're going up there.
+chuck and kelly, congrats on a fantastic quarter and execution here.
+like should we expect lower revenue contribution in the cycle but higher gross margin kind of going off to what you were just saying before to?
+and we believe that sometime in the future, when they have -- when the number of connections increases and the capacity gets to a point, then they're obviously going to begin to build out these new backbones dedicated to the 5g infrastructure, which is where we will generally come into play.
+steve milunovich from wolfe research.
+and then on the deferred, it's -- that's more of a -- one of the puts and takes on the margin driver because we are -- like, for example, on the enterprise networking portfolio, deferring -- we're still deferring.
+so we're working hard on it.
+it's really hard to quantify because the technology that we're building that is either integrated in with the cloud providers or offered off the cloud platforms or enabling our customers to transition to the cloud or expand to the cloud, as you put, which is the same word we like to use.
+so we appreciate you coming up with that.
+i want to thank everybody for spending time with us today.
+we're operating in an environment that has very complex macro and geopolitical dynamics right now.
+we now plan to close the call.

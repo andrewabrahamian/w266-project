@@ -1,0 +1,28 @@
+given the opportunity we see and the momentum we're having, we've accelerated our investment in our go-to-market team.
+what were you expecting in terms of variability in q4?
+when i look at -- we do see a lot of commercial experiences across our properties, be it search or youtube and the opportunity to create a better experience there and hence bring more value to our users, that's something which we see as a big opportunity.
+and our next question comes from doug anmuth from jpmorgan.
+was curious to kind of focus in those comments on payments in youtube.
+and so i'm excited by that rollout, which is coming up in 2020. i think that will make the experience better.
+thanks for that.
+but you've come up through the ranks at google, so you're undoubtedly pretty sensitive to the various interests across various teams.
+but we're wondering what you may be looking to do to break down, i guess, what might have been more of a siloed effort in google's history.
+and so for us, that means you have these product areas, which are focused on their users, but we are setting up teams which cut across all these areas and make sure they can bring their synergies and work at scale.
+certainly, there are regulatory changes that also apply to you.
+and we realize for these things to scale, you need to make sure the ecosystem is working well.
+and then the profitability of these deals, how you feel about that?
+i think -- ruth spoke a little bit about brand and direct response.
+i think direct response is a huge growth area for us.
+on cloud, definitely, we are increasingly doing much larger deals.
+so on the holiday shopping season, there's really nothing to highlight there.
+and our next question comes from mark mahaney from rbc.
+or is it more of the same?
+two questions.
+the google segment margin looked really strong in the fourth quarter.
+and as you said, the other cost of sales does reflect lower expenses related to hardware in q4, in particular, versus last year.
+but i think the main point to leave you with is that we do intend to continue to invest aggressively to support growth in the areas that we've already talked about quite a bit on this call: in search, in cloud, in hardware and in youtube.
+in terms of head count, i tried to break it out in my closing comments that it starts with those areas -- putting head count behind the areas where we're investing for the long term, and then we have a couple of additional factors that are somewhat expected to boost the year-on-year growth rate.
+and then as a quick follow-up on the acceleration in gcp, beyond the size of the deals, were there particular product areas, like bigquery or something else, worth calling out that might have inflected to drive that acceleration?
+great.
+and you mentioned the transactional part of the funnel, and i think it's an area where he brings a lot of experience given his prior work.
+and that concludes our question-and-answer session for today.

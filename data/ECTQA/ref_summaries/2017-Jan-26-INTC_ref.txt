@@ -1,0 +1,44 @@
+chris danely, citigroup.
+nice asp performance in the quarter, as we migrate from haswell to broadwell, and as we think about skylake in 2017, we expect that to continue.
+unit costs in dcg is a little bit higher, because we are coming off great unit cost performance on 22nm, but as we migrate to 14nm.
+maybe just expand on the pc market.
+thank you.
+great.
+nothing to add.
+sure.
+it's mostly, if not in almost every case, all mix shift.
+the enthusiasts, the 10 core systems that we've put out there -- they far and away exceeded our original sales forecast.
+we factored a little bit more caution into this, as we go into the 2017 and the first quarter.
+and so, how much more growth in asp can we see?
+hi, guys.
+thanks for letting me ask a question.
+we said the key areas around data center in general, we have rack scale design, we have 3d xpoint, we have artificial intelligence, around iot, and we are making a big bets around autonomous driving.
+so, it's all around, are we understanding and managing how data is going to flow in that system?
+and then memory itself.
+first, in essence, the guidance year-on-year doesn't really anticipate any dramatic change in our share count.
+i think, the one thing worth noting is -- in our icap portfolio in 2016, we had a fairly significant gain, and what i indicated in the prepared remarks is we expect, roughly in 2017, that gain to be inline with what 2016 generated.
+you talked about a mix of the restructure and the cuts versus the reinvestment.
+yes, in terms of the type of cost, maybe two-fold.
+in our guide, our depreciation is up quite a bit, and a portion that will flow through direct spending.
+and we will -- we are making step function increase in our investments to position ourselves very well for that industry, and that market, as it evolves.
+we are not quite done, but i would say we are on track.
+enterprise is now less than 50% of our total makeup for the data center group.
+and the cloud is growing great, and that will continue, but if you look at the areas -- the majority of the rest of the growth for the rest of this decade, in the data center alone, it's networking and storage where we have very low market share today.
+and then memory -- if you look at the large part of the investment we are making, it's 3d xpoint, which really rearchitects memory and storage, and will create a new market in our mind.
+it is not just enhancing the technologies that we already have.
+brian, my first question, i want to go back to the dcg asps in the december quarter.
+two dynamics in the fourth quarter where we had higher asps.
+and then maybe as my follow-up, brian, relative to the guide, you're kind of expecting a significant drop in free cash flow this year, with the increase in capex.
+but i guess, how do you think about the path to profitability?
+let's talk about memory in kind of a big picture, john, and then we can -- i'll let bob talk a little bit about how the capex weighs, and what our view of capex is in this space.
+and we are always interested -- remember we said our foundry strategy was really to be on the leading edge.
+at the same time, we believe as the world becomes connected, cloud will grow at a much faster rate.
+we believe when you add those up together, this thing will go back to double digits.
+and maybe if opportunities present itself, be opportunistic in share counts without limiting our financial flexibility relative to the things that matter most, which is strengthening our business.
+congratulations on the nice quarter.
+that makes pricing stable to better.
+i appreciate the color on that.
+the group has shown sequential declines in the prior two quarters versus your main competitor, who has shown sequential growth, albeit modestly.
+so, let's talk about that.
+and we believe by the end of the year, given those dynamics, we will be closer to a net-cash zero position.
+this concludes today's program.

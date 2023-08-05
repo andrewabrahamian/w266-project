@@ -1,0 +1,56 @@
+yes.
+i will answer the first one.
+i'll give the second question to you, wolfgang.
+we see that with a few customers, not with all of them.
+so the total revenue will include some of that deferred revenue.
+and if i may just quickly follow up on the profitability of the deferral, is that still quite dilutive on where you're recognizing for the 3 tools in q4?
+but all our memory customers, they indicate that, also, on 3d nand, they see significant bit growth next year from the demand side.
+the optics are the gating item right now.
+but as we currently see it, i mean, we've mentioned in all of the numbers, which are up 20 for next year, at least 30 for 2019 and 40-plus for 2020, that is what our current planning is.
+the next question comes from mr. c.j.
+muse.
+memory-specific?
+okay.
+that's a good question.
+that is, i would say, decently above that 30 number.
+and where would it go into '18?
+is there any parameter?
+two questions, peter.
+so we have our ideas of what it can mean, but -- and we think it can create -- there's a lot of value.
+if you look at the first pfm, the pattern fidelity tool -- metrology tool that we're shipping this year, which we're shipping a few, but the first one we did in q3, i mean, that has a high level of interest with our logic customers.
+so how big is that market?
+and just as a follow-up, you had an e-beam inspection product rollout for this euv mask.
+it's andrew gardiner from barclays.
+we're actually accelerating investments there.
+our long-term model is 4%.
+i mean, we're seeing continuous numbers coming back out of the industry and industry participants on sensitivity of the photoresist, which is good, because the more sensitive the photoresist is, the faster you can move the wafer, the higher the throughput.
+so pellicles, you just mentioned, pellicles being able to withstand 250 watts of euv power is very good.
+i mean, dram is possibly likely to use euv in 2019. but i mean, there haven't been new dram fabs built in the last decade with dram capacity having internal demand, et cetera.
+and quickly following up, i mean, you've taken a stake now in carl zeiss and how that will be showing up on your p&l maybe for the full year this year or next year, because there will probably be a dividend payment from carl zeiss, and then there's going to be outgoing payments from you regarding funding their capex plans for high na as well as the r&d for high na.
+the equity investment is eur 1 billion for 24.9%.
+we have to translate that into u.s. gaap.
+again, it gets complicated.
+last quarter, i was thinking you'd be doing around eur 1.1 billion in euv revenues, and now it looks like it's going to be a bit lower than that.
+first of all, i'll check if it's still together after the year to breakeven level.
+it's a maintainability adjustment, which is good news because it will help us down the road with service profitability, which, if you recall, is a main contributor to get to the 14%.
+i said this year is around 15%.
+next year will be around 14%.
+sorry.
+we made progress, but i don't think we made that much progress.
+i was wondering if that was more euv revenue recognition-related or if you're seeing a pickup in the 10-nanometer ramp?
+just wondering if you can help us understand what kind of growth you expect in 2018 on that line item.
+i don't think that we're going to give that detail.
+we get to eur 1 billion this year, and then we get to eur 2.5 billion next year.
+it's doug smith from agency partners.
+but i think what you can say is that the euv adoption is well underway, and the lay accounts are not on the low end, as we talked before.
+so without updating it today, i think the probability on the low-low or the lower combination has gone down since the year.
+and right now, i think an update on that model is really something we will do next year.
+the next question comes from mr. amit harchandani.
+i'm very keen to understand how the thought process is right now around high na euv adoption.
+and that would be, i think, a precondition for us to accelerate.
+and we're pretty clear also on what it would take to accelerate and what are commitments from the customers, how that would have to look like, which, by the way, we haven't reached an agreement yet.
+with the investment in zeiss, we signed the r&d and the capex program.
+no source difference.
+and i would say that from this point onwards and from this moment onwards, that's really the gating item in this project.
+and like i said, we're also working closely with our supply team to get some of the cycle times down.
+thank you for participating.

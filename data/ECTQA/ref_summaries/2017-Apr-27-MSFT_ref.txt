@@ -1,0 +1,32 @@
+i've got a follow-up actually on azure, maybe to you satya.
+i suspect part of the explanation is that a lot of the azure growth is net new, but i'm just curious, when do you think customers will actually start migrating existing on-prem microsoft workloads into azure such that, that server product line might start to decelerate?
+what's happening with sql server?
+it's a database that's on-premise that can be tiered with the cloud.
+it tends to be -- in this instance, japan was a little better.
+but whether or not you see that in transactional, the uber trend of being able to see it through the all-up kpi, the dynamics satya has talked about, you're going to hear us talk more and more about whether it's a "on-prem server launch" or an azure feature about the integration of the 2.
+our next question comes from the line of heather bellini with goldman sachs.
+so a lot of what is dynamics field service is actually in our module growth we are seeing because of azure iot.
+what was the drivers of the big growth in dynamics 365?
+sure, mark, and let me start and then amy, you can add.
+and that's definitely going to be what's going to be true in the quarters to come and the years to come.
+iot, for example, was not a workload on the old server world whereas it's one of the big workloads for us.
+there is the lift, shift and modernize motion as well as well as a new need for the edge of the cloud.
+our next question comes from the line of walter pritchard with citi.
+two things, amy.
+but over any annual period, the biggest difference will really just be the change, in some ways, back to how we thought about oem revenue.
+as you know, i think we've been -- and executed significant capital return program over the past couple of years, including accelerating a buyback program that i think i feel very good about at the corporate level in terms of the value it's created.
+is it growing the top line?
+and so i tend to take that approach as opposed to solving for any one number.
+could you just give us, i guess, qualitatively how you're thinking about that?
+i mean, i don't view it that narrowly quarter-to-quarter or even year-to-year.
+but the places where we are more likely to go and put our opex in the coming quarters, in the coming years are going to be about revenue that's going to show up for multiple years out.
+are we doing them in the right way?
+and also amy, just given the strength in commercial bookings and also commercial bookings guidance, macroeconomically, do you see any signs of enterprise budgets opening up somewhat or different activity levels, more receptivity to transformative projects?
+that's great, so let me start.
+what thyssenkrupp has done in their elevator business and other business units who are using anything from hololens to a front-line worker, to how they're fundamentally moving their business model from essentially the margin on the thing, to the margin on the service, which has machine learning and ai built into it.
+and in that context, of course, they are lifting and shifting some of the older workloads but they're modernizing the entire business process flow.
+and so while year-over-year, you may not see as much, but you will see more sequential volatility as, frankly, you've seen over the past 6 quarters even when we've seen improvements in each of the underlying services, which tends to be how i focus on it a bit more.
+that's helpful.
+so those are all the areas where there's significant room left, and we're not just standing still in terms of adding value for new segments, so those are all in play.
+that wraps up the q&a portion of today's call.
+thanks, all.

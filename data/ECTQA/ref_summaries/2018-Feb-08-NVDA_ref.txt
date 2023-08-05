@@ -1,0 +1,41 @@
+and so curious if i'm thinking about that right or whether crypto is being modeled more conservatively by you guys, and so would love to hear your thoughts there.
+which way is more conservatively, c.j.?
+yes?
+one dynamic, of course, is that there's a fairly sizable pent-up demand going into this quarter.
+but i think the larger dynamics that are happening relate to just the really amazing games that are out right now.
+pubg is just -- is doing incredibly well, as you might have known, and it's become a global phenomenon.
+and then tensor core comes along last year, and we increased the throughput of deep learning, increased the computational throughput of deep learning by another factor of 8. and so tensor core really illustrates the power of gpus.
+and as colette said earlier, our volta gpu has now been adopted all over the world, whether it's in china with alibaba, tencent and baidu, iflytek, to here in the united states, amazon and facebook and google and microsoft and ibm and oracle in europe, in japan.
+and that's where tensor core could be a real advantage.
+congratulations on the strong growth and the consistent execution.
+the -- with existing customers that already have a very deep penetration, another opportunity for us would be using our gpus for inference, and that's an untapped growth opportunity for our company that's really, really exciting, and we're seeing traction there.
+there's the pioneers, the first phase, are the returning customers.
+the third phase that's now ramping.
+the computation throughput, keeping everything moving through your chip with supreme levels of energy efficiency with all of the software that's needed to keep the data flowing, with all of the optimizations that you do with each and every one of the frameworks, the amount of complexity there is just really enormous.
+it started out with rnns and simple rnns, and now there's all kinds of lstms and gated rnns, and all kinds of interesting networks that are growing.
+it's up a bit from what we saw in q3, and we do again expect probably going forward.
+yes.
+but i think the most important thing is we just got to catch up with supply.
+i think the -- for autonomous vehicles that still have drivers, passenger cars, branded cars, asps anywhere from $500 to $1,000 make sense.
+jensen, i was hoping to ask a little bit about inferencing.
+and the output of these frameworks is a really complex, large computational graph.
+all of that targeting is different.
+and the data centers are really awakening to the observation that the more gpus they buy for offloading inference and training, the more money they save.
+just kind of curious, as you look at the gaming business -- i've kind of lost track of what seasonality is.
+and so the best way to think about that is pascal is the best gaming platform on the planet.
+your next question comes from the line of harlan sur with jpmorgan.
+and we do inference in the data center that i mentioned earlier.
+so you're absolutely right that inference at the edge or ai at the edge is a very large market opportunity for us, and that's exactly why tensorrt was created.
+or is that just sort of retailers bringing prices up in a shortage environment?
+and then in the cfo commentary, you mentioned opportunities for professional vis, like ai and deep learning.
+can you talk about that, and what kind of applications you would use, quadro versus volta or geforce?
+obviously, we're 10x larger of a gpu supplier than the competition.
+you could fill in damaged parts of a photograph or parts of the image that hasn't been rendered yet, you want to use ai to fill in the dots, predict the future, rendering results, which we announced and which we demonstrated at gtc recently.
+and then when you're done developing that software, you could use it to do all kinds of stuff, including design products.
+so the question is, is there anything that you can see that would preclude that kind of growth over a similar period?
+and so i think when you consider this and put that in your mind, i think the opportunity for video games is going to be quite large, and that's essentially what we are seeing.
+i'm hoping we can touch on automotive a little bit more.
+thanks a lot, will.
+and it will be autonomous fully, or it will be autonomous partly.
+and finally, xavier's here.
+you may now disconnect.

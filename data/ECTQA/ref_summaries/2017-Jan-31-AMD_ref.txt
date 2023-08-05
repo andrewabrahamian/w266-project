@@ -1,0 +1,36 @@
+thanks for taking my question.
+my understanding was that ryzen was the higher-end sku that comped against the core i5 or core i7, which is above where the existing microprocessors competed in the stack.
+thank you.
+and a follow-up, if i may.
+yes, if you look at our product lineup in the first half of the year, i think we have ryzen launching in early march, and then we will have vega, our enthusiast gpu, launching in the second quarter.
+i noticed that quite a big ramp year over year in growth in the computing and graphics segment, but it's still a slight operating loss on the p&l.
+and then quickly, i think you guys guided to $50 million in thatic ip revenue.
+the segment loss has gone down significantly from q4 2015, where we were about $100 million, so about $20 million.
+i think the last few years have been very good from a console cycle standpoint.
+we finished 2016 with both units and revenue up.
+yes.
+so in terms of our strategy, i think on both the cpu and the gpu side, we have been on a fairly deliberate path to ensure that we got to a very competitive roadmap.
+q2 and q3 and q4, it stepped up to 32%.
+if you look at our q3, our q3 was actually very strong, and that was the quarter where there were significant builds ahead of the holiday launches.
+so it was not unexpected and actually performed in line with our expectations.
+was that just like the playstation pro or was there something else going on in q3 that took it up so much year over year versus q4?
+lisa, one for you or devinder.
+for the first quarter, and then perhaps more importantly for the full year, can you just talk a little bit about the dynamics between your two segments?
+great, thanks.
+yes, i think our philosophy, first of all, is to be very disciplined about managing the opex.
+so you will see a trend of continuing investment in product roadmap, new product launches, software.
+chris rolland, susquehanna international group.
+with these products, do you anticipate taking more share in the cloud?
+and then with, let's say, summit ridge and vega and "naples" all coming online here, can you guys talk about where these products -- the gross margins are versus either your corporate average or a comparable product now?
+and if things ramp the way you expect them to, when might you hit the low end of your long-term gross margin range?
+so our expectation is that we will make progress with margins as we ramp these products.
+we continue to view semi-custom as a strategic way for us to utilize our ip in our design capability.
+as revenue growth starts to reemerge in the model, how should you think about -- or how should we think about opex growth relative to revenue growth?
+or any guidance there would be helpful.
+so look, we do think zen is very, very competitive for where we are.
+and now, we view the data center gpus as a great growth opportunity for us.
+got it.
+on your zen product lineup, you will have an apu in the second half of the year.
+will that be targeted for both desktop and notebook?
+first of all, it was higher than anticipated due to product ramps, product mix, and also our higher expected revenue in the first half of 2017. we also had an opportunity to purchase some inventory in a tight pc supply environment at commercially favorable terms.
+we've reached the end of our question-and-answer session.

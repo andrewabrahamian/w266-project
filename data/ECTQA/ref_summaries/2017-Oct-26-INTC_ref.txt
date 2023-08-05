@@ -1,0 +1,35 @@
+you rattled off a number of ai advancements that intel is having, whether it be on the nervana side or the stratix side.
+it will be handed out as test silicons.
+and then the follow-up question i had was actually for bob, and it's on the opex side.
+and those lower spending levels from the first half of this year to the second half are a function of continuing to look at every dollar that we spend, whether it's r&d, whether it sales and marketing, or whether it's g&a and making sure that those dollars are allocated towards the biggest growth opportunities.
+you saw microsoft talk about it earlier this week.
+so it's -- i think it's early to make this judgment.
+the other thing i would just offer to -- follow up on brian's commentary on dcg growth -- maybe 2 things.
+one, we started out at 6% in q1.
+we're at 7% in q3 off a real tough comp last year of double-digit growth in the third quarter.
+and in particular, how should we think about the trajectory exiting the year into 2018, puts and takes on gross margins as we go into next year and given what we've seen this year?
+so in line with kind of full year outlook, which is in the high end of our historical guide range.
+one, we have a high growth in our adjacent businesses, memory and modem, that weigh on -- that are a big contributor to improved earnings, but they weigh on our gross margin.
+our next question is from blayne curtis with barclays.
+and as i indicated, we kind of started out the year saying that we were highly confident we'd be above 40 for the year.
+sure.
+so we -- what we said is simply in the past publicly that ai is -- one of the smallest workloads, but one of the fastest growing.
+no onetimers.
+we anticipated growing throughout the year.
+we anticipated higher asps, i.e., sequentially asps being a little bit stronger, and that would drive incremental operating income.
+and some of the benefits, just a lower overall g&a spending for the company is benefiting all the different p&ls that g&a is actually lower.
+or how are you thinking about it?
+but when we looked at it over the long haul, they're probably going to be down, those low single digits.
+those products are continuing to see growth actually.
+that's a big hurdle to get that technology to where you can reliably put out a yearly cadence, a world-class modem.
+yes, the -- first in 2017, people ought to be thinking about free cash flow growth being $1.5 billion to $2 billion higher than what we -- what was primarily reflected in our guidance.
+so as we continue to transition -- we're still transitioning haswell to broadwell, which all else equal, there is positive asp implications as we transition to xeon scalable and deliver higher performance.
+yes, think of it, so first, absolutely, you're right that we are going to move much more of our focus towards data center products coming first.
+it's not going to be the early part of the 10-nanometer, though.
+that's really helpful.
+if i take a look at though kind of a bigger picture, which is what you're asking is, this whole picture that we've been putting together is, i kind of said in the statement that, individually, these businesses are great.
+so you're right, when we go into and we talk to somebody about autonomous driving in general, whether it's level 2 plus, level 3, level 4, level 5, we bring with us a suite of products, depending on what kind of architecture.
+they all have multiple phases as you go to 3, 4 and 5 on the levels.
+and what we're able to do is say you don't just have to take this one solution.
+and thank you all for joining us today.
+you may all disconnect.

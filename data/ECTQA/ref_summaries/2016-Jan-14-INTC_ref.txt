@@ -1,0 +1,53 @@
+your line is now open.
+great.
+sure.
+this is brian.
+okay.
+thanks.
+what prompted it was -- we did an in-depth analysis based on the cadence of moving from one process technology node to the next.
+i'm now projecting a 63% gross margin for the year.
+thank you.
+your line is now open.
+thanks for taking my question.
+but we're seeing some of it on the data center side as well.
+what steps can you take this year to help drive more leverage in the model?
+thank you.
+sure, and first, let me -- if you'll bear with me, let me just take a second to detangle the 2016 numbers, because with the extra work week, the altera acquisition, which includes some one-time costs, and the change in depreciation, it becomes a little hard to, i think, get to the bottom of what's actually happening operationally in the business.
+when we add all of that in, we're getting a bit more than the 0.5 points improvement from 2015 to 2016, in terms of our projections.
+so, we feel we're delivering what we committed to; and when you put some of these adjustments on top of it, we'll deliver a little bit more.
+we're in the midst of a transformation right now, and so we are going through a period where we're weeding and feeding our portfolio.
+so, as you said, we just closed.
+i guess as my follow-up, you provided a $10 billion capex budget, and now it looks like it's about $500 million lower at the midpoint.
+is that principally capacity on the logic side, as opposed to memory, given what we're seeing in the macro environment?
+thank you.
+i don't think there's anything more to it than that.
+no.
+thanks so much.
+good afternoon.
+and then we continued to see strong growth and strong share gain in the networking and telco side.
+as you said, we kind of went roughly a year or so without a desktop enterprise upgrade, and especially when you combine coming back now with a refresh -- that refresh being skylake -- the combination of skylake's great performance and great graphics.
+hi, guys.
+the reuse is something that's been shifting over time, and it gives us a lot of economic benefit.
+so, the background on this is, we go through this every 5 to 7 years.
+the revenue associated with it is a little harder to calculate.
+and just to be totally transparent, the revenue number for altera in q1 is on the order of $400 million.
+got it.
+this quarter, the december quarter, you saw a modest drop in asps, both sequentially and year over year, which is somewhat of an anomaly for that business.
+i'm curious: do you think this was a one-quarter anomaly?
+the relative strength -- so, then if you take a look at the cloud space and the enterprise space, we expect those to continue on the trends you've seen over the last few years.
+and then you have some of it that goes into inventory, and then ships out over time.
+our next question comes from the line of chris danely of citigroup.
+and in your full-year forecast, are you implying that we get back to normal seasonality in q2 through q4?
+i'd articulate that what we're seeing -- we have a cautious stance as we start the year.
+thanks.
+but because it's a relatively small business against the backdrop of intel, it's not a big shift in our gross margin.
+stacy, one question on the opex side, back to that leverage question: you had a very useful slide at the analyst meeting about how you had dis-invested in some areas, and increased investments in another.
+i guess as my follow-up question is just -- any more color you can provide on the channel inventory?
+you mentioned that the unit demand was a little weaker than you had expected.
+to the question on internal inventory levels, i'd just say we ended q4 with a little more inventory than i was expecting, and a little higher than i'd like.
+you'll see it -- if you look on a dollar basis, it will go up in q1 as a result of altera.
+it's going to look like a business group, no different than, say, ccg, that does pcs and modems, phones, or dcg that does data center.
+so, you should expect it to be fully integrated.
+operator, i think we have time for two more questions.
+let's see, i think we've got broadwell xeon; it's going to launch in the first half here of 2016. so, that will be the first of the 14-nanometer, or the next 14-nanometer in 2016 is that e5 on broadwell.
+i just had a question again on the depreciation change.

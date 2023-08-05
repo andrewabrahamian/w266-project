@@ -1,0 +1,32 @@
+george or bob, whichever of you want to answer this, i want to go a little bit into the trajectory of revenues.
+second, the -- as you know, from a cloud perspective, which now is bigger and bigger part of our overall dcg revenue, we expect them to continue to benefit from the trajectories that i mentioned initially.
+yes.
+or i guess, asked in a different way, what percentage of your sales do you expect to be on 10-nanometer this year and maybe even next year?
+it'll grow as we exit the year and become a much bigger part of our overall volume in 2021.
+and then last, i'd just say that our intention back in may, and we reiterated again today, is that we want to get back to a 2- to 2.5-year cadence.
+congrats on the great results.
+bob, maybe just following on that because i remember 2 quarters ago, you talked about ice lake taping out, for servers in the first half.
+so that's kind of the first step for us.
+and then what we indicated is we'll start production wafers in the first half of this year, and that'll translate into production of shipments in the latter part of 2020. so that's the sequence of events.
+so that's been pretty consistent with how we've been trying to ramp this over the last several quarters.
+and our expectations in 2020 is that we'll have high single-digit pc unit volume and against the market that we expect to be flat to down slightly.
+if you just sort of look at the q1 guide of 61% versus the full year of 59%, i'm just trying to understand kind of the puts and takes that brings gross margin down throughout the year.
+i'm just kind of curious as to whether or not we're getting a pull forward of the 7 here?
+and we're ramping 10 in the second half of the year.
+and i'd say the one thing that's really changed since then is that our yields on 10 are just a little bit better, and they're a contributor to slightly better gross margin in the second half of '19, and we expect that to be -- continue to be a contributor next -- this year, i should say.
+our next question comes from the line of harlan sur from jpmorgan.
+no, stacy.
+so that's your own inventory?
+i'd also say the channel inventories exiting the year for pc, i'd say, are relatively low.
+so i do expect, during the course of the year, we will build our inventory levels to more deal with spikes in demand.
+i think q2 will be a little challenging as we try to deal with product mix and linearity.
+and then are the shortages anywhere other than client?
+but server cpus, we really prioritize that and try to put ourselves in a position where we're not constrained, and we're in pretty good shape.
+the -- so on capex, we're -- part of the reason we're at -- expecting $17 billion this year is we're building more space, some of the longer lead time items.
+and then for 7- and 5-nanometer equipment, as you know, we've got all 3 nodes right on top of each other.
+and so we're going to be perhaps a little less capital efficient when you combine that with the fact that we are trying to close the gap on meeting our customers' requirements.
+and just on the -- the one other thing is maybe with the exception of litho, the reuse from 1 node to the next is still relatively high.
+and i would say, all else equal, the broader -- the breadth of our portfolio as we play a larger and larger role in our customers' success, we build more products.
+so i don't really feel like we're down a point.
+first, thanks for joining us.
+you may now disconnect.

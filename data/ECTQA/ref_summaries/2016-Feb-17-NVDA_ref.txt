@@ -1,0 +1,58 @@
+when you think about it that way and you drive the business that way and you create value that way, i think the prospects for our growth there is still quite significant.
+there are several different ways we can grow the market.
+there are many countries around the world that are just starting to get into pc gaming.
+and what i am referring to is, we have seen qualcomm and others enter the segment, and they are making the case they can integrate a lot of different [piece] parts and tie back to their processor.
+so there is all kinds of new technologies that we're going to deploy into the infotainment system, leveraging our expertise in deep learning.
+we started talking about it several years ago -- i think it was like three years ago, at ces, when i introduced the drive px.
+our next question comes from the line of mark lipacis with jefferies.
+thank you for taking my questions.
+can you give us a little bit more color on that business?
+but there is not much to really announce today.
+how should we be thinking about that?
+thank you.
+i appreciate that question.
+our consumer business tends to be lower in gross margins.
+instead of building a supercomputer that may cost as much as $500 million, this supercomputer would be the world's best at $100 million.
+that's a pretty substantial reduction in expenses.
+and quite a high-velocity rhythm, of bringing out new gpus that are great for accelerated computing and great for gaming of course, and great for workstations.
+our next question comes from the line of ambrish srivastava with bmo capital markets.
+i want to follow up on your tesla business.
+the thing that is really exciting for me, is to see them transition their business -- not transition, but transform their business, from one that is really focused on supercomputing centers to one that is also working on big data.
+this is an area where we can add a lot of value to them.
+and that's one of the reasons why industries all over the world, from life sciences to industry to manufacturing to supercomputing, are jumping on the deep learning bandwagon.
+but i still believe that it was the wrong thing to do, for samsung to use technology that companies who are specialized in these fields invent, and to use it without compensation.
+and i'm disappointed with the decision from the itc, but so be it.
+two questions there.
+i think part of the answer is, i'm not sure.
+there are many problems that computer science has been trying to solve which, algorithmically, is just impossible to solve.
+it could be market-related-type problems.
+and this is an area where we have a great deal of expertise.
+hi, jen-hsun.
+sure.
+you now collect that data, and you use that data to train your network.
+it is happening every single week.
+at the moment, i just really don't know how someone would settle down and design a custom chip for it.
+i happen to believe that long term, artificial intelligence is not a chip.
+i think that, that's really one of our advantages, that we have the ability to be adaptable, programmable, and yet we are available in literally every single computing platform form-factor you can imagine.
+so i think the gaming market appears to be quite vibrant.
+our automotive business is vibrant, and the work that we do in self-driving is really gaining traction and capturing the imagination of just about every car company around the world.
+we will see how it plays out.
+so the question for you is, is there any updates to your views on where the installed base sits at from that upgrade opportunity?
+those architectures are all running in the installed base at the moment.
+meanwhile, it is the case that asps of our chief use are going up, because the graphics richness and the graphics production value is going up.
+can you describe what drove that growth, and how we should think about the growth profile for the rest of this year?
+so we think this is going to be a vibrant growth area ahead.
+and i think that there is some evidence that the continued release of great games and great production value games, the vibrancy of esports, the fact that esports is really not just for competition, but drives the dynamic of sharing and social.
+the second part is, how will vr impact our business?
+so we believe strongly that vr is going to be fantastic for entertainment, it's going to be fantastic for games.
+so i think that you could tell that i'm very enthusiastic about it.
+our oem business is not about gaming, because it is our gaming business.
+i think that is quite a significant factor.
+the soul of the company is the functionality of that car.
+it's going to be artificial intelligence network-defined.
+and it starts really from a philosophical approach.
+so our strategy is just very, very different, and that is our approach.
+and my sense is, at the moment, it appears to be quite a good approach.
+nvidia is the world leader in visual and accelerated computing, which is helping to create exciting growth markets like vr, ai, and self-driving cars.
+and it's delivering results and gaining momentum.
+we will be focusing on vr, artificial intelligence and autonomous driving.

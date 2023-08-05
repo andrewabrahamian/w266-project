@@ -1,0 +1,47 @@
+yes.
+and for the very first time, we shipped more t4s than v100.
+and all -- most -- that is really driven by several factors.
+for the very first time, we're seeing recommendation system based on deep learning throughout the world.
+the second part is conversational ai.
+and so the combination of these various breakthroughs from deep learning-based recommenders, the speech stack as well as natural language understanding breakthrough in what is called a bidirectional encoded transformer, that breakthrough is really quite significant.
+the models are very, very large.
+and so that's one large category, which is the hyperscalers.
+i have a follow-up if i can as well.
+so i guess first question is what was that impact in this most recent reported quarter.
+in the current quarter, the net benefit, as we refer to as the net release of our inventory provisions primarily associated with our components, was about 1 percentage point to our overall gross margin.
+and as a platform company that has a great deal of software intensity, it's natural that the margins would be higher over time.
+what underpins your improved visibility?
+and for the very first time, aside from computer graphics, this mode of software is not really practical without accelerators.
+the software stack that sits on top of the chip and the compilers that sits on top of the chip are so complicated.
+and if you have to make it both accurate as well as performant, it's really quite a great challenge.
+so when we think about hyperscale, there are 3 parts: training, inference and public cloud.
+i think what we're going to see this year is a fair number of very sizable installations of gpu systems to do this very thing, training.
+the reason why i haven't really spoken about it until now is because we've never really been able to validate our intuition that inference is going to be a large market opportunity for us, that it's going to be very complicated.
+and so we're seeing a lot of growth there.
+then there's the intelligent edge, which we recently ventured into, and we've been building this platform called egx for some time.
+and this last quarter, we announced some of them: walmart and bmw and procter & gamble and the largest logistics company in the world, usps.
+and your next question comes from the line of harlan sur with jpmorgan.
+gaming is solid in china, and it is also the fastest adopter of our gaming notebooks.
+the primary games that people play are esports, which you want the best gear, but you could -- after you buy the gear, you pretty much enjoy it forever; and mobile, which is largely free-to-play.
+just curious, what percentage of automotive revenue at this point is legacy infotainment versus the newer ai/adas solutions?
+most -- i would say most of the passenger-owned vehicle developments are going quite well.
+they're in china.
+volvo trucks is the heritage volvo.
+and we have a major program going with them to automate the delivery of goods.
+and so when somebody's working on av and they're using ai, and most of them are, there's a great opportunity for us.
+and they will be.
+the first question, i want to return to your kind of outlook for strong sequential data center growth in q4.
+or would you define like what you saw in q3 as well as already being strong sequential growth?
+we have reminded the teams about our overall seasonality that we sometimes have in gaming associated with our consoles as well as also with our notebooks that seem to be primarily in q2 and q3 being our strongest quarters and likely, therefore, a seasonal downtick as it move to q4.
+inference doubled year-over-year.
+how do we think about that in the context of like the growth that we've seen very strongly over the last few quarters in enterprise.
+i apologize for any background noise, but i just have one question, just for jensen.
+i'm just wondering how the -- how that's advanced over the last couple of year or 2.
+let's see.
+and so our strategy is to -- our goal is to really create this new world of c-ran, vran centralized data centers and software-defined networking.
+with the low latency capability of 5g, you could put a data center somewhere in the regional hub.
+and depending on where the traffic is going, you could shift the traffic computation from 1 data center to another data center, something that you can't do in basebands, in baseband units in the cell towers, but you can do that in the data center.
+i would say, for our q4, both of them are expected to be seasonally down.
+thanks, everyone.
+design applications used by millions of artists and creators are rapidly adopting rtx ray tracing.
+you may now disconnect.

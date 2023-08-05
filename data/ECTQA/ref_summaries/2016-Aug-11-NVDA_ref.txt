@@ -1,0 +1,61 @@
+hi.
+first question on the data center business.
+data center -- our data center business is comprised of three basic markets as you're alluding to.
+one of them is high-performance computing, and one could say that or characterize it as a traditional supercomputing market, very computationally intensive.
+that's very helpful, thank you.
+thank you.
+or, should we expect growth in the quarter to be broad-based?
+we are experiencing growth in all of our businesses.
+and, five years ago we started to invest in deep learning quite substantially, and we made fundamental changes and enhancements for deep learning across our entire stack of technology from the gpu architecture to the gpu design to the systems that gpus connect into.
+and so, that gives you a sense of how much -- and pascal is unquestionably the biggest leap we've ever made generationally in gpus ever.
+there's a lot of different ways to enjoy games now, and the production value just continues to go up which is great for our platforms.
+deep learning was really ignited when pioneering researchers around the world discovered the use of gpus to accelerate deep learning and made a practical -- made it even practical to use deep learning as an approach for developing software.
+this connecting tissue inside our processor, connecting memory, connecting fabric.
+that invention has really been groundbreaking.
+we make this architecture available from hyperscale to data centers to workstations to notebooks to pcs, to cars, to embedded computers, to even a brand new, fully integrated, high performance computer in a box we call dgx, the nvidia dgx1.
+well, i appreciate the question.
+the answer is that we're working with customers and partners across that entire range from cars that are sold to trucks to vans to shuttles to services.
+sure.
+it's no longer just about data.
+it's hard to say how much.
+i think the growth opportunity for deep learning is quite significant.
+for most data centers, if you have cpu workloads anyway, i think intel's xeons are hard to beat, and so that's my opinion anyway.
+and then, we render it into vr, and we enjoy it, enjoy it completely in vr.
+you have one display.
+things don't bounce.
+good afternoon.
+so i was sort pleasantly surprised that most of the demand was driven by your current generation m6000 family, which means obviously that the pascal demand cycle is still ahead of you.
+they can also rely on the fact that great gpus are available in just about every computer.
+that's number one.
+your next question comes from the line of ross seymore.
+we believe that building an autonomous self-driving car is a pile of software and it's really complicated software.
+number two, the drive px2 architecture is scalable.
+the computation necessary to do it is so diverse.
+everybody has lots of data.
+every manufacturing company needs it.
+your next question comes from the line of ambrish srivastava.
+and i understand it's not always perfectly correlated, margins should be going up that much, but is it pricing, is it yield?
+a question, jen-hsun, on the drive px2.
+and the reason why you aren't going to find one answer is because nobody knows exactly how to get it done.
+we all have intuitions and we all have beliefs about how we're going to be able to ultimately solve the long-term fully autonomous vehicle, that wherever i am, the car i step into, the automotive automobile we step into, is completely autonomous, and that it has ai inside and out, and it's just an incredible experience.
+oh, automotive asps for self-driving cars will be much higher than infotainment.
+the problem is much, much more complicated.
+i want to come back to the difference of pascal versus what would be otherwise competition from either intel or amd.
+energy efficiency, literally, is the most important feature of the processor.
+and so i think our use of capital is nurturing the employees that we have and providing them the platform to innovate and create the conditions by which they can be successful and do their live's work.
+thank you for squeezing me in.
+i guess, two quick questions.
+and curious if that's the right number you would underwrite here, or should we be thinking about improving mix, as well as maturing process and manufacturing at your foundry partners such that that could actually be higher as we look ahead?
+what's that?
+i think your question was regarding deep learning and the percentage of data center and how that has moved.
+thanks for taking my question.
+maybe i'll go to the other end of the spectrum and speaking of energy efficiency.
+so tegra is the core of our self-driving car initiative, the computing platform for self-driving cars.
+our focus on deep learning, self-driving cars, gaming, and vr, markets where gpu has been vital, is really starting to pay off.
+and i'm so proud of the team for all of the preparation and the executions last quarter.
+deep learning adoption is now widespread and is ramping at every hyper scale data center.
+it's a new computing model that requires a new computing architecture, one that gpu is perfectly suited for.
+and you can surely expect pretty substantial improvements and increases from us over the next several years.
+you can enjoy our platform, whether it's in cloud or in data center or in super computers and workstations and desk side pcs and notebook computers to cars to embedded computers, as i mentioned just now with jetson.
+this is a one singular architecture approach, so the thoughtfulness and the care of the investment of the developers and the software programmers and researchers is really our preeminent concern.
+thank you all for joining us.

@@ -1,0 +1,37 @@
+yes.
+it's a great question.
+thanks, tim.
+so our team has been working hard to be prepared for those renewals.
+so we have more to do, but i feel good about the progress we've made, and i think that we're in a pretty good position right now.
+so we think the 400-gig transition as well as the 5g build-out will be the drivers that we'd be looking for over the next couple of years.
+thanks, chuck.
+i'd say the second big driver is price.
+we've been managing the decline in the pricing and the server market fairly well, balancing that with the dram prices that are going down dramatically.
+but we've, again, managed that pricing and dram cost equation very well.
+i mean, again, i would say yes because what we're doing on the portfolio is more and more software content.
+but as always, we'll let you know when those are happening.
+and i had one question that's kind of more broad.
+it looks like the enterprise product orders got incrementally a little more challenged.
+or why are we actually seeing enterprise kind of decline incrementally a little bit worse?
+no excuse, but that's what that was.
+kelly, do you want to comment on...
+yes.
+so the biggest driver was, for sure, the -- on the unified communications side.
+so i'd say that 5% growth you saw in services is just continued performance by that team to do that.
+routing is still down, driven by the sp segment.
+and then in terms of the last piece from a year, again, we talk about, and you saw that applications was up 24%, again, which was all collab basically a year ago as well.
+they're offering new solutions, not just -- they're trying to find more ways to drive incremental growth versus just being tied to the maintenance, to the product orders.
+i just had a quick question, trying to juxtapose the guidance with the order rates.
+i think, again, back to a lot of the decline in the order rate was there's a bit of compares.
+we've got cell site and radio backhaul.
+samik chatterjee from jpmorgan.
+it's the fast -- and again, we mentioned this in the early ramp of the cat 9k.
+i just think in certain cases, some of our larger customers who are watching some of the things going on just decided to just take a pause and take a look at what's happening, and then i think they'll kick back in.
+there was growth acceleration.
+and the question i'm asking is, of the trends you see today, data center switching, campus switching, routing, service providers, what is cyclical and what is secular, meaning when are we going to see a reversal -- or not when in terms of timing.
+i think in the routing space simply it's the 5g backbone build-out that we've been talking about for a few years.
+once that starts, i think -- given the percentage of our routing business that is attributed to service providers, i think that's the key as well as us winning these cisco 8000 insertions that we have proof of concepts going on today with many of the large customers, both service provider and web-scale players.
+but just any -- directionally if that's still about right would be helpful.
+so just wondering if we could double-click on where we are with duo and umbrella together as it seems like they're the biggest drivers of the business?
+i'd say that's absolutely right.
+we now plan to close the call.

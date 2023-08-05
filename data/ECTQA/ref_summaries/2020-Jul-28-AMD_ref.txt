@@ -1,0 +1,44 @@
+and does your -- as part of that, does your view of the competitive environment change after your biggest competitor last week noted a push in its 7-nanometer processor?
+yes, thanks for the question.
+so look, we've been very focused over the last couple of years on our road map and our strategy, and for sure, when we talk to our customers, it's about ensuring that they understand we have a consistent road map that is pushing the leading edge of performance and ensuring that we deliver the performance improvements that we promise.
+so we feel good about our road map.
+we are on track or we expect to start shipping milan here late this year.
+we think there's a high demand for sort of pushing the leading edge of performance.
+i think as we go into milan, we see that as also a very competitive product.
+okay.
+how much from semi-custom?
+yes.
+what we see now is better visibility into the second half of the year, and so we had originally assumed that the pc market would be down in the second half.
+we also see data center growing from the second half to the first half.
+so i think it's a number of factors.
+and then we've said that the consoles are decretive to margin.
+so you put that together, and i think the pc business has performed well for us.
+got it.
+and i'm interested if you could just put into context what the expectations are for improvements and new opportunities for big navi as you launch later this year?
+our interpretation is that interest level and mind share is growing quite rapidly.
+so the -- what i would say is that we are making progress in the enterprise business.
+we have a very diverse set of platforms from our oem partners that are now in market.
+no question, our business is more consumer-weighted today.
+is there that much upside?
+but overall, i view it as -- again, consoles are a multiyear cycle, and the first year, i mean, there's a lot of pent-up demand for consoles, but we should think about this as really a multiyear cycle, and this is just the beginning of the ramp.
+what is your capacity and supply situation look like?
+and i would say that as we continue to increase capacity, we see opportunity there.
+and as i said, we have new platforms ramping that i mentioned in the prepared remarks.
+there is a bit of softness in smb or some of the transactional business, and again, we were not very exposed to that portion of the market.
+so i don't see it as it's going down, it's just perhaps not increasing as fast as we wanted it to.
+our next question today is coming from aaron rakers from wells fargo.
+so look, i think the data center gpu business is a -- is sort of a midterm growth vector for us.
+our next question today is coming from timothy arcuri from ubs.
+and i think over the past couple of quarters, what we have seen is they've seen our performance capability, and we feel very good about where our products are positioned.
+but in terms of where the road map is, what are we trying to accomplish, where the customers are, there's a pull from customers to engage us across a number of workloads, we feel well positioned.
+i think the supercomputing wins in the data center gpu side have really helped raise the profile of our gpu capabilities and our software capabilities.
+so i think we are in a good position there.
+so we continue to invest in the data center.
+so do you have any comments on that in terms of apple's potential entrance in developing an arm-based seeker system?
+and then a similar sort of thing when you go into the fourth quarter, you said semi-custom will be down sequentially, which is kind of typical seasonality.
+so yes, let me answer it this way.
+well, look, i think we have been focused on the organic growth path because there is so much opportunity there.
+congratulations on a strong quarter.
+and i guess more importantly, when you look at both the pc market and the server fleet, where are you relative to optimal product mix vis-à-vis kind of longer-term gross margin aspirations?
+but overall, i think the trend is such that you should see sequential growth in the gross margins as we go into the fourth quarter for some of the reasons that i mentioned.
+that does conclude today's teleconference.

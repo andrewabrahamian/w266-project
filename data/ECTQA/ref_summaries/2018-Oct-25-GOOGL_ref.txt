@@ -1,0 +1,38 @@
+and then with respect to your comments on youtube, we're starting to hear from advertisers there is some blurring between brand and direct response ad budgets as they look at products maybe more across blended lines.
+and increasingly in mobile, people do want immersive, engaging experiences.
+we are investing in image search, and we do have products like google maps and photos, which all add to that visual experience.
+and so over time, we'll adapt that so they go hand-in-hand.
+sundar, 2 questions for you.
+on the first one, look, i mean, we -- one of the things i'm really proud about google is we have a deep bench of talent and, for example, in the ads team, almost all of our senior ads leadership has been here for well over a decade.
+i think -- and we are thinking hard about how we can surface relevant information for our users, stuff they are really looking for, can act on in a way in which it's delightful for them and it's showing up for them when they need it.
+and we'll give you a good sense of how we plan to do that over time.
+what are the milestones for success that we should be looking for on hardware?
+and then for ruth, as we start to look ahead to 2019, as you plan for '19, how are you thinking about the relationship between revenue growth and dollars of operating income growth for next year, particularly if the macroeconomic environment were to become, let's say, less of a tailwind to the broader ads environment as it was this year and in prior years?
+and our next question comes from mark mahaney of rbc capital markets.
+so we are constantly looking for ways by which we can better serve chinese users.
+but as we said repeatedly, it's very early days, and we are taking a very deliberate, iterative approach to broadening it out.
+i know you talked about local mobile searches growing quite rapidly in the past.
+but any early learnings from the monetization, the return that advertisers are getting on that front?
+and so that is a big focus.
+and as you pointed out, we are definitely launching and experimenting with newer ad formats on maps itself.
+but we are definitely in the phase of putting those, testing it out, making sure the user experience works and making sure we can deliver value for advertisers.
+on your second question, look, we today serve our users on gaming across google alphabet in many ways, right?
+and so we are thoughtfully thinking about what more we can do there.
+sundar, can you help us better understand how the remedy in europe will work in terms of licenses and tac going forward?
+and we're particularly excited about the opportunity with machine learning because it opens up more services and products for users and for advertisers and for enterprise customers.
+and so given our view about the long-term potential with these opportunities, we're very focused on ensuring that we have the needed compute capacity to support growth.
+so again, this really goes to our view of the opportunity set.
+so in terms of your first question, we actually felt pretty good about the strength globally, which i noted in the opening comments across the board, 20% growth in the u.s. on a $15 billion base.
+the product looks great.
+and then on verily, you called out some deals with kind of the big pharmaceutical companies this quarter.
+look, first of all, part of the big thing is this is our third generation of hardware.
+our value proposition does come through in many competitive situations.
+i also don't -- from the way we see it, it doesn't look like a zero-sum game.
+it seems like very early days.
+and so we are doing that.
+and our next question comes from brent thill of jefferies.
+and we worked very hard to make sure our products are ready and in compliance.
+we see it as an important use case and that's why we are investing a lot.
+and when we mention areas like youtube and waymo and cloud and hardware, they all fit that category.
+and that concludes our question-and-answer session for today.
+thanks, everyone, for joining us today.

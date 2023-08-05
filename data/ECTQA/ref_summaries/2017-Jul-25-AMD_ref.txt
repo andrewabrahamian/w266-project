@@ -1,0 +1,40 @@
+sure, mark.
+we had a number of customers as well as partners, oem providers, odm guys as well as cloud providers who participated in that.
+we would expect that we'd continue to ramp that revenue in the second half of the year.
+and a follow-up if i may.
+and so couple of things that we are certainly doing are we're prioritizing supply towards the gaming market, so you'll see system integrators as well as on some of the major e-tailers, we have bundles with ryzen and radeon.
+it occurs to me, and through some of the conversations we've had, particularly in the enterprise markets of high-end desktop and server, that some of the purchasing decisions made by your customers might be sort of dictated by how confident they are in the long-term road map that you guys are putting together as you move to 7-nanometer versus just the products that you've launched so far.
+we have multiple design teams that are working, and we expect that, that would give us a strong competitive road map for the next several generations.
+the -- i guess, the first one is on share count.
+but how should we think about that as we move through the year and into next year?
+yes.
+we are making targeted investments, particularly in r&d.
+and a related follow-up on that is just transitioning those asp and mix commentaries over to the actual gross margin.
+so given everything you just said about the mix improving in the back half of the year and the revenues now being higher, i'm a little surprised the gross margin guidance didn't change for the year.
+i think as we get into the q4 guidance, we'll talk more about the margin progression, but the -- what we expected in terms of margin expansion with the premium products is certainly playing out, and that's helping the q3 guide.
+we will be launching vega actually in a week at siggraph, and yes, there will be -- vega will be shipping into gaming, into professional workstations as well as into the gpu compute segment in the third quarter.
+our next question today is coming from ambrish srivastava from bmo capital markets.
+okay.
+that's a mix of gaming being seasonally stronger in the third quarter.
+now how is it different than sort of a couple of years ago?
+inventories being down going into this quarter and with all your new product ramps, is that -- is it down mainly just because of gpus?
+it's down marginally in the quarter, but i expect that in q3 it will go down.
+i think we have -- we put out a product that is not only strong on basic cpu performance but also offers much more flexibility in terms of what you can do with memory and i/o.
+and as you -- especially as you roll out epyc, are you seeing the ecosystem come and work around your products, so those benchmarks are not going to be an issue this time around?
+i've actually been very happy with how they've jumped on the support of it.
+i think you'll see, as we go through threadripper launch, which is coming up very shortly, that the ryzen ecosystem is strong.
+is it sort of next level down of cloud customer going to drive significant revenue and then enterprise next year?
+i mean, how would you sort of bucket those 3 things in terms of where the epyc potential lies?
+we are, as i said, in the process of catching up to demand, and so we're certainly increasing some of the production.
+it's just demand was quite strong.
+so we feel very good about where epyc is positioned.
+that's helpful.
+but in terms of how we've laid out the business model, i mean, that's all contemplated sort of in our overall growth model for 2017. as it relates to margins, again, without being very specific, i would say the epyc margins are highly accretive even at our current sort of pricing, which offers, i would say, significant value to the customer.
+i think it also gives us significant credit for the capability of the product.
+but again, very good market.
+lisa, i just want to follow up on the -- your comments on the cryptocurrency market.
+but right now as we said, the channel inventories are very low, and so it's hard to call the absolute demand.
+and then just a question for devinder.
+we'll manage within our guidance of expense-to-revenue ratio of approximately 31% for the year.
+thank you.
+that does conclude today's teleconference.

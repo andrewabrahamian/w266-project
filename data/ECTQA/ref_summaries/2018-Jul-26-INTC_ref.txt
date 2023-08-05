@@ -1,0 +1,30 @@
+any sense to when we can think of timing for your server products on 10-nanometer also.
+i'll take that one.
+the systems on shelves that we expect in holiday '19 will be client systems with data center products to follow shortly after.
+the first one is, could you give us some color on what are the most challenging aspects of the process that you need to address to improve yields?
+and that, to some degree, is factoring into our timing of 10-nanometer and launching 10-nanometer at a point in time where we believe the yields are at a level that make it prime for volume production.
+so 14-nanometer, i think through the rest of this year and through 2019, continues we believe to drive product leadership across all our portfolios in clients and server.
+and i guess, as you talk about the question, maybe navin can chime in.
+but we're looking at real strong growth for the full year.
+and not only volume, but the trajectory of xeon scalable and the adoption of xeon scalable has accelerated a little bit beyond what we expect to driving real good asps.
+the only thing i'd add to that, john, is that the demand is broad-based across all the segments that bob talked about.
+yes.
+so we see good solid op margin growth first half to second half.
+the dynamics are the gross margin, we expect to come down a bit and be more than offset by good volume leverage on a relatively stable spending base.
+one, accelerating growth of modem as we go through the second half of the year, accelerating growth of nsg or memory as we go through the second half of the year.
+we'll be up another couple of points first half to second half, but the gross margin dynamics will weigh on us in the fourth quarter and spending will more than offset it.
+we're not giving a direct time line right now.
+i actually want to go back to the question about gross margins in q4.
+i presume by segment out, you mean quantify, and my answer's probably unfulfilling if that's the case.
+but i think you hit on the 3 things.
+but if i look at our broad portfolio of products, our asps look very good.
+so in general, we're just seeing an almost insatiable appetite for the best products, the highest-performing products that we have.
+and where is that coming from?
+our next question comes from the line of chris danely from citigroup.
+so really good expansion in margin performance while continuing to invest.
+in general, we're going to see a much shorter ramp period between our products going forward in client and server.
+the way i look at our road map, what we're really focused on is delivering product leadership generation over generation, and that's at the system level.
+and is 10-nanometer less of a drag in the future?
+so as we see our customer relations going forward, you'll probably see a lot more codeveloped products using intel process technology in order for their delivery and their interworking with the product portfolio that navin talked about.
+so custom products through a custom foundry relationship remain a strategically important part of our customer engagement portfolio.
+thank you, ladies and gentlemen, for your participation in today's conference.

@@ -1,0 +1,33 @@
+thanks, chuck.
+are you there?
+my question for both of you is in your latest cause for business leaders, post elections in particular, has ceo/cio sentiment here in the us in particular improved in your view?
+it's predominantly the sp weakness and the overall capex challenges that we've seen in sp.
+you have the overarching macro uncertainty in the economy, which i think has lead to the sp capex weakness that's been reported all year by the analysts, as well as you have political and regulatory environments that are somewhat uncertain, both in the us and around the world.
+some of those could turn more favorable.
+we're putting heavily our investment there as we drive innovation that you'll see today as well as going forward the next few quarters.
+i just wanted to dig a bit into your deferred product revenues this quarter that have increased i think by a bit more than $1 billion year on year and actually $700 million or so, almost $700 million sequentially.
+the question i have is how do i take that into account when i look at your overall product performance that you had (inaudible) revenues slightly down in the quarter, but i would assume that a lot of that is related to the transition towards your subscription business.
+what other products within that service provider vertical accounted for the weakness.
+kelly, anything to add?
+obviously, as been pointed out, is that it's developing pretty well, but i'm wondering two things.
+as it relates to the core networking platforms and at what point we'll see security pulling through, i think we have had some examples over the last few years where we've seen particularly security portfolios integrated into routing platforms as the teams have done that we have seen as we sell those as licenses that run on top of routers.
+i think it's a little bit of all of that and my assessment of when those issues are resolved is dependent upon the issues themselves and we're going to have to wait and see how they play out.
+hi, guys.
+thanks for taking my question.
+where we've done that, we had begun to see success.
+sure.
+that's up to 29% versus it was 28% in q4 and 25.5% in q1, so making the progress there.
+the good news is they are again continuing to be very disciplined making those tradeoffs and the pricing is staying in the normal ranges.
+i think your observations are probably valid, particularly if you look at a lot of the open stack, early open stack implementations.
+thank you.
+next question is from mark moskowitz with barclays.
+chuck and kelly, i want to get a sense here if there's been any change tactically related to how the teams are incentivized around margin, just given the company continues to outpace the guidance on the gross margin line.
+it is definitely part of the focus.
+our head of sales and our head of partner sales, you know they are all part of this pricing council that we have that we try to be very agile of when we make pricing, either new product pricing or changes to product pricing, to take advantage of where any elasticity is.
+there's a very big gap between the next quarter guidance year-over-year growth rate and your long term growth rate.
+i'd say for campus switching, which is 2/3, roughly, of our entire switching business, which is our biggest business unit, i'd say most of that is macro, right?
+it's the one area that people can put off doing a refresh if there is any macro concerns.
+to your point, we launched a fantastic product a couple years ago but we had to manage through the transition of a very sizeable legacy business data center portfolio declining as that accelerated and so we managed through that.
+do you take that into account when considering your dividend policy?
+we're obviously focused now on continuing to execute in those areas as well as, as i talked about earlier, bringing automation management and security at scale to the balance of our switching and routing portfolio and aligning with our customers' desires and how they consume our technology.
+we now plan to close the call.

@@ -1,0 +1,34 @@
+in calendar year '17, of course, supply has been tight.
+so the demand trends continues to be very robust.
+one, we are making progress toward a mix -- a higher value-added mix of solutions, and those typically carry the opportunity for higher margins.
+and then, maybe just one follow-up, ernie, on the balance sheet.
+yes.
+and then, for fiscal year '18, certainly, getting the balance sheet in shape relative to these aggregate levels of debt.
+cloud and server, data center enterprise as well as cloud data centers absolutely will continue to be the biggest growth drivers at large volumes for the dram industry.
+great.
+all of the major auto oems and self-systems guys are focused on this.
+they're talking about 25, 30 gigabytes of dram and 1 terabyte ssds per car for level 4 and level 5 fully autonomous.
+maybe on dram, can you just go back to -- the servers been a huge driver, and that's really been without intel's purley's still the minority.
+and when you look at projection over 2018 timeframe going to anywhere above 3,000 gigabyte average capacity continues to march ahead by 2021 timeframe, almost tripling from the 2017 levels, well above 8,000 gigabytes as well.
+as we introduce third-generation 3d nand, we would continue to expect that, that technology of mature yield have -- or has favorable cost dynamics relative to 64-layer.
+okay.
+today, it is about many more applications of dram and really providing a very strategic enabling role in creating all these applications that are truly transforming the world right before our eyes.
+we expect that we will have some measure of bit growth, as we said.
+and our next question comes from the line of c.j.
+so curious how customers are reacting to that reality.
+but until we get to the point where we have completed or substantively completed our work on this technology deployment and regaining cost competitiveness and also getting our aggregate debt levels to the -- to a level that we are more comfortable with, certainly, those will continue to remain our priority.
+so it isn't just a statement about the client compute environment.
+i think, again, our estimates based -- for dram as well, are based on all the information from various sources and reports that we gather and we have put that here.
+we will, as i said before for nand, same thing.
+two questions.
+i think the one thing i would add to that as well is if you think about our statements around industry bit growth, which are approaching 50%, those would be associated, typically, with fairly healthy levels of cost reduction.
+and how should we think, generally, on a big picture, about pricing there?
+i'm just kind of curious, given that you guys had significant gross margin upside on pricing down low single digits sequentially, under a scenario where pricing continues to decline, let's say, at a low single-digit rate sequentially, is there enough mix and cost opportunity for you to maintain and/or grow gross margins from here?
+and a similar question on the dram front.
+you mentioned in your prepared comments that you expect more dram bit growth in the first half of your fiscal year than the second half.
+you heard sanjay speak to, for example, increasing the breadth of our managed nand offerings.
+my question, actually, is about how is micron thinking about the need for fabs longer term.
+and how are you thinking about that?
+fiscal year '18, we are not looking at any new wafer capacity additions.
+and it takes a few months then to roll in equipment into the new cleanroom and to deploy the equipment, qualify it and build products.
+and this concludes today's question-and-answer session.

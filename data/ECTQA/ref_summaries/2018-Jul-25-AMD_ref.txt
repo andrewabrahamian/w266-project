@@ -1,0 +1,36 @@
+and does that change the conversation with your customers in terms of their interest in your products?
+a follow-up, if i may.
+yes.
+i think the value proposition increases with some of the architectural improvements that we've made in the second generation of epyc, but from the standpoint of tam, i think we feel good about it.
+and as you can see in the market, overall, the gpu segment is growing quite a bit in data centers.
+all right.
+so if you look at the pc segment, what we have seen is basically a ramping of our product portfolio.
+what's the visibility around that?
+on the epyc, your question is naples versus rome and how we manage that.
+i think the good news is there's a lot of interest and it's really just on us to execute cleanly through the next couple of quarters.
+and matt, you had some other questions or...
+yes, i mean, the last on there on server was about manufacturing for rome, and then i'll just -- talk about some -- one thing on the pc side, particularly notebooks, one of the questions i'm getting most often from investors is as the product portfolio from amd improves dramatically, and i think will again as you guys go to 7-nanometer, it seems like winning sell-in share with oems is something that you guys have a bit of control of.
+and so we've been very focused on that and that comes with additional investment in go-to-market expenses.
+particularly in notebook, we saw an acceleration of ryzen mobile units in the notebooks.
+so it's an approximate number, it's not an exact number, but it's approximately 60%.
+for my second question, you said you had epyc up more than 50% sequentially.
+accounts receivable, why did they go up so much?
+and then for a certain domestic china applications, i think the china jv product will be available.
+lisa, a couple of questions.
+i would say, at the moment, sort of for 2018-type revenue, they are independent engagements at the moment.
+year-over-year basis, you're right, we have increased it, and largely, those increases have been in r&d.
+our next question comes from the line of chris danely with citigroup.
+as a follow-up, you talked about your goal of mid-single-digit share for epyc by end of the year.
+our next question comes from the line of ambrish srivastava with bmo capital.
+what is the timing for the 7-nanometer gpu?
+so i think we're making good progress.
+yes, again, we're working with several cloud vendors on sort of key applications in their data center.
+thanks, ambrish.
+i would say a number of those platforms -- a large majority of those platforms are shipping to multiple customers.
+i think we're starting to see the mix and that margin accretion of the new products, and so we'll continue to do that over the next couple of quarters.
+so, i guess, it's fair to -- yes, i guess i'm just trying to -- i guess given the commentary around the fourth quarter and epyc, really that being an important quarter, could we assume that gross margin from here continues to trend higher?
+well, i think it's fair to say that, as we go into the second half of the year, our new products will be a larger percentage of our overall product revenue.
+but maybe there is some question about the ability to sustain those targets next year and the year after.
+we told them when to expect second generation epyc and what we were trying to do with that.
+so again, our goal is to use the best that process technology can offer in the foundry market, and then differentiate on architecture and sort of product positioning and those kinds of things.
+this concludes today's teleconference.

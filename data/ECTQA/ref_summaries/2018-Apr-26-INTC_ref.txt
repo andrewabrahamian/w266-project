@@ -1,0 +1,36 @@
+sure, ross.
+so first thing i'll tell you is that there is a bit here that is the transition to cloud continues to occur, occurring at a bit even faster rate so that -- you do see that trend is going on.
+and it will move from cloud to enterprise.
+the only thing, ross, that i would add is in terms of our outlook in the more near term, our outlook for the year is kind of continued strength in the second quarter similar to the first quarter.
+but you go back to brian's comments, i think the -- what we do know is the -- this increased demand for compute data, analytics, storage, rapid retrieval is what's really driving the demand for high performance compute.
+so i did want to make sure that, that was very clear to you and that was our densest, highest performing product out there.
+they're really tied to this being the last technology tied to not having euv and the amount of multi-patterning and the effects of that or defects.
+that essentially is a function of continued volume and asp strength but partially offset by yields that are improving, but not quite at the rate that we had anticipated on 10-nanometer.
+so as the volume production pushes out into 2019, given you understand the yield issue supposedly, is this a first half kind of push out?
+and so we think all of these technologies now have multiple years of performance improvement built into them as they come off the floor.
+you'll have that 10-nanometer ramp kind of starting.
+so those are -- that's kind of the dynamics in terms of how we're deploying capital for accelerating top line growth and the improvements on free cash flow relative to earnings per share this year.
+the next question comes from the line of chris danely with citigroup.
+i guess another question on the manufacturing.
+as far as what does that imply for future technologies, we made a lot of changes at 7 nanometers.
+and we're able to put those together and make them perform and behave like a single piece of silicon in the package.
+great.
+or is it entirely the 10-nanometer issue?
+and third, for data center growth, while we're kind of expecting strong growth through the first half of the year, the second half of the year implied in our guidance is a deceleration.
+yes, the -- just the capex that we took up, $0.5 billion is really a function of the incremental $2.5 billion of revenue.
+and if you could talk a little bit about what's framed your expectations as you look through the year for memory.
+first, no real changes.
+continued gigabyte demand, continuing to scale the dalian fab and continuing to come down the gigabyte -- the cost per gigabyte curve are all contributing to what we believe will be a continued growth and profitability for the business for the full year.
+i think you're right.
+so we are less and less impacted, i'd say, by the enterprise.
+first, was the 606 impact embedded in the original march quarter guidance?
+the implications are there's a noncash charge associated with that, which goes through our interest and other line that's negative.
+okay.
+so let me try and answer your question.
+i mean, the proof of that is that we're shipping products.
+we're able to just move the capacity back and forth.
+we'll fix the yield issues.
+your filings indicate that mainland china was about 20-plus percent of revenue in 2017, and i have 2 questions.
+how concerned are you as it relates to the impact to intel?
+it's one of our fastest-growing segments as well.
+operator, please go ahead and wrap up the call.

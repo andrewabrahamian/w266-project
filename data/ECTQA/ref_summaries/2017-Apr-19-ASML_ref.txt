@@ -1,0 +1,50 @@
+okay.
+and then i guess as my follow-up, wolfgang, if you could give us an update on how you're seeing the trajectory for euv gross margins.
+and then how we should see reaching that 20% target into the calendar '18 time frame.
+yes.
+one is simply volume, shipping 3x as much as last year.
+and in particular, on the memory order.
+the orders in q1, yes, i think that's sustainable for the next few quarters.
+given the fact that -- given the outlook that customers are giving us.
+but you have to remember, that what we saw over the last 2 years was especially weaker order flow from dram-type customers.
+but we haven't seen any new fabs coming online at that size since.
+but what we did see -- and it has to do with your nand and dram question, what we did see is that given the economics of the dram markets over the last 2 years, we've seen leading edge litho capacity being used in nand productions.
+it's a different kind of cooperation.
+last year, you did about eur 7.6 billion.
+and now we think it's significantly up.
+that means that all available spots in -- or let's say, slots in factories that can take leading-edge duv will take leading-edge duv given the fact that i don't see that bit demand, end demand will go down significantly.
+i think china longer term -- and i think i said it on the last call, medium to longer term, that will be a, is a big opportunity for the entire industry.
+and you see an acceleration of that roll out in 2019 and 2020. so -- but all in all, we do not foresee a duv market in 2018. i think what we're currently seeing in the end market simply does not support such a negative view.
+how would you qualify demand you anticipate there?
+but i think the emphasis will be on the leading edge, will be on leading-edge logic and leading-edge memory.
+one question and a couple of follow-ups.
+gareth jenkins, ubs.
+well, if they will be interested in using euv way into the next decade, they will be asking for a gigaphoton, but most of them aren't, so they want it now or they want it soon.
+is that the expectation or allowing for some catch up, it will come at 0 gross margin?
+mehdi hosseini, susquehanna international.
+when would you expect the dual beam product to be available for evaluation?
+well, we'll see the first integrated product, that's a combination of the asml product and competency with hmi shipped to the first pilot customers by the end of the year, the end of this year, beginning of next year.
+but more important is i think that we have the whole concept of using the asml holistic lithography capability with the inspection capability of hmi and combine it into one product.
+and then shipment in 2019 and on will include maybe 1 or 2 layer for dram, and then as you look into 5-nanometer logic, then the number of critical layers that would use euv would go higher, and that's how we [ grow ] the doubling playing out?
+and those are options that are add-ons that they need in their production process, which of course for us is good business and for the customer always an area where they think they can have some purchasing advantages.
+you highlighted during your prepared comments, the public comments from all 3 of your lead customers acknowledging the progress that's been made on euv not only by yourselves but also across the ecosystem that was fairly well publicized at spie.
+samsung also seem to have been clear in their statements, yet as you just highlighted, we don't yet have the volume purchase agreement or indeed the sort of volume orders that you'd highlighted or that you had perhaps expected in the first quarter.
+and again, publicly, they seem to admit that it is, yet they haven't stepped up in terms of their order rates.
+those are euv pedestals.
+so i think in summary, 3 different customers, not homogeneous in the way they look at their road maps, the timing of their road maps, not homogeneous in the way that they negotiate and not homogeneous also in the speed at which they want to do something and the speed of their ramp.
+that's very helpful.
+it certainly looks like -- we said in average we think this business is going to grow 10% over the next couple of years.
+you can do the math.
+so it is a mix now.
+i think the first tools will ship towards the end of this year and then will continue shipping in the first half of 2018. so before that's all installed and the production process is qualified, you won't see any output out of those pilots fabs, i would say, way into the second half of 2018.
+the next question, mr. amit harchandani.
+so by 2020, we should have half the lead time.
+so as far as we are concerned, looking at the specs, high na is the preferred economical solution.
+the next question is coming from mr. adithya metuku.
+i have a quick follow-up.
+i want to say it's -- the overall deferred revenue is about eur 1.2 billion.
+i'd say euv is probably somewhere in the eur 200 million range or so.
+it's really driven by how they look at their own road map and their customer demands that will determine when they start to ramp up and put tools into production and start ramping capacity.
+we'll be around for a while.
+or is it also because like -- even at the tool level your margins are going higher?
+you may -- thank you for participating.

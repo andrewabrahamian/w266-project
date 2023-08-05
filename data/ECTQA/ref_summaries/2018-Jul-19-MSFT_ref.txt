@@ -1,0 +1,23 @@
+or is that better than you had imagined?
+and really, the driver of these per user services such as ems actually is the value proposition that satya refers to and we refer to as microsoft 365, and we saw strength broadly.
+and really that, i think, what we've heard a lot was the value of the security and management continuing to add more supported endpoints offer really tremendous value to customers, and we did see a bit more strength than i was anticipating in q4.
+congrats on a good quarter.
+let me break up that question a little bit because you actually asked a couple of things that are important.
+and then, the other question would be, you mentioned that you're moving from per user consumption that you're going to see more growth in consumption-based services versus per user azure workload growth.
+so i don't think that that has really played out.
+but the key is even the consumption services come in different forms.
+but increasingly, our strategy is, in many times, to get customers to get going with what is core storage or core compute but then they scale into these higher-level of services.
+so i have 2 related questions.
+on the first one, in terms of the gm this quarter, you're right.
+so i think that's -- when i put it at a very high level as you asked the question, i tend to think revenue's growing faster than my capital, you're seeing leverage through the p&l, and we'll see a moderating rate in fy '19 even if q1 is a big quarter.
+when you start to think forward over the next, call it, couple of quarters here, obviously, you told us what the positive drivers were.
+the next question is coming from the line of raimo lenschow with barclays.
+amy, can i go back to the server product?
+you partly answered it with the -- when heather asked, and i believe hybrid cloud will be a factor here.
+thank you.
+i build an application that's fundamentally distributed that also happens to run some compute on azure sphere.
+as well, if you look at the market share of where dynamics serve, it's a fairly small part of the market served.
+that's been one pattern we've seen a ton of traction with.
+this is one where, over time, there certainly is going to be a deceleration just because this is a per user business.
+so we did see a bit of growth that we're excited to see, frankly, in a segment where we've been working hard to make additional progress and add value.
+great.

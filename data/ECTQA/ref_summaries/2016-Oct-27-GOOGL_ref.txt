@@ -1,0 +1,21 @@
+sundar,  maybe for you, on the enterprise, thanks for laying out all the vision for the medium to long term on enterprise and cloud.
+and then on your second question, there are really two parts to the statement.
+and then ruth, the second question, just on core operating margins for google declined a little bit versus the prior quarter trend of increasing.
+i think one of the core things to your question is just as how we are looking at it, and our view continues to be that given the breadth of opportunities, and our commitment to long-term revenue growth, as we have talked about quarter after quarter, we do remain committed to investing in this growing set of opportunities, and we spend a lot of time trying to manage that revenue growth, and as i've said, manage expense growth with this -- the utmost respect for the resources deployed, and getting the best return on those resources.
+and just to make another point, which i said in my opening comments, we do expect ongoing gross margin pressure from higher tac in association with mobile search and with programmatic.
+mark mahaney, rbc capital markets.
+thank you.
+and as you point out, we've done hardware products all over the years.
+and so we're constantly thinking about how to do this well, and you'll see new approaches as we go through it more.
+wondering if you could share your thoughts on how the increase in voice queries may or may not impact monetization going forward.
+i approach this the same way, i think, as i see people using voice, et cetera.
+so we view this as providing us more access across many different surfaces, many different contexts, being there for them when they need it.
+we see both large and small advertisers using it, for us, we find advertisers who actually spend their time being thoughtful about the ad creatives and extensively testing and optimizing for this new format, they find strong performance.
+first one, for ruth,  heading into this quarter's results, you  had called out the ad format change in the third quarter of last year, which had  driven a step up in the year-ago growth rate.
+as we look forward to the fourth quarter, i think that was part of your question, as well.
+on the first thing, i would say, we are very focused on our core mission, and we see a huge opportunity to do that in a unique way, thanks to what we view as a point of inflection with machine learning, so refocusing the company on a set of initiatives, recognizing that point of inflection, is what has helped us  really  focus on things.
+can you talk about more about the trade-offs in the productization and sale of that inflection through google cloud versus leveraging that innovation yourself through google assistant?
+that would be great.
+we want to make sure that this -- that all these new capabilities for machine learning and ai are available through google cloud to all our partners.
+look, i think, i'm very glad to see the group come together.
+that concludes our question-and-answer session for today.

@@ -1,0 +1,44 @@
+hello.
+sure.
+and so what this effort around the restructuring is, is to say, it's time now to try, and we've made enough progress, right?
+and the one that stacy and i have been working for several months, actually several quarters, on what does he do next, how do we growth his both exposure to other parts of the company and also the rest of the company see his leadership style.
+this is going to be an orderly transition.
+my follow-up would be the full-year guidance of mid single-digit growth.
+what we're projecting for the year is overall growth, and we think we'll see growth in the data center, growth in iot, growth in memory that's offsetting some, oh and of course we've added in altera now into our product family, and so you take that and that's offsetting some of the weakness that we're seeing in the pc market.
+great, thank you.
+you know, we think that we can become more focused.
+you did a great job explaining exactly why we believe that the data center will continue in double-digit growth this year.
+we believe we have great products that we are introducing, with the broadwell lineup.
+so what drives the acceleration from the q1 decline?
+sure, so let me start and then we can just talk about, remember the majority of our memory space is built into ssds that are going into the data center, so you call those, really those higher-end performance class systems.
+we think we've done a very good job of structuring the business that we ride through these with a high degree of confidence.
+if i look forward, we believe the 3d nand technology that we're just beginning to ramp in our factories today, and we're building out the dalian factory for later this year startup, gives us a real cost advantage in this space and will allow us to even be more profitable in even these kinds of environments.
+thanks for taking my questions.
+for my follow-up, i just wanted to touch on channel inventory.
+so, you had your notebook and desktop volumes down low single digits year-over-year.
+yes, so i would point to two things relative to the overall, what we saw from our customers.
+they would see a weaker quarter, and i think that's because they were catching up to our view of the market and bringing inventory levels down.
+okay, thanks.
+when you look at those two items, the majority of what we're spending the capex on, 10 nanometer and memory?
+but if you take a look inside any one of those segments, asps are increasing, and our forecast for the overall segment for the year is an increasing asp.
+and stacy, you talked about in your opening comments, the 14-nanometer ramp starting to hit there.
+so it doesn't cause us to being a different space from overall operating profit percent.
+i'm curious, in lieu of the restructuring, how you're thinking about the pc market longer-term.
+that's allowing us to invest even more in those growth areas.
+and then we're continuing to gain share in segments like set-top boxes, which are becoming more and more pc-like with our capabilities, if you think about it from a hardware standpoint.
+could you just talk about, from the restructuring cost perspective, how much of that is going to be cash versus non cash, and would all the cash outlays happen in the back half of this year?
+what we're trying to do is really provide top of rack to bottom of rack solutions, that bring -- that work together and bring performance across the whole rack.
+but i'll give you some insight into how brian and i are thinking of this.
+this year we believe we are at 62%, so that continues.
+i don't see anything on the horizon that changes that in the near term.
+and then with these actions that we're taking, when we get to full realization, and i want to stress, we do believe that this will give us an opportunity to reinvest in the business and actually accelerate growth, but if you just look at the cost side of it, it's 2 to 3 points of spending as a percent of revenue when we get to mid-2017, and full realization.
+chris danely, citigroup.
+now let's talk about iot.
+they don't tend to be cell phone chips.
+but that link also between those products in iot and 5g, and the 5g infrastructure, we believe also plays into the data center, and the whole data center strategy, and will be critical that you can provide end-to-end solutions.
+and then the other part is we would expect to have a higher proportion of our profit in lower tax jurisdictions as we work our way through the year.
+yes, i'm sure that as we go through this and we finish the project evaluation, there will be some products that we'll exit from, those as they're defined.
+it has not touched that at all.
+as far as moore's law, we are always constantly striving to get back to two years.
+more importantly what i always remind people is the leadership you have over the competition, which is always what's important, right?
+both of those are as important as the other.

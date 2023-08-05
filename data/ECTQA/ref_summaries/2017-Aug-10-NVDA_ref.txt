@@ -1,0 +1,44 @@
+what are you doing to make sure that the balance sort of stays in your favor as the market matures from here?
+i thought we did great.
+and we ramped volta into volume production.
+100x faster than kepler just 4 years ago, and kepler was already 10x faster than cpus.
+if you have a data-intensive application and the vast majority of the future applications in data centers will be data-intensive, a gpu could reduce the number of servers you require or increase the number of the amount of throughput pretty substantially.
+first of all, there's training and there's high-performance computing; there's cloud virtual pc, as what amazon aws g3 announcement was about this last -- this quarter; and then there's also new applications such as inferencing as these models are now going into production and the new applications that are coming online, which is likely to overwhelm the internet in the near future, which is live video.
+and so the number of applications where gpus are valuable, from training to high-performance computing to virtual pcs to new applications like inferencing and transcoding and ai, are starting to emerge.
+your next question comes from the line of mark lipacis with jefferies.
+the market need for it is going to grow, and over time, it will become quite large.
+and it's very clear that the gpu is just fantastic at cryptography, and as these new algorithms are being developed, the gpu is really quite ideal for it.
+what we've done, our strategy is to stay very, very close to the market.
+we understand its dynamics really well.
+so q2 revenue came in roughly about $250 million above your guide.
+sure.
+let's see.
+and the second half is going to see some very exciting titles.
+and so they've done incredibly well.
+the way to think about our guidance, we gave a good guidance and we're comfortable with our guidance.
+curious how you're thinking about asp uplift over time, and whether you would expect that to drive a reacceleration in growth in data center looking into the second half of the calendar year.
+the growth -- the data center growth opportunity for us is quite significant, as you know.
+for this year and next, what you should see is development partnerships that we have with a growing number of car companies, and they're reflected in our e-projects, development systems and purchasing of our ai supercomputers like dgx.
+and so the software intensity is high, and the -- and our platform is recognized all over the world as the industry standard.
+can you just bin out what some of the bigger drivers for that increase are?
+thanks a lot.
+and so our -- i think #1 is our strategic position.
+we're happy with our guidance, and we want to have an opportunity to come back and give you an update in q3.
+it's kind of 120 teraflops.
+and so that's -- volta is just a gigantic lead for deep learning, and it's such a gigantic leap for processing that -- and we announced that at gtc, if you recall, which is practically right at the beginning of the quarter.
+and the applications that we serve is really diverse now.
+and i believe that ai is going to be the future of computing.
+and as a follow-on, when can we expect volta in the consumer gaming markets?
+and so the number of options of ways to enjoy nvidia gpus is really quite countless now.
+but for the holiday season, for the foreseeable future, i think pascal is just unbeatable.
+a neural net, in terms of complexity, is approximately -- not quite, but approximately doubling every year, and this is one of the exciting things about artificial intelligence.
+your next question comes from the line of blayne curtis with barclays.
+part of that was the cryptocurrency.
+and the reason for that is because, otherwise, they -- each one of the markets, whether it's playing games or professional visualization or high-performance computing, doing molecular dynamics, computation or doing seismic processing or perceiving the 3-dimensional world around the car and reasoning about where it is and trying to figure out how to drive, all of that software is very, very different.
+and it's different from our inferencing configuration, and it's different from our self-driving-car configuration.
+and so the entire ai will be -- the entire car will become an ai.
+and then the future projects, starting from end of next year with robot taxis, and starting with 2020, the autonomous cars, fully autonomous cars.
+and i -- we have a new product line.
+and those 3 major segments make up essentially the tegra business.
+partly, i'm not in total control of the answer.
+you may now disconnect.

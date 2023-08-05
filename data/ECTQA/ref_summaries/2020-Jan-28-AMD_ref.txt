@@ -1,0 +1,40 @@
+and then on the enterprise side, with the full portfolio of our partners, hpe, dell, lenovo and the odm partners, we see just a significantly -- significant increase in the overall enterprise pipeline that we have for rome.
+how should we interpret the impact of capacity shortages at your main competitor?
+yes.
+i think that's primarily on the strength of the product portfolio and the expanding customer platforms that we have.
+from our standpoint, we see it as a good market environment for data center in both cloud as well as enterprise.
+but we expect all of our businesses to grow nicely in 2020. and that's just, again, based on where we are in the product cycle and the visibility that we have with customer design wins as well as just overall competitiveness.
+great.
+and then i had a quick follow-up on gross margins, one probably for devinder.
+you guys are guiding q1 gross margins to 46% and then 45% for the full year.
+and then the semi-custom business, as we've said, typically, is lower than corporate average.
+sure.
+data center, it's, as we said in the past, mid-teens of revenue.
+and the -- and for the $400 million -- $440 million in cash flow from operations, could -- i had a challenge reconciling it.
+if you could give us a framework to think about that, i think that would be helpful.
+you said consoles are negligible.
+so does that represent kind of the peak of the business on the current mix?
+let me get started, and lisa can add.
+and you are right, the console being negligible revenue in q1 of 2020, it does benefit, and the margin is 46%.
+and in terms of opportunities to improve margins, it is definitely product mix.
+for my follow-up, if i sort of squint at the second half, it seems to me you're probably guiding it implicitly, call it, $800 million to $1 billion over the second half of 2019. how much of that do you think is consoles versus nonconsoles?
+well, i think, as i perhaps answered to one of the earlier questions, when i look at the full year at 28% to 30% sort of revenue growth, expect server to be significantly above that.
+and overall, we see the aggregate of it to be a very strong year.
+that obviously helps the margin.
+but there is a product mix underneath that, that helps, especially with the notebook products that we talked about, that are moving to 7 nanometers.
+can you give us some idea of -- i mean there's a big chunk that's game consoles, right?
+i guess as you think about that opportunity from a unit standpoint, is it the right way to look at it sort of a similar number of units to what we had in the first year of the current console cycle?
+but the overall sentiment is that there has been, let's call it, a lull in console sales in the second half of 2019 going into in 2020, sort of -- for some of this anticipation of the next generation.
+i just want to make sure i heard you right.
+i thought you said the semi-custom as well we grew at double digits, i just want to confirm that.
+is there a way to talk about the mix of 7-nanometer?
+how do i think about that?
+but i'm kind of curious, you answered an earlier question saying expect more gpus for the data center.
+i think the data center gpu market continues to be an important growth vector for us, and now i call that over the several-year horizon.
+our next question is coming from timothy arcuri from ubs.
+i guess i asked that because i'm just trying to see what the gross margin will be exiting this year if you strip out semi-custom.
+but q4, when you talk about the ramp of the product, especially in the first year of the ramp, it's hard to project how much it will be and then what the impact would be exiting 2020 from a gross margin, excluding semi-custom.
+i got it, okay.
+and i think that's one of the bigger debates, and i don't expect specifics, but anything you could to help us understand what should be the mix between cloud and enterprise for calendar '20.
+we reached the end of our question-and-answer session.
+we thank you for your participation today.

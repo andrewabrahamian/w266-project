@@ -1,0 +1,26 @@
+i think we are seeing the fastest growth through our dram memory at large-scale, in cloud computing and hyperscale data centers.
+as my follow-up, your ssd revenue was up 80% year-over-year.
+and we look at opportunities to gain further share in all of these ssd markets in the future as we continue to execute on our product roadmap.
+our next question comes from the line of chris danely from citi.
+as a follow-up question, can you talk about what micron's projected cost reductions are for nand and dram this year?
+so we are very pleased with our continuing progress on cost at the technology level, and continuing to focus on advancing our next-generation technology nodes and products.
+okay.
+i think if you look at last few years and you look at micron's revenue and you look at micron's capex, you will see that micron's capex, over the course of last few years, is in the low 30% range of the revenue over those last few years as well.
+i have a follow-up, please.
+i didn't totally get the question.
+yes, i'm just curious how should we assess the potential demand destruction in dram demand from higher asps in mobile and pc environments over the next few quarters, if there were to be an issue?
+and same, as i talked about earlier, for hyperscale data centers.
+when they look at what models that they can enable for their end customers, those are all being built on very data-intensive applications.
+so dram really has become an essential part.
+that's helpful.
+and how should we think about the timing of any planned prequalification expenses for maybe 1x dram or qlc 3d nand deployment when we make assumptions for opex for the balance of 2018?
+we'll have the full quarter's effect in the third quarter, and that was about $20 million on a full quarter.
+your nand gross margin is in the 45% to 50%; dram gross margin is in the 65% to 70%, and assuming that the industry is rational and we can't avoid excess capacity, why not just focus on making the most cost-effective dram and bit and capitalize on the margin profile?
+it's already implied through the strong results we have demonstrated so far but there is even greater opportunity ahead of us.
+in terms of costs, you recently introduced a qlc 64-layer 3d nand sata ssd.
+we're not seeing any despeccing.
+and then a follow-up, more of a longer-term or midterm question.
+but there's no letter after 1z at this point?
+when do you start to see the drag go away?
+of course, as we start to release those products, about late 2018, we'll start to build some of those wafers and that will help out on the underutilizations as well.
+thank you.

@@ -1,0 +1,37 @@
+and making sure digging deeper to push our products to be more helpful is the main theme by which we are evaluating everything we do.
+beyond that, be it the focus on cloud has been a big part of it, continuing to scale up youtube, including being focused on content responsibility.
+as we are making the experience better for customers, including on products like discover, so just getting information to them more seamlessly when they need it, i think they all tend to have a commercial aspect at the right intent when users are interested in it.
+and so taking a long-term view, i think it will resonate on the monetization side as well.
+i'll just comment a bit on the impact from google marketing live that sundar referenced at the outset.
+i think what's notable here is that every year at gml, we announce new changes to products and features, and most ads product launches are introduced in phases as advertisers initially experiment with new formats.
+i was just hoping you could provide a little more clarity on maybe how the product changes that you've talked about in the past played out across 1q and 2q.
+and part is the benefit from applying machine learning to both the user and advertiser experience.
+and we're really, really pleased with the ongoing momentum that we're seeing here.
+it's one of the most important areas we are working on.
+does this include gcp as well as g suite?
+and further, is this apples-to-apples to, i guess, the $1 billion that you -- i think sundar talked about?
+yes.
+how are you thinking about organic versus inorganic product development?
+and so that's going to be a focus for us.
+so we'll be customer-focused.
+and our next question comes from mark mahaney from rbc.
+two questions, please.
+so i find q1 still a little bit of a question mark.
+and the key point that i'll just reiterate is that as much as there is a lot of innovation going on in the business, and we've talked about that, we introduce product changes only after extensive testing, and that means there can be variability in quarterly growth rates, as you've seen.
+and i think the main point is we view the repurchase program as an effective use of capital.
+and then sort of a question for sundar or ruth.
+and so i guess i'd be curious to hear for advertisers and parents on the call, what steps have you taken to really make sure that youtube is safe for kids?
+i already noted that youtube revenue growth was strong in the first quarter and again strong here in the second quarter.
+and so the click and cpc growth are unrelated to actions on policy enforcement.
+but an important point is that our removal of content that violates our policies have virtually no impact on youtube revenues.
+but really, i would reiterate what we said previously that we continue to see substantial growth in direct response.
+and our next question comes from justin post from bank of america merrill lynch.
+just wondering how you think about a more intense regulatory environment, getting a lot of questions.
+we have participated in these processes before.
+so i guess how should we think about the cadence of that relative to your comments about the headcount growth and the looker acquisition looking forward?
+so i guess just big picture, how do we think about the growth rates that you can sustain in mobile search revenue relative to that 10% active android growth rate?
+thanks for that.
+and as we both commented, given the opportunities we see with the application of machine learning across the business, we are continuing to invest.
+and so tried to lay out the relevant points for you to ensure that we make it very clear.
+we are committed to continuing to invest for what we see as long-term opportunities.
+and that concludes our question-and-answer session for today.

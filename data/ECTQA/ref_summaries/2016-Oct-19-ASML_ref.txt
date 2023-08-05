@@ -1,0 +1,46 @@
+yes.
+this is basically an ongoing process and it has to do with the fact that, yes, we are reaching the targets that you just mentioned on a regular basis, where it's the variability of the tools in field or in the entire installed base that is not consistently at those levels.
+and i think this is really what customers and ourselves are now working on to execute on those programs that will bring that consistency, and that will be an ongoing process.
+and like i said in my introductory statement, the requirements for us to start shipping euv tools for insertion in high volume is for us the 2018 and 2019 timeframe.
+thank you.
+so once you recognize the eur80 million in q4, can you share with us what deferred revenues will be remaining?
+and then lastly, how should we think about gross margin trajectory now that your revenue-ing upon shipment in the calendar 2017 timeframe?
+okay.
+first of all, it's in our mind a significant achievement that we now have this predictability of the installation because that takes one of the big hurdles to recognize revenue in the same way as the euv way.
+as it relates to the gross margin, a couple of points there.
+first of all, the objective is clear.
+yes, c.j.
+and the way we're looking at today is that we believe that the logic ramp will continue as strongly as we've seen in 2016, also in 2017.
+memory, given the wafer capacity situation and what we hear from customers, that we believe the memory business will be at least at the same level, if not slightly up.
+you obviously said 90% is the key level, but i guess the question that we all have, how long is that 90% availability?
+is it six months?
+and that will happen over time.
+i had two, i guess.
+and then i think now that's going to maybe having to ship 40 systems to get to 40% gross margin.
+so, tim, let me [go there].
+i guess just as a last follow-up, wolfgang, can you normalize the guidance if you strip out both of the effects of euv?
+barclays.
+but also, i think what we are seeing is that the next two quarters or so we will see also the first orders for 2018 coming in filling that up.
+and for ones-es and twos-es, you don't need volume purchase agreements.
+so this is also not a surprise that we are in deep discussions as we speak on those volume purchase agreements, which will be the trigger, you could say, which will be the umbrella under which the individual pos will be issued.
+if i may, wolfgang, just refreshing memory, this customer co-investment program was specifically made to support asml in the, let's say, double investment time of let's say about five years where we had to invest in [leading sdpv] but also had to invest in euv, and initially we thought it could have been [for 50].
+we are focusing really with the hmi acquisition to combine the competences of the two companies and create something which from a value point of view is not available in the market today.
+and when we're successful, we'll grow market share.
+and that's a drive laser to basically create the euv plasma out of tin.
+it's a good question.
+litho intensity will -- when we get to 1x will go up, but largely in the 1x node and 1 bit node starting you'll see the introduction of [euv].
+amit ramchandani.
+now the split or the granularity that you're asking for between -- in dram and nand is a bit difficult, because what we're seeing very much is that the dram tools, currently leading dram tools, are relocated to nand.
+i think that you'll see that we -- whether it's 7% or 10%, we'll be over eur2.1 billion/eur2.2 billion this year, which is close to one-third of our business.
+i just gave you the example of memory.
+that's very helpful.
+it seems like the transmission is very low, like 30% losses right now; and there is an extra coding that needs to be applied which takes up even more of the [uv] life.
+i think that's the major issue.
+and if you asked me, peter, is there a tool installed right now, no, but it's in shipment, and more will follow.
+but we don't expect that to be a showstopper.
+and then mask inspection, actinic inspection, we said it before.
+but that's pretty normal when you look at when those developments have started and where we are today.
+and then as a follow-up, one question on euv high-na system.
+but what form it will take, i don't know.
+it could be simple commitments of placing purchase orders with a high level of prepayments.
+so, patricia, if we could have that one last question, that would be great.

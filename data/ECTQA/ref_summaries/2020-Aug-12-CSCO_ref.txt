@@ -1,0 +1,38 @@
+yes.
+and we feel like we just need to get through this pandemic cycle that we have, and then we'll set some new targets, and we'll communicate them to you at that time.
+the next question is from meta marshall with morgan stanley investment research.
+great.
+but just given the fact that we're moving much, much faster, are you more open to get a bit more aggressive here on the m&a front to fill in gaps?
+clearly, we've got a lot of technology that we're working on today to help our customers over the next 3, 4, 5 years in this multi-cloud world that they're going to live in.
+and you'll see more of that come out over the next couple of years.
+so i think we're open to any and all ideas, and we continue to work through different options, and we have a list of potential targets that we maintain on a pretty regular basis.
+kelly, you'll be significantly missed, so thank you for the duration.
+and like with huawei being pushed out and cisco being preferred in many countries, even beyond the united states as well as an incumbency factor coming out of coronavirus, help me bridge your kind of year-over-year revenue growth.
+well, i'll comment subjectively, and then i'll let kelly talk a little bit about the numbers.
+i think that it feels to me very much like it felt 90 days ago.
+and clearly, the -- in the u.s., we have not seen -- we've seen some areas that have gotten better and, obviously, some that have not.
+kelly, do you want to talk about the...
+yes.
+so comparing to q1 of '20 right now, we still have some tougher compares.
+maybe sort of a question, 2 clarifications.
+and then sort of as you go down in the marketplace, we just -- the weakness got a little bit worse as you just sort went straight down, as you would expect with small business, medium business and even smaller-size enterprises that were -- didn't perform as well as the very largest of enterprises.
+where you'll see the cost coming out, i'd say, the majority is in opex.
+in fact, it was a slight, slight, slight bit better than we had anticipated at the beginning of the quarter.
+do you think that they've -- because they're investing so aggressively in work from home, are they pulling demand forward out of the back end of the year?
+and they're going to continue to invest to position themselves when they come out.
+and i guess i'm trying to discern sort of the macro versus the product cycle issues.
+they haven't committed to refresh.
+number one is we're still very early in this whole process.
+thanks, james.
+but chuck, you talked about accelerating the transition towards saas.
+can you guys give us an update as to where that saas revenue is, not the term license contribution, and where you guys think it could accelerate given the investments?
+and you should assume that we will continue to look at them, but we'll also be disciplined.
+and again, acquisition, meraki is a hybrid, where we ship an appliance, but then it has the saas management.
+and congrats again, kelly.
+i think the question, chuck, last quarter, you spent a little bit of time talking with us about traction on the web scale side of things.
+so that's one of the areas that was really positive for us.
+our last question is from george notter with jefferies.
+and then we see an acceleration of some of the work that's already been underway.
+so it literally is across the entire portfolio.
+we now plan to close the call, but if you have any further questions, feel free to contact the cisco investor relations group.
+and we thank you very much for joining today's call.

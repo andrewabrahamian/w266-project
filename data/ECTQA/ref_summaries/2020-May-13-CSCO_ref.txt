@@ -1,0 +1,37 @@
+but if i could ask you on the infrastructure side, the thought arises given that so many organizations shifted to work from home that's likely to persist to some degree.
+yes.
+and then the question about when they return to the office and how much -- how many people return to the office and what does that mean to the infrastructure supporting their campus environments is certainly one that we're going to be watching.
+so again, different customers will be able to do that at different paces based on how they're impacted, what their capital situation is.
+so that certainly drove a very large chunk of that revenue.
+just given the push with webex and appdynamics, i was a little bit surprised it was down on a year-over-year basis.
+it's clearly declining and then overshadowing those businesses.
+we're clearly trying to transition there with some of the things that the teams are building there.
+when we look at the demand and when i look at the uptake, the significant uptake we had, the offers we had during this last quarter, just using our normal, what we expect to convert from free to paid is going to be a nice tailwind for us over the next few quarters here.
+i guess i've got 2. one is regarding the order volumes.
+i don't know, kelly, could you give us some idea of how that affects cash flow?
+what we did see in the americas and in the u.s. is we saw, obviously, strength in webex and security as more -- as the customers executed on their business continuity.
+we also saw strength in service provider as they build out capacity.
+so in q4, there will be, i'd say, a small amount.
+we have a pipeline that we're going through.
+and hopefully, it's helpful to those customers that haven't leveraged it in the past.
+thanks.
+we feel good about it.
+our service provider business was up mid-single digits in orders in the americas in q3, which indicates, obviously, the capacity build-outs that some of them we're seeing as well as that web scale business.
+that's a very good question.
+and now even my calendar and the things that we're focused on are much more sort of traditional business issues and how we move forward.
+tal liani from bank of america.
+and the question is why don't we see the impact of -- first of all, what are the drivers for that?
+we're hearing from others that customers are less willing because of the uncertainty to sign on contracts that are longer than 1 year.
+those are seeing pressure that i think we'll see translate like hitting milestones or doing projects.
+when the orders drag, it's usually a lag for a while.
+so we'll start to feel maybe a little bit of that in the upcoming quarters.
+next question comes from amit daryanani from evercore.
+i guess a fairly common question i get on you guys is how does cisco stack up this time versus the past recessions like '08 and '09, for example.
+i think that we've spent the last few years driving a significant refresh across our enterprise portfolio, across our service provider offerings, our 5g packet core capabilities.
+and i think that's what our customers believe we do.
+but then again, you have industries that are at the heart of this crisis, who i wouldn't expect to make significant investments until we get to the other side.
+and what percentage could be hurt further down the line?
+i think that any customer who potentially could be at risk in 3 to 6 months is already pausing.
+thanks, tim, and that was the last question of our call.
+our thoughts and prayers are with everybody, and our gratitude is especially with those who are on the frontlines.
+so thanks for being with us today on our call.

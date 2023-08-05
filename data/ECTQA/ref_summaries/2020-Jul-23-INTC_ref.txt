@@ -1,0 +1,24 @@
+yes.
+i mean, first, our primary focus is on ensuring that we're delivering leadership -- an annual cadence of leadership products each and every year for our customers in a predictable manner.
+and if we do, there's lots of moving parts, but the economic implications in the event that we decide to move to somebody else's foundry, and with our scale, how do you get asps in line with our cost, continue to deliver leadership products so we capture attractive asps and to reduce the amount of capital that we have to deploy to build a foundry on an older node or on a last gen kind of process node.
+we've been designing our products and advancing our packaging technology so that we have much more flexibility to decide if and when we will use our fabs or somebody else's to deliver that annual cadence of leadership products.
+i guess a follow-up question on the 7-nanometer delay.
+our next question comes from ross seymore with deutsche bank.
+it yields in line with what we expected.
+but now is when we're planning for '22, '23.
+but wait a minute, if i look at your annual guidance now versus where it was in the beginning of the year, it's higher, but it's actually lower in the second half versus what you had implied in -- when you first gave the annual guidance 6 months ago.
+well, i think i'd start with our full year demand relative to where we were at the beginning of the year is our guidance is up by $1.5 billion in revenue.
+i think it's a good question, but maybe if you could give me a chance to answer it.
+i put that -- i put ramping of 10-nanometer faster in the good category.
+if it's more of our growth than we had anticipated, all else equal, margins will be a little bit lower.
+higher growth in a more challenging market, more demand for our 10-nanometer products that we're ramping as we -- ramping yields as we expected with more volume, all else equal, will have a modest impact on our gross margin for the full year.
+thank you.
+and how does it impact free cash flow?
+so that design disaggregation gives us lots of flexibility.
+as we go forward now, we can think about whether we introduce ponte vecchio with -- i think i said some of those tiles are inside and outside from the beginning.
+the mid-single-digit decline year-over-year implies a pretty big decline from q2.
+and then the comment on increased competition in dcg in second half.
+and also if you can talk about to what extent you have visibility into q4.
+but again, we've seen very strong demand peaking for cloud in the third quarter -- excuse me, the second quarter; peaking for comms in the second quarter.
+but along the way, we have taken steps on die disaggregation, advanced packaging, deeper engagement with the ecosystem and contingency planning as a sign of strength, not as a sign of weakness, that gives us much more flexibility to make the decisions on where is the most effective way to build our products to deliver that annual cadence of leadership for our customers.
+operator, could you please go ahead and wrap up the call?

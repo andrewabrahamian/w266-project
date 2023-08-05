@@ -1,0 +1,36 @@
+okay.
+kai korschelt, bank of america.
+thank you.
+of course there are the foreign companies that open fabs in china, but i think the reference to the tens of billions are really chinese owned companies.
+that will very likely happen, but it's very likely also going to take a bit more time than the 2017/2018 timeframe.
+and then following on to 2018 shipments, you're going to have this capacity for 24 tools potentially and then you've already got six of those orders at this point.
+because you've said in the past that you take almost a year to ship these tools and then there is a time which the customer takes to install the tool in their own facility and get it stabilized.
+c.j muse.
+without tying it down to a specific number, but i think with everything that we gave you between peter on the shipments, on euv, and the margin; i think you are in the right zip code there on the gross margins.
+timothy arcuri, cowen & company.
+having said that, meeting those targets and not only those targets, it was continued let's say showing off of those targets throughout the year that actually raised the customer's confidence to the level to also publicly state we're going to use euv and they followed that up with orders as you have seen.
+it is about the confidence that we will be at high volume production requirements by the time that customers need it and that's what's shown with those targets.
+that's correct.
+amit harchandani.
+it is not our main concern.
+but just so that i understand correctly there are all incremental improvements really around lifetime extensions, but there is no radical improvement that you need to do, all of that is behind us in 2016. that would not be a correct statement to make technically.
+gareth jenkins.
+so, would you expect it to be more or less than kind of what we saw with prior nodes?
+there's always a level of conversion from 10 nanometer to 7 nanometer, which would include upgrades.
+and this is a part of the business that we see growing in 2017 where we indeed see the number of upgrades in the logic space, but also in the memory space from let's say previous platforms to the newest specification of the nxt platform really happening and that is part of the business growth that we see in the services and options.
+can i just follow-up and just ask what your expectations for the 10 nanometer.
+the only thing that we can say is that of course we discuss with customers their business and their plans.
+and also can you remind us again on what the lead time is for euv going forward?
+some of your peers have indicated like there is a stronger first half relative to second half, is that something you see also?
+on china 500,000 wafer starts next year, we don't see 500,000 wafer starts next year, it's too much.
+jagadish iyer, summit redstone.
+so, i think next 12 to 18 months i don't think you will see a lot of change.
+but how you look at it, there's also i think clearly discussed at our capital markets day, immersion and deep uv will be with us forever and also means over the next 10 years or so it's going to be a very significant part of our business, for the next 12 to 18 months is going to be the majority part and the key part of our business given the fact that those nodes that they are being designed into are the nodes that we're currently using and ramping which is not an euv node.
+andrew gardiner.
+if i go back to the capital markets day in late october, you seemed to be indicating at that point something on the order of sort of below eur1 billion mark as a combination of rev rec at shipment as well as the deferred revenue coming through.
+revenue recognition is now close to shipment with shipment for a majority and yes, there will be some catch-up revenue from last year where we shipped systems with no revenue recognition.
+but there are few memory orders in there and that's just less than a handful and the rest, most is logic and idm.
+no.
+so five from one customer?
+now operator, if we can have the last caller, please.
+just a question about the 3400. so the shipments that customers have ordered, are you going to upgrade the source to 250 watts at a later stage and is that a free upgrade?

@@ -1,0 +1,31 @@
+great.
+the first question really following on huawei.
+if you can mention about your expectation for bit growth for the following quarter.
+and i have a follow-up question.
+so with respect to huawei, as i said before, our revenue expectation in fiscal q4 is less than what it would have been without huawei being on the entity list.
+i'm just curious how you're thinking about that because, to me, at this level of utilization and capex, it seems like, inevitably, there will be a period of undersupply coming, just a matter of time.
+so as you said, the industry is in oversupply right now, both in dram as well as in nand.
+help us to get some comfort level that despite the cuts you're talking about for the fiscal year '20, you're still very much on plan relative to closing those cost gaps with your peers.
+and of course, we have more room to go with respect to cost competitiveness as well as strengthening our high-value solutions portfolio.
+and as you answer the question, can you -- clearly, the inventory is somewhat a reflection of where we are in the cycle, but you've got sort of the added burden of wanting to build some nand inventory as you make this transition to replacement gate.
+outside of that, from a kind of an obsolescence perspective, we don't see really any risk with the inventory we're carrying.
+the other, of course, area you have to concern yourself with is the -- any sort of lower cost to market issue with the inventory.
+so before we get into the next question, i just want to make a small correction.
+i meant to say that qlc bit shipments were up 75% quarter-over-quarter.
+sanjay, good to see the discipline here on the capex and also with dave's focus on free cash flow.
+i would say, ideally, it should be in the 50s.
+our next question comes from chris danely of citi.
+but there is no doubt that 5g will bring about greater applications for memory and storage, not only in smartphones but also in machine-to-machine on the iot front.
+so as we have discussed in the past that we would be introducing, over the course of our fiscal year 2019, actually during calendar year 2019, our nvme products.
+and we started that first with consumer nvme and later with our oem nvme that we talked about today and now also for cloud and enterprise applications nvme drive.
+no, i'm not saying that will not have effect on cost.
+what i'm saying is that we will be in good position with cost because our technologies -- underlying technologies give us good cost reduction capabilities from one node to the next node.
+is the cut next year going to be almost all in infrastructure so that wfe is kind of flat to down a smidge year-over-year.
+is that kind of how to think about it?
+so getting back to the fy '19, just to be clear, what sanjay said was about $2 billion was kind of construction-related spend.
+the rest is front-end and back-end.
+we have a pretty good sense of directionally where it's going, but all the pieces specifically, we're not quite there yet.
+and we assess our products that we can ship to huawei versus those and have made determination of shipments.
+i mean consumers are going to be buying the phones that they're going to buy based on the features, the new models.
+and we will -- we have had growing presence with those other customers and we'll continue to look for opportunities to best optimize our business while always, of course, continuing to comply with u.s. laws and regulations.
+in cloud and data center.

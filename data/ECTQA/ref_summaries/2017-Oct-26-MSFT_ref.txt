@@ -1,0 +1,26 @@
+satya, a question for you.
+so we feel good about new workload growth.
+and/or is there -- are we at the point now where that's a high enough percentage of the mix that we're at a tipping point here, where what seems like very significant gross margin progression is going to continue at this similar clip?
+i mean, i can start, and amy, you can add to this.
+so they definitely are margin accretive for us, but most importantly, they add a tremendous amount of value to the customers.
+innovations around teams, innovations in ai in the actual office products themselves are now being experienced by our customers.
+so the way to think about it is, over the year, it's up a little, and in q2, it happens to be just a low quarter of the 12 that come up through the cycle, much like q4 was quite large in the cycle.
+yes, thank you for the question.
+overall, i think you sort of speak to, i think, one of the big advantages and one of the big value propositions we have on both sides.
+one of the things that we emphasize is it's not about our technology but it's our ability to transfer that capability to our customer because they're increasingly becoming, whether you're in retail or you're in oil and gas or you're in financial services, every one of them is trying to build their own software capability and we're uniquely capable of doing so.
+can you talk a bit more about how you think about the opportunity and give us a sense of which of the offerings right now within 365, whether it's crm or talent or erp or whatever are driving the growth and could be part of the future growth?
+the other one is that there is no such thing as a canonical business.
+our next question is coming from the line of adam holt with moffettnathanson.
+but really since we've launched, the question that i get, by far, the most is around the long-term margin potential in azure.
+and so we have a lot of value that is across-the-board cloud services, whether it's xbox live, windows update, office 365, dynamics 365, and of course, all of the azure services.
+the next question is coming from the line of michael nemeroff with crédit suisse.
+given the even larger focus you're putting on this segment in the near term, how quickly or in what time frame do you think gaming revenue could grow at or above the average gaming industry growth rate of mid- to high single digits?
+in the past, we participated but a lot of tier 1 workloads were not on microsoft stack, whereas now, a lot of tier 1 workloads are, in fact, increasingly on microsoft cloud.
+and i would say, raimo, a way to think about this is, we've always had that trusted relationship, which we're incredibly proud of as a company with our enterprise customers.
+and that's what we mean.
+it's about the investment we've made in capability, the evolution of the product and its innovation, and i think using and trying to continue to earn the customer for us to deliver these world-class workloads.
+so i do think this is really an output of multiple years of concentration on delivering that capability.
+and as you said, adobe and microsoft have partnered, in fact, across our entire histories in many of the areas, but increasingly across of the creative cloud and their document cloud as well as their experience cloud, we have plenty going on.
+so that's one area that i think you will see.
+so that wraps up the q&a portion of today's earnings call.
+thank you.

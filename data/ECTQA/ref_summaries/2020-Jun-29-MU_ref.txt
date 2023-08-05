@@ -1,0 +1,35 @@
+yet, we do believe that cloud demand in the second half of the calendar year will continue to be healthy for us.
+how should we think about mix, particularly dram, as we move into the august quarter?
+and i guess, would love to hear, as part of that, what implied cost downs will look like?
+from a high-value solution perspective, i think we see that again in the fourth quarter that is helping drive an improved outlook for gross margins for the fourth fiscal quarter.
+you know, c.j., that we don't telegraph pricing and cost out for future quarters.
+that makes sense.
+i'm curious what you would highlight that you're taking in account for next year on the other way.
+and actually, we drove the front end equipment expense down quite considerably on a year-over-year basis.
+last earnings call, the team highlighted the supply production shift in mix from mobile to server dram to service the higher demand from your data center customers.
+but if some changes are needed, we'll, of course, revert to making those changes in the future.
+so the entity list placement that had happened several months ago did impact some of our outlook, but we have been operating under the licenses that we have already received.
+and we have good design and activity with all key players, particularly with new products that we have introduced, such as ufs3.1, lp5, dram and multichip packages.
+do you think customers may be building inventory?
+so this is the changing environment.
+i think you mentioned china being stronger, but is it any different in china versus the rest of the world in cloud?
+and of course, cloud, when you look at long-term trends, i mean, long term, cloud is still actually in early innings, and long-term trends for cloud are strong because ai as well as 5g, 5g driving more intelligent devices at the edge, growing more data opportunities, it's really the virtuous cycle between cloud and intelligent devices at the edge.
+so long-term trends continue to be healthy.
+so -- and we don't really comment on the pricing, but obviously, supply has an important role to play on the pricing front.
+this just goes to highlight that u.s. semiconductor industry is extremely important to our economy today.
+so we will continue to monitor these trends, but important considerations, our scale, cost and roi on any investments is important.
+our next question comes from chris daneley of citigroup.
+was there some volatility in there?
+so linearity bookings was pretty -- i would call it pretty linear through the quarter.
+i just have a follow-up.
+and we manage, i believe, the diversity of our customers very well.
+but the parts of the markets where technology and products are moving fast, it's not about multiyear contracts there, but varying length of contracts depending upon the end market customers.
+thank you for asking the question.
+we are very pleased with our execution in ssds.
+and as we continue to bring out new products in the future, and several are underway and several qualifications are underway as well with our customers, we will have ongoing opportunities through the course of next year as well in terms of driving for profitable share gains in the ssd market.
+so yes, i mean, qlc as a mix of ssd percentage will go up for us going forward.
+congrats on strong numbers today.
+and the covid environment, work-from-home environment has driven strong surge in demand on the data center front.
+in terms of inventories in the data center market, yes, while certain customers may be carrying high levels of inventory, again, for the reasons that i had mentioned earlier, related to their own supply chain considerations as well as changing environment with respect to the demand.
+we continue to focus on working closely with the customers, understanding the requirements and planning our supply chain accordingly.
+you may now disconnect.

@@ -1,0 +1,50 @@
+so wondering if you're seeing any change, whether customers are pulling forward deals or reducing deal size, et cetera.
+let me give you some comments, first of all, and then i'll pass it over to kelly.
+so kelly, any comments?
+yes.
+so we didn't see -- for the 10% tariffs, we didn't see any pull-ins.
+yes.
+and what that has done is it's completely made obsolete the original assumptions on which they define their it infrastructure.
+and you're seeing us extend and connect like policy in the campus with policy in the data centers.
+i guess, i wanted to focus in on product revenue growth.
+but i'm just curious what could go better in this guidance, what you're contemplating in terms of elements of conservatism.
+that was really what i was asking.
+and again, back to asc 606, under new accounting rules, as you know, we have a very strong presence in the enterprise.
+that's a good point.
+thanks, paul.
+when we began to perform differently than what's perceived to be in the macro, i think that'll give us insight into how much of it is our execution or innovation.
+so it's unclear to me at this point what any sort of significant macro shift is going to do to the spending in this environment because it is connected to what you're trying to achieve when you do have a tough macro environment.
+so we're going to have to see how it goes.
+but -- so that's -- that question -- on the cat 9k, look, we're still incredibly early.
+in the spring, you'll see sd-wan get integrated into the overall architecture in addition to the innovation we announced this week.
+you had a strong quarter there.
+it's been fairly consistent growth.
+so our teams are doing a good job there.
+i think that we're continuing to execute.
+no, i'd just say it is very broad-based.
+jim suva from citigroup global markets.
+and we are still seeing year-over-year price increases.
+it was incredibly consistent across the breadth of our portfolio.
+so i think the -- our teams are doing a good job with helping our customers understand the costs and the operational simplicity that they can gain from some of the architectures that we're bringing forward, and i think that's what's driving it.
+my main question has to do with service provider growth in the quarter and you made a comment earlier about india being up 50%.
+though, india had a very strong service provider as well.
+up everywhere.
+i would say just a quick characterization on this market, and we've talked about this before.
+so we're executing better and -- but i think -- i'll still say we've been saying is that we've been doing planning with many of the customers on 5g.
+i think i said in the script that we were -- in the opening comments that we were absolutely focused on web scale.
+and on the clarification.
+and so it's all incorporated in the guide i gave you on the gross margin.
+the pass-through on tariffs or memory.
+if they have quotes in the system that they took that we haven't taken a order yet, it'll take a while before both the price increase cuts through as well as even when the tariffs do cut in the cost side, we'll bleed through the inventory that has been brought in at the lower costs.
+but i have baked in some incremental on both the revenue and the margin side in -- from january.
+so a lot of the enterprise agreements we have will all be recognized upfront.
+so this quarter, we had 2 very large ones, but we will be benefiting going forward.
+and so on the metrics then here, second question there.
+and we recognized that 25% over, say, a 3-year term.
+so looking at that isn't as meaningful.
+that's kind of why we think using subscriptions, it shows we're still making the transformation.
+how is cisco viewing the m&a pipeline today?
+some of those are multifaceted where there's an edge component involved.
+the other thing i want to just talk about relative to this because part of the reason that these webscale partnerships are so important is that we are enabling these developers with things like the kubernetes solution that we have to actually build applications once and then move them seamlessly between private cloud and public cloud.
+so i view it as a positive.
+there's clearly some uncertainty out there, but i think the macroeconomy has shown a level of resilience that not many people expected.

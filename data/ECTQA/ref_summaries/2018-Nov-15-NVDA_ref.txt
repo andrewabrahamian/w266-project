@@ -1,0 +1,48 @@
+the -- if you look at the background of what's happening, we know that moore's law has ended.
+that has never been accelerated before.
+and along with all of the software stack that we've put on top of it, kubernetes, the docker, the trt inference engine, our second-generation tensor core, ai accelerator, all of that together has created a lot of excitement in data center.
+yes, the turing launch happened towards the end of the quarter, and it's the biggest generational leap we've ever had.
+at every single price point it serves, it is substantially higher performance than the last and it's the highest performance gpu in the world.
+so i -- we expect turing to do really well.
+i had a question on the gaming outlook and as it relates to channel inventory.
+and are you effectively assuming close to 0 in the january quarter?
+yes.
+at this point, most of the pricing has come down to its -- and slightly below its prelaunch levels.
+and so i'm hoping that -- i'm hopeful that now that pricing has stabilized, that customers will come back and buy.
+okay.
+we do expect to be up as we go into q1.
+the -- i think the answer to your first question is yes.
+the last question was what again?
+i mean, we're surprised by it, as anybody else.
+was there another question?
+and today with battlefield v, people are enjoying real-time ray-tracing for the very, very first time.
+but nonetheless, the demand on the high-end products are fantastic.
+we're working hard on that.
+and so when they -- when these games get released, rtx will be enabled.
+and then my second question is while you are drawing down this inventories, i would have expected to see, like, the turing high-end card, the 2080 and the 2080 ti ramping in q4.
+the first question was whether the midrange of pascal had more than 12 weeks of inventory, if it's going to take more than a quarter to bring it down.
+and our ability to see the other brand's inventory is just much harder.
+your next question is from mark lipacis with jefferies.
+it's all about crypto hangover.
+this is the new experience as we made this transition.
+and we really didn't see that until towards the end of the quarter.
+and as we looked out into this quarter, this coming quarter, we came to the conclusion that the best thing to do is just not to ship any more products into this segment of the marketplace because there's a fair amount of inventory and let the channel sell through the midrange pascals.
+but between the unexpected, unanticipated slow decline of pricing in the channel and even after the prices came down, it took a little longer than we expected for volume to kick up.
+i'm just curious, how is your guide factoring in the sequential growth in that piece of the business into this current quarter?
+and then this quarter, we announced 3 new initiatives that's going to expand us into a broader part of the high-performance computing market with machine learning, which is -- as we know, is the largest part of artificial intelligence today, which has not been accelerated and now it is.
+and from the time that we went to production to the time that google put it in their cloud was literally 30 days.
+and so i expect t4 to do quite well.
+and what type of growth could we expect?
+but there's nothing about the gaming marketplace or the gaming business that we see that's fundamentally different.
+so to think about all of the different components, we just have a piece of channel inventory at the midrange, but overall, as you can see, gaming is also growing quite well.
+that piece of software is also super complicated to write.
+and so the pieces of technology that we're putting together have come together.
+it could be autonomous retail, basically ai retail, and autonomous warehouses.
+that about matches the growth in the data center business.
+they can now benefit from accelerated computing as moore's law comes to an end.
+the second is opening up inference.
+the hyperscale data center marketplace is something along the lines of 15 million cpus sold this year.
+between the t4 hyperscale cloud gpu and rapids machine learning platform, it has -- and our rtx server film rendering, we surely have expanded our data center opportunity.
+thanks, everyone.
+it will take 1 or 2 quarters to work through it.
+and with our first win in mainstream level 2 self-driving cars with volvo, our drive av platform is gearing up for the mass market, and our competitive position has never been stronger.

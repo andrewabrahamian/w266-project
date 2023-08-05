@@ -1,0 +1,31 @@
+please proceed with your question.
+i think going forward we will -- you'll look to see or you'll see us do much more of this with many other customers of ours.
+i think i have a strong line of sight to aws's margin profile and still feel good about the progress we're making.
+excellent.
+thank you.
+we'll take the next question, please.
+our next question comes from the line of brent thill with ubs.
+the first thing, really, that i think satya and i both focus on every quarter, every month is how much of our business are we continuing to shift to annuity and specifically to the cloud.
+and so to your question on transactional performance, there were some deals that didn't get done in q3 that got done in q4.
+satya, i had a question for you on azure.
+let me take that second part in terms of what is our differentiation.
+so every customer who starts off consuming azure is also turning what is their ip in some -- most cases into an isv solution, which ultimately will even participate in appsource.
+it's probably not exactly how i would say it, mark.
+but, i'm wondering if you could just help us understand the dynamics between -- in new and renewal signings that drove that combination of really strong unearned but somewhat weaker trends in the bookings?
+can you talk a little bit about what's the seat growth because, both for consumer and for commercial, it seemed to be coming down?
+you're right, the office consumer growth still has quite a bit of transactional business to it, even though we have moved, and you saw that growth, the subscriber base sort of materially, the growth in quarter versus our expectations was really two things that are transactionally focused.
+and particularly in developed markets, the pc growth was better than we thought.
+the other thing was japan was a little better and when japan is better, it's why you also see the interesting relationship in constant currency.
+but any additional color that you could provide on the company's capex requirements over the course of the next year would be appreciated.
+you're right, my comments are more pivoted toward the absolute dollar amounts, which is what i tend to focus on in my comments.
+thanks so much for taking my question.
+i think you have 34 planned.
+let me start and then, amy, you can add to this.
+in some sense ross you're trying to ask us to project forward and say what is the legitimate digital security and digital sovereignty needs of all the different types of businesses that we want to serve using the cloud all over the world.
+we were the only cloud that operates in china under chinese law, the only cloud that operates in germany under german law.
+is it not clear that it will grow?
+it's really the transformation from having applications that are silos to becoming more services in the cloud where you can reason about the activity and the data underneath these services to benefit the customers who are using these services.
+of course it's relevant in recruiting.
+but we're at the same time -- one of the things that customers are looking for is making an enterprise-wide architectural decision across all of the workloads.
+so e3, e5 and higher penetration of this is what's going to drive asv growth.
+this concludes today's teleconference.

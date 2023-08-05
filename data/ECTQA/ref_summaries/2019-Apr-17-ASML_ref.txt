@@ -1,0 +1,46 @@
+i guess first question on your memory outlook, if i were to exclude expected euv shipments, it looks like memory half -- over half for you guys is roughly up 30%, give or take, in the second half.
+okay.
+i would expect, though, that customers will first allocate a relatively small portion of their output to euv because it's a new technology, it's a new process.
+but when that is proven, that can accelerate.
+and going up, i would say, significantly above the 2,000 wafers per day, which ultimately, should be possible, will drive the adoption of the number of dram layers.
+so yes.
+how many quarters before they will come and place the orders for asml tools?
+like i said in my introductory comments, what we're seeing is there's a bit difference to what we're seeing in previous cycles.
+now that will lead to a situation whereby in the course of the year -- and many customers have actually said this, that they expect throughout this year, could be middle of the year or at the end of the year, but throughout this year, a better situation for them and a return to better business levels for them.
+you just -- from an earlier question, you responded regarding the memory, and memory adoption of euv into 2020 depends on the 3400c.
+i think what is important to recognize, sandeep, is that for the second half, it will still be a mix, right?
+just wondering if you could help us on the logic side, just like you did on the memory.
+so that's the vast majority of what's in there.
+and i have a follow-up.
+that has to do with the fact that not all modules are fully ready when we start shipping the first c with the improved lens and there are other features to that c system that come later.
+but the upgrades you're probably referring to, from the b to the c, and this is where we don't think there will be a lot of upgrades for the simple reason that the b is a lower productivity tool with a lower price.
+i mean, you just referenced the economic challenges for upgrading, but then again, i can't ignore the fact that there is a large installed base.
+so i don't expect it there.
+so i really have 2. the first one is kind of on a gross margin side.
+so when do we see that step function in terms of the gross margins?
+is that driven by the type of euv shipments you're going to have?
+so there's a big mismatch at this stage between the cost and the revenue.
+so just to understand the dynamic, i thought that services recovery would've come with euv services revenue in q3 and q4.
+so there's a number of drivers there.
+amit harchandani from citi.
+it comes from the logic transition, 7 plus, 6 nanometer, 5 nanometer for 3 customers, the potential for dram that we talked about in a moderate market scenario.
+and we will have those orders by the end of the year to fulfill 2020 like we did last year.
+so with that planned lead time reduction, our customers will take that into account in placing the orders that are going to be choppy.
+understand that last year you've started accelerating your r&d for the high-na generation tools.
+and also secondly, after 2020, in theory, if you have done all the r&d and all the preparation for high-na launch, your free cash flow should increasing significantly.
+we've also said that we believe that in the course of 2020, we will see that we're gradually navigating that back to the longer-term 14% number that we've indicated.
+and anything else that we have available, we'll return in -- by way of the share buyback programs as you've seen we execute on -- in quite a disciplined way.
+and i think you will see a more heterogeneous supply of those nodes for different application and different customers.
+barclays.
+so is it -- and should we expect something different this year?
+capex this year will be fairly high.
+i think that is a reasonable number to go by.
+our next question is from mr. david mulholland.
+yes, that could very well be.
+but we do enter discussion with our customers.
+but i think that's -- to answer in the general sense, we haven't seen changes in that sense.
+on the dividend versus share buyback, as we said, we are looking also on a go-forward basis, we are looking on growing dividends.
+i think i don't know exactly what is behind that.
+you could also have a strategy, say, basically, we would have shorter cycles.
+operator, if you could formally conclude the call, i'd appreciate it.
+thank you for participating.

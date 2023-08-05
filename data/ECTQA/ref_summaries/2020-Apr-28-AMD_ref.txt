@@ -1,0 +1,45 @@
+yes.
+i think if you look at sort of the progress we've made, there were a number of key things that we wanted to see happen.
+i think as we go into the second quarter, there's an additional significant ramp of the server business.
+and so we expect to continue to gain share as we go through these next couple of quarters.
+i think what we're seeing from the current covid-19 environment, obviously, there's a lot of puts and takes.
+i think you asked about milan, and yes, we are expecting to be launching that at the end of this year.
+so if we look at the pc business in the first quarter, we saw the rest of the world pc business actually get some benefit from some of the acceleration in demand sort of towards the end of the quarter.
+i think our progress in the data center market is a positive.
+we see that with a number of platforms ramping and the number of customers that we have coming on board.
+we are potentially expecting some weakness in the second half due to consumer spending.
+so that's -- the primary variance in our model is what happens to the pc market.
+that's helpful.
+and then in terms of data center gpu, i know you talked a lot about the analyst day about the newer products and penetration of new workloads in the second half.
+so perhaps asps were lower than we are used to seeing.
+in terms of where we believe demand will be versus 90 days ago, it's pretty similar.
+and i recall, i think either lisa or devinder, you said that second half will be more semi-custom weighted, but that suggests some more pressure on gross margins.
+i think the key puts and takes, as you said, continued ramp for the semi-custom, which has margins, as you observed lower than corporate average, but they are offset by the strength in the data center revenue.
+and that's the reason for the full year guide at 45%.
+does commercial just continue to grow faster than the consumer side?
+that's the first question.
+yes, mark.
+but overall, i think our confidence level in notebooks being a strong growth driver for us as we go through this year is good.
+so when you look at our cloud instances, i would say that our cloud -- some of the cloud acceleration i referred to was acceleration of internal workloads at some of our top cloud customers.
+i guess i don't quite understand why a big shift toward cloud mix will drive asps down sequentially.
+i guess, in that context, what did revenues do sequentially?
+and maybe what were data center revenues, cpu plus gpu, as a percentage of total in the quarter?
+units were up, like, double digits.
+so i know you'd said 10% share, give or take, by the middle of this year.
+like how should we be thinking about that?
+and i think that's an appropriate way to define the target.
+i'm just wondering why if the market is as strong as it seemed to be for the last 3 or 4 quarters, you're doing really well, but not actually upsiding our expectation?
+so as it relates to our expectations, it's actually going quite well.
+could you just give a little bit of color on what you expect for that in the second quarter?
+but any sort of difference between the computing and the graphics side, both in your second quarter expectations and then the puts and takes in the back half of the year?
+we see desktop down sequentially, and we see graphics down sequentially.
+i wonder if you could just help me kind of better understand in this current environment of shelter-in-place, how does that impact sort of new customer, new workload engagements?
+so if you look at q2, if you're asking the specific q1 to q2.
+and therefore, it is having an impact in terms of sequentially the margin is going down from q1 to q2.
+i think...
+go ahead.
+our next question is coming from mitch steves from rbc capital markets.
+i've got one and a follow-up.
+and then i'm just kind of curious how you think of the server, obviously, your share gainer.
+thank you.
+that concludes today's call.

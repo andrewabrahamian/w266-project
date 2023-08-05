@@ -1,0 +1,18 @@
+sure.
+i mean, i think what you're fundamentally seeing in that overall kpi is what i think our 2 major advantages we have.
+so the combination of the technology advantage and the business model advantage is what i see in the results, whether it's the stand-alone azure growth, which is what we expected, and it's very strong.
+i mean, especially on the database side is one place where i would say from a year-over-year worth of progress, whether it's just azure database by itself, i mean, that service with full compatibility with sql server is a fantastic value proposition for our customers who have huge estates, whether it's the data warehouse that's become very, very competitive, the data lake.
+we got room on user growth, which as you -- you continue to see that number go up across segments.
+the next question is coming from the line of raimo lenschow with barclays.
+it, of course, will increase our reach, but what i'm most excited about is the core content and community and the platform we have for monetizing that usage.
+that said, i think we will do what is necessary to make sure that our products and services that are on azure or elsewhere, our tooling, which are already many open source projects on github, we do a good job of earning that developer trust and developer adoption.
+and that's the signal actually we hear back from customers, whether that is microsoft 365, dynamics 365 and a new worldview on what business processes and business applications look like.
+maybe you can help us understand relative to growth we're seeing right now how you expect the azure trajectory to play out for the year?
+we actually saw better bookings in q1 again on azure, as i mentioned, just like we did in q4.
+and so obviously, that's certainly encouraging as we look on a go-forward basis for the rest of the year.
+so i'm just curious, maybe could you help us connect the dots on that performance and also the potential for volatility in either direction going forward?
+you will see volatility in the bookings number for the reasons we've laid out before, the changing expiry base but also large contracts and commitments done by azure.
+the windows 10 pro strength and, i think, commercial strength we've seen, we continue to see good signs on the commercial refresh.
+our final question is coming from the line of brad reback with stifel.
+that wraps up the q&a portion for today's earnings call.
+thanks all.

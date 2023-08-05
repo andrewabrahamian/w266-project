@@ -1,0 +1,30 @@
+and i will just add that [with the cpu] shortages, we expect it to be short term.
+that's helpful.
+do still expect growth in that business in fiscal year '19?
+i'm curious, which segments do you see that elevated?
+it is a customer-specific inventory adjustment that we discuss here.
+as i talked about, the demand drivers are vibrant for dram, they are diversified and they are secular in nature, and dram solutions are really bringing great value to the ai-driven kind of applications where they're really essential to that trend.
+i would say, in general, the market for dram is healthy.
+so i'm curious, what do you attribute perhaps to the fact that demand hasn't stepped up more attractively as pricing has come down?
+and do you think there's just a time lag for it to get there?
+i think in smartphones, you do see a move to higher capacities.
+of course, as we have said before, when you go from 1 technology node to the other technology node, you achieve less bits per wafer gain, and that impacts, of course, the cost reduction capability from 1 node to the next node.
+nonetheless, our position will be good in terms of cost reduction.
+things that we discussed at investor day, we feel very good about our ongoing march toward strengthening our cost competitiveness.
+as we think about what you've said about 96-layer and less of an incremental capacity increase when compared to that of 64-layer, i'm wondering if you could provide us some framework of how we should think about the next phase of transition to nand in terms of bit output increases on a per wafer perspective.
+although it will remain relatively small, it will initially be, of course, in the sata qlc solutions.
+as in the past, when you went through mlc transitions in the nand industry or you went through the tlc transitions in the nand industry, those transitions occurred over the course of few years, and we similarly expect the qlc transition to be happening gradually over the course of next few years, although we will start realizing revenue from qlc ssds starting now, but -- then continuing to increase it modestly in calendar 2019 as well.
+and is this a statement more about just kind of higher accumulated inventories in the first half?
+in fact, in fiscal q4, our managed nand and ssd mix, the high-value solutions mix in nand is over 2/3.
+our next question comes from the line of mehdi hosseini of sig.
+and i have a follow-up.
+so, certainly, i think when you look at the data center, the total capex increases particularly in the hyperscale application, a lot of that capex, (inaudible) go toward server and memory and storage application.
+sure.
+and i was just wondering if there's anything you can share with us to help us with the thought process.
+so i think one of the things i will share with you is that if you look at the dram demand growth projections in the cloud and enterprise data center space, you will see that, that cagr over a few years is 30%, and that is higher than the expected dram overall industry supply bit growth of 20%.
+so multiple growth drivers and we are well positioned.
+our last question for this session comes from c.j.
+if i could ask two.
+curious, with the construct of inventory adjustment at a few of your customers, could you kind of walk through how you're seeing dram supply/demand, particularly as you also layer in some of the cuts that we've seen from your 2 other competitors in terms of equipment add over the last 6 to 9 months?
+our intention is to be fairly programmatic about the buyback, and so that $1.5 billion does represent more of a programmatic-type approach.
+in both sanjay and my prepared remarks, we did talk about acceleration.

@@ -1,0 +1,41 @@
+for my first question, lisa, on epyc server sales, you mentioned they doubled sequentially.
+i think we are making good progress towards that.
+so they go from proof of concept to initial deployment then to large volume deployment.
+and so i think we're making good progress, and it is -- there are no real pushbacks other than just time going through the classification process and working with them in their environments to make sure that we get fully qualified.
+got it.
+are you able to sell in a higher-value segment than you were able to do in the past?
+yes.
+next question, please.
+and do you think that the ryzen notebook opportunity, is it bigger than the desktop opportunity ultimately in your minds?
+i think we're very pleased with the q1 results and then what we see going into q2 in the second half.
+the customers are working closely with us.
+sure, mark.
+that will now move over into enterprise customers, who are then taking their systems into their labs and doing their initial deployments.
+and then how do we think about the incremental margin leverage as epyc comes in and perhaps ryzen, too?
+as we get to the rest of the year, as you observed, the momentum and the products are there for the new products.
+and so we spend time with the commercial miners as well as spending time with our partners.
+i think there are numerous currencies, there are numerous applications that are using the blockchain technology.
+excellent.
+in the second half, we'll have some commercial systems and some other updates to our ryzen lineup that we will launch.
+so yes, we are targeting 28%.
+i think there's a high demand of people wanting to use our gpus in the compute space, and so we're increasing our investments in software around machine learning.
+for my follow-up, i had a question on the asc 606. i know last quarter, you kind of gave some historicals for how that was a headwind versus a tailwind versus what would have been normal seasonality, particularly in semi-custom.
+as far as impact is concerned, if you're comparing year-over-year, for example, in q1 of 2018, semi-custom was down because we had more revenue in q1 of 2017. and then q2, it is slightly up but very balanced from where we see it from an overall standpoint.
+we see a good environment for gaming growing, we see a good environment for gpu compute growing.
+i think you said the 7-nanometer product is in the lab, and it's going to launch later this year?
+question for lisa.
+i think it's a margin-accretive segment to us.
+it's still a small business for us, but we actually believe, in addition to the goodness around ryzen and epyc, when we launch those products, ryzen and epyc embedded, we actually saw very strong interest from customers.
+and then with ryzen 2, do you expect that to be accretive to asps and margins?
+i guess, your target is to get to a mid-single-digit share by end of this year, which is a fairly gradual ramp.
+and then i have a follow-up.
+so yes, from our standpoint again, we see this as a market that very much fits our capability, and we will continue to invest in it.
+there is a proposal in the -- at the shareholder meeting.
+thank you.
+our next question is coming from ambrish srivastava from bmo capital markets.
+i think the time for meaningful revenue, we will see some revenue in the second half of the year and that's part of the growth in the margin expansion story.
+i think if you look now on typical retailer/e-tailer sites, the channel inventory is good.
+can you comment qualitatively about the competitive dynamic that you're seeing in microprocessors?
+but we don't see any long-term effects.
+and so it's the beginning of the notebook ramp.
+that does conclude tonight's teleconference.

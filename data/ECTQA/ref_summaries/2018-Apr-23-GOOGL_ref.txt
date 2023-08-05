@@ -1,0 +1,37 @@
+sure.
+the net of which was the gain from the equity investments was $2.4 billion to net income.
+as it relates to your waymo question, there was a lot in there.
+it is still very early.
+we've also had progress on the vehicle partnerships, as i mentioned in my opening comments.
+i wanted to ask 2 quick questions.
+maybe i'll do the gdpr first.
+we started working on gdpr compliance over 18 months ago and have been very, very engaged on it.
+we are very focused on getting it right by our users and partners, and that's where our focus is now.
+we are seeing good synergies between g suite and cloud.
+areas where we have done acquisitions like apigee, they are beginning to work in terms of driving synergies to cloud.
+and i think we are beginning to see early results from that, and hopefully, that translates into more momentum going forward.
+and our next question comes from eric sheridan of ubs.
+and it's really hard to do at scale, and that's the work we are doing.
+and our next question comes from mark mahaney of rbc capital markets.
+but do you think that gdpr or other regulation that you see on the horizon is likely to impact materially the targeting capabilities about that advertisers have on google?
+thanks, mark.
+but overall, we think we'll be able to do all that with the positive impact for users and publishers and the advertisers and so our business.
+just curious, could you give 1 or 2 tangible examples or products that are still driving the desktop search growth?
+so these are all areas by which we are improving.
+or is this -- are we over some critical threshold, and we should see this trend of moderating deleverage continue for several years into the future?
+and then in terms of tac, i would say there's not much to add to what we've already said after some -- a kind of sustained period of stronger increases.
+i have 2, one for ruth and one for sundar.
+ruth, on capex, even if we exclude the chelsea market one-timer, the gross in capex, is it really substantial even on a kind of recurring basis.
+and then secondly on -- sundar, just a question on youtube and your media strategy at a higher level.
+and on youtube music, we are working on enhancing the product, and i think this definitely create opportunities there as well.
+and then second, a little bit more technical one on your advertising business you launched, shopping actions during the quarter with a pay-per-sale model, pricing model.
+i was wondering if you could provide any color, at least in the relative momentum you're seeing in that segment from infrastructure services compared to platform or software services.
+on your second question around amp, amp has been definitely very successful.
+you will see search embrace some of the capabilities you find in google assistant and google home and vice versa.
+and then within that, we have flat year-on-year growth in the number of impressions that was driven by efforts to improve user experience through a reduction of less relevant ads and afc.
+so we're taking the steps really to put in place the support for long-term -- longer-term growth.
+part of what i'm saying, you can see in our sites revenue growth, try to make that clear in opening comments, we see this consistent, strong momentum globally, and we're really excited about the still sizable opportunity led by mobile search.
+as i noted in our opening comments, the investments we're making there really provide the compute capacity to support our growth outlook, and that's supporting the opportunities that come out of machine learning and the assistant.
+and with all of this, what also hasn't changed is we appreciate the importance of prioritization and picking our spots, and we're keenly focused on steps we can take to both make the right investments with the proper intensity while being diligent about long-term plans and returns.
+we are also doing a lot of stuff on local as well, including efforts that are even around local services.
+this does conclude the program, and you may all disconnect.

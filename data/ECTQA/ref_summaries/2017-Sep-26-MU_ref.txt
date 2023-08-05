@@ -1,0 +1,27 @@
+and certainly, we think this investment plan, over the course of a multi year horizon, will allow us to do that, obviously being above in 2017 fiscal, as we've just reported, dram at the low end, a little above on nand.
+and then sanjay, this is my follow-on question.
+and i guess, specifically, to what extent in an environment like this can you move the business from more sort of a transactional, hand-to-mouth business to something that might have more backlog and visibility with your customers, especially as you try to move the mix towards more higher value end solutions?
+and given the demand trends, we think we'll have healthy demand-supply balance in dram throughout 2018 time frame as well.
+and overall, we remain pretty bullish about the demand trends.
+we are enjoying the benefits of that.
+can you talk about what's next on nand flash 96-layer or whatever it is and what the timing is?
+i have said before that these kind of undertakings, driving accelerated deployment of new technology nodes into volume production and continuing to narrow the gap on the cost front is a multiyear phenomenon, and we have made very good progress in this regard.
+but on the demand side, as i pointed out earlier, i mean, it's not that this demand is perishable.
+it's the same thing on the enterprise side and on the cloud side that attach rates of ssds as well as the average capacity requirement on a per-server basis continue to go up as well.
+so these are really very solid secular trends here that are long term in nature.
+and of course, the trends of mobile devices adding new rich features such as augmented realities, such as rich displays, all of these are trends that also continue to drive higher average capacities in mobile devices.
+right now, our focus is on the priorities that i mentioned that include cost competitiveness and strengthening the high value mix in our revenue.
+and our next question comes from the line of karl ackerman with cowen and company.
+so i mean, partnerships are important.
+i mean, we are definitely seeing strong demand trends from the entire spectrum of our customers.
+just looking on the dram side.
+when do you expect to see that?
+sure.
+beyond that, we don't provide further breakdown.
+so i think that in terms of gen 3 nand, we'll certainly talk more about that as we are able to in terms of what we might expect and whatever is appropriate for that.
+so it is true, just on a mathematical basis, that as you progress up layer count on an absolute basis, there are less incremental bits, and there is an association between cost reduction and bit growth opportunity.
+and then a quick second question.
+my comment was related to cost on a per wafer -- gigabytes-per-wafer basis from one technology node to the next.
+first question is a follow-up on capex.
+i think in the flagship models, to answer your specific question, the demand for dram as well as for nand, average capacities continues to go up.
+and that concludes our question-and-answer session for today.

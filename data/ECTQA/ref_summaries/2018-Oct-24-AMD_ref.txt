@@ -1,0 +1,43 @@
+yes.
+so we're doing better than seasonality with the client business.
+i think from what we see, the performance is very competitive.
+and also, in q4?
+we did have an ip component in this year as we had an ip component in the third quarter of last year.
+it's a very positive product mix for us.
+as we look into early 2019, what can we expect in terms of seasonality for the semi-custom part of the business and on the pc side just because there are some constraints out there that -- from intel and so on?
+that's helpful.
+and just as a follow-up, i understand in a couple of weeks, you'll probably be talking a bit more about the data center gpu portfolio.
+so i think the 7-nanometer gpu starting shipments here in the fourth quarter is important for us.
+i think the nice thing is, as we say, the data center is just an enormous opportunity, whether you're talking about cpus or gpus, and we're engaging deeply with cloud customers who are spending the time and the resources to optimize to our architecture.
+so again, i think it's -- data center tends to take longer from design win to revenue, but we're starting to see some nice signals there.
+our next question today is coming from mitch steves from rbc capital markets.
+i had 2 of them really quick.
+so first is actually on the cpu side, the server side.
+got it.
+or is that just due to your own estimates of what type of share you think you can get?
+does that help?
+and so i think the idea is we would like to see some acceleration in that as we bring in the 7-nanometer product, but we'll certainly have to go through that process.
+okay.
+you've actually been calling it out as driving, like, some of the growth in the current quarter and going forward.
+i mean, is it more than $20 million in the quarter at this point?
+yes, not today.
+is it better cost per transistor?
+i just wanted some clarification.
+the calendar fourth quarter guidance, does that include ip revenue in the gross margin?
+or how do i think about that?
+then i have a follow-up.
+we are helped somewhat by the fact that semi-custom is down, but i would say the much larger piece of that is the product-related growth in new products.
+so is this the new floor, lisa?
+and then lisa, i apologize if i missed it, but just relative to your q4 guidance, given some of the capacity issues that your competitor is having, is there any share gain -- incremental share gain assumptions based upon shortage of cpus?
+and are we benefiting a bit from, let's call it, some of the pockets of shortages?
+and we've seen, obviously, with the u.s.-china tariff situation, there's then some questions around demand pull-forward or any kind of element around the tariff situation that's impacted demand.
+on the weakness in the channel-based gpus, i'm just wondering if some of the weakness is due to the gaming bans in china.
+and as the supply chain build up, we're just seeing some excess inventory that needs to be worked through right now.
+obviously, this should be beneficial for your gross margins.
+but overall, they -- globalfoundries continues to be an important partner for us.
+just a question to follow up on that thatic, the $86 million.
+is it additional ip?
+i'm just kind of curious of your expectation for that discounting as we get into the end of the year here.
+we're not expecting any significant changes from an asp standpoint if that's what you're asking.
+thank you.
+that does conclude today's teleconference.

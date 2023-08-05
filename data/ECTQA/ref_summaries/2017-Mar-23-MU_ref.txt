@@ -1,0 +1,34 @@
+this is mark.
+64 layer, as we talked about, is a material piece of our bid output late in the year, and we are very happy with the progress we are making there and the yields we are seeing on that technology as well.
+great.
+thank you.
+good afternoon.
+just two questions from me.
+i think, if the question is do we participate in all of the various pieces of automotive end demand, the answer is yes.
+yes.
+and i think, if you think about this cycle versus last cycle, what you saw -- what you saw last cycle was a big chunk of supply come off with the hynix fire and the reaction with more supply to replace it, and so maybe a little less stability than we're seeing this time around.
+i can't forecast that for you.
+this is ernie.
+so, it is not a surprise that wafers are being added, given the forecast that we believe exists from the supply side.
+chris danely, citi.
+our gross margin guidance stands on its own for what it is.
+we talked about 50% to 75% of a $1.5 billion number.
+obviously spot prices rallied pretty significantly, but there's some time maybe before contract can catch up.
+and just, with what you're guiding at, do you think contract pricing is still below spot in your assumptions?
+that's helpful.
+and then for a follow-up question, i know the company talked a bit in the prepared remarks about certain mix shifts that it has been executing on, doing more in areas like ssds, and moving more towards server dram and creation.
+i think we do have fairly good momentum and traction in clients in oem.
+and then you also saw an increase in the percentage of the dram output that went into the server and cloud segment, and we see those continuing to increase here, or the demand side of it continuing to increase here, with all of the new data center deployments and a pretty strong demand environment for those.
+first, in terms of the dram bit supply, given that you have had inotera under your belt, i'm curious why your bit shipments were only in the low single digits.
+and then i have follow-up.
+and do you think that this is a one-time event, or how should we think about it?
+i think, one, to reiterate something we said earlier, but it is very important, we are really consistent quarter to quarter with how we think about our guidance.
+we've got a lot of different products going in a lot of different segments.
+okay, great.
+this is david ryzhik for mehdi.
+thank you for taking my question.
+you spoke a little bit towards the yields with 3d nand on the 32 layer.
+it's still, in our view, it's 15% to 20% supply growth this year, could actually be less than that if there's less new wafers than we have in our plan.
+as my follow-up, in terms of the gross margin guidance, can you talk a bit about the implied cost reductions on both dram and nand flash for this quarter's guidance?
+i have a question around your supply growth, given there is such strong pricing out there in the market.
+and related to that, how much flexibility, given how strong pricing is today, how much flexibility does micron have to add more either this calendar year or next year?

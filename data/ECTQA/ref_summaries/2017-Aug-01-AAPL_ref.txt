@@ -1,0 +1,72 @@
+expects 4q17 revenues to be $49-52b.
+2.
+3q17 net income = $8.7b.
+3q17-end cash plus marketable securities = $261.5b.
+7.
+8.
+================================================================================
+presentation summary
+================================================================================
+i.
+3. total revenue $45.4b.
+1. at high-end of guidance range.
+3. growth rate has accelerated in three successive quarters this fy.
+2. iphone:
+1. results were impressive with especially strong demand at high-end of lineup.
+4. ipad:
+1. has positive results with broad-based growth in units, revenue and market share.
+2. over 1.2m students of all ages are now using ipad and swift playgrounds to learn fundamentals of coding and over 1,000 k-12 schools across us plan to use co.'s everyone can code in their curricula this fall.
+5. mac:
+1. gained global unit market share.
+2. ios 11 will take ipad experience to a whole new level, with features like customizable dock, multi-touch drag and drop, powerful new multitasking, more efficient quicktype, great new markup and scanning capabilities.
+2. gm 38.5%.
+4. net income $8.7b.
+5. diluted eps $1.67.
+1. up 17% yovery.
+1. in us, latest data from 451 research on consumers indicates 95% customer satisfaction rating for iphone 7 and 99% for iphone 7 plus.
+1. among consumers planning to buy a smartphone, purchase intention for iphone was nearly three times the rate of closest competitor.
+3. services:
+1. set all-time quarterly record of $7.3b.
+1. up 22% yovery.
+4. ended 3q17 within 4-5 week target range for channel inventory.
+2. grew in each geographic segment, with strong double-digit increases in key markets like us, japan, germany, france and greater china.
+1. customers are transforming the way work gets done with ios and ipad.
+8. seeing real traction with enterprise partners.
+7. now completed $222.9b of $300b capital return program, including $158.5b in share repurchases.
+<sync id="l156"time="00:25:19"/>i wonder if you could just address, what is the driver of the sequential downtick, and what gives you confidence that you have more visibility than you did 3 months ago?
+<sync id="l181"time="00:28:52"/>and so we're very encouraged by that.
+<sync id="l182"time="00:28:56"/>ipad grew dramatically more than the market.
+<sync id="l199"time="00:31:23"/>and then can you talk a bit about the composition of the installed base of iphones at this point as obviously, we're getting close to a refresh?
+<sync id="l201"time="00:31:36"/>you've obviously had strength at the high end.
+<sync id="l213"time="00:33:35"/>okay.
+<sync id="l232"time="00:36:47"/>and the first recipient is corning in kentucky and they'll be using that money to expand the plant to make very innovative glass.
+<sync id="l234"time="00:37:07"/>we think there's more of these that we can do.
+<sync id="l239"time="00:37:47"/>and so that's what we're doing from a job growth point of view and we're very, very proud of that.
+<sync id="l240"time="00:37:54"/>if you -- now turning to china.
+<sync id="l247"time="00:39:01"/>we understand that those same requirements are on other app stores, and as we checked through that, that is the case.
+<sync id="l254"time="00:40:09"/>and i know that, that is a major focus there.
+<sync id="l272"time="00:41:53"/>do you think it gets faster over time?
+<sync id="l274"time="00:41:58"/>i think the upgrade rate is a function of many, many different things, from the size of the installed base, the age of the installed base, the product that is new at the time, the regional distribution, the upgrade plans that are in various markets around the world.
+<sync id="l280"time="00:43:46"/>i have one for luca and one for tim, please.
+<sync id="l295"time="00:45:32"/>okay.
+<sync id="l300"time="00:46:05"/>and then recently, you talked about how apple is focusing on autonomous systems for automobiles.
+<sync id="l320"time="00:49:01"/>and basically, how does this come to market in the most significant way in the next few quarters as apple becomes the largest global platform for ar as you talked about?
+<sync id="l326"time="00:49:43"/>i've seen enterprise solutions.
+<sync id="l328"time="00:49:49"/>and this is one of those huge things that we'll look back at and marvel on the start of it.
+<sync id="l339"time="00:51:12"/>we got multiple categories in the services business, so it's difficult to talk about arpu in general.
+<sync id="l343"time="00:51:49"/>on a year-over-year basis, the number of accounts that are actually transacting and paying on the app store is growing very, very well.
+<sync id="l344"time="00:51:58"/>it is happening for a variety of reasons.
+<sync id="l366"time="00:54:32"/>we have no comment on anything that's unannounced.
+<sync id="l368"time="00:54:49"/>tim, growth in the smartphone market is now crawling along at about a low single-digit percentage.
+<sync id="l376"time="00:55:39"/>and so what are the drivers?
+<sync id="l377"time="00:55:42"/>the installed base is growing.
+<sync id="l386"time="00:56:38"/>we are investing in india.
+<sync id="l387"time="00:56:40"/>as you mentioned in your second point, we've already launched an app accelerator center, that's on top of working with the channel and looking at expanding our go-to-market in general.
+<sync id="l388"time="00:56:57"/>and we've began to produce the iphone se there during the quarter, and we're really happy with how that's going, and so we're bringing all of our energies to bear there.
+<sync id="l399"time="00:58:14"/>thanks again for joining us.
+in the conference calls upon which event transcripts are based, companies
+may make projections or other forward-looking statements regarding a variety
+of items.
+in no way does thomson reuters or the applicable company assume any responsibility for any investment or other
+decisions made based upon the information provided on this web site or in
+any event transcript.

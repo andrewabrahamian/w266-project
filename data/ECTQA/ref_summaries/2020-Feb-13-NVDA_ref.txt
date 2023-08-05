@@ -1,0 +1,49 @@
+i guess on data center, colette or jensen, can you speak to some of the areas that drove the upside in the quarter?
+yes.
+and the reason for that is because there are so many items in the world, whether it's a store or whether it's content or websites or information you are querying, there are hundreds of billions, trillions, and depending on how you count it, hundreds of trillions of items in the world.
+the recommendation system is just foundational now to search.
+and some people have said this is the end of search and the beginning  -- and the era of recommendation systems.
+it's a substantial part of our business now.
+and so the third dynamic is the growth in -- beyond hyperscale and public cloud as well as vertical industries.
+and when you look back and look at when these breakthroughs happened, it essentially happened this last year.
+so the combination of the availability of our gpus in the cloud, and the startups and vertical industries deploying their ai models into production, the combination of all that just kind of came together.
+i think we're in good shape.
+and of course, that gives us better visibility as well and -- but all of us have to do a better job forecasting, and we're working very closely between our customers and our foundry partners, tsmc.
+i think last quarter, hyperscale was a little bit less than 50%.
+and how we should think about that growth rate through the course of this year?
+and the ability for cpus to continue to scale without increasing cost or increasing power has ended.
+now our approach for acceleration is fundamentally different than an accelerator.
+and so we believe that the future is going to be accelerated.
+and i think that accelerated computing is going to become more and more important.
+i wanted to ask a little bit, colette, about the -- you took $100 million out for coronavirus, and i wanted to ask a little bit about how you got to that number.
+one, if you could remind us maybe in terms of units or revenue, how -- what percentage of your gaming business is within china?
+so it's really still quite early in terms of trying to figure out what the impact from the overall coronavirus may be.
+but we're still looking at those to get a better understanding where we think that might be.
+your next question comes from the line of harlan sur with jpmorgan.
+congratulations on the strong results and guidance.
+good to see the recent launch of your geforce now service.
+is it going to be [deal your] geforce now hardware framework?
+tencent is the world's largest publisher.
+and so the reach is -- we've had more experience here in the west with reach, and we've had -- we obviously have a lot more games that we can onboard.
+so c.j., i'm going to go first, and then colette is going take it home here.
+and it's very -- it's super clear now that ray tracing is the most important new feature of next-generation graphics.
+this is going to be the largest game console in the world, i believe.
+and it's one of the reasons why we're seeing such great success in notebook.
+between the notebook business and our nintendo switch business, the profile of gaming overall has changed and has become more seasonal.
+but the end demand is fantastic.
+rtx is doing great.
+so atif, thanks for the question.
+how do you anticipate that market for inference developing across those various positions?
+data centers are going to have to be software-defined.
+and so we call it ai at the edge, edge computing devices.
+it runs all kinds of applications, including 5g.
+your next question comes from the line of mark lipacis with jefferies.
+in the area of artificial intelligence, from image recognition to natural language understanding, to conversation, to recommendation systems, to robotics and animation, the number of applications that we're going to accelerate in the field of ai is really, really broad.
+but this really basically comes down to 2 dimensions.
+those dimensions, the number of applications and the rich -- and the impact of those applications and the evolution, the growth of complexity of those applications, if those dynamics continue to grow, then i think we're going to do a good job.
+just kind of curious as you look out the next couple of years, the challenges, if the oem is moving slower?
+and then just any perspective on the regulatory side, has anything changed there, would be helpful.
+they need to be tech companies.
+and so although the automotive industry is struggling in near term, their opportunity has never been better in my opinion.
+and as ai shifts from development to production, our inference business is gaining momentum.
+thanks, everyone.

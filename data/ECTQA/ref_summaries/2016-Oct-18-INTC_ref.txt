@@ -1,0 +1,57 @@
+your question, please.
+good afternoon.
+thank you.
+this is stacy.
+so yes, as we just said on the call, what we're seeing in the data center is very strong growth rates in the cloud, very strong growth rates in networking and storage, as those areas become virtualized and our products extend into those areas.
+and then we saw some weakness in the enterprise in q4 -- or q3, and that's what we're expecting for q4.
+but curious what trends you can speak to in terms of growth, perhaps, in emerging markets and what that speaks to in terms of the trajectory for unit demand from here.
+and how should we think about the likely margin trends for the business as we go into next year?
+there really are the two issues.
+stacy, maybe -- this is brian.
+thank you.
+why is the -- i know we probably talked about this before, but why isn't the cloud grout that we're seeing in the enterprise indicative of that cloud growth?
+sure.
+and as my follow-up, a longer-term question.
+if you want to think about the rates of performance of each one of these, you have fpgas which are accelerators, and we see those accelerators go into everything from networking devices to machine learning applications.
+thanks for taking my question.
+so typically, on the shape of start-up costs, you would expect that 10-nanometer costs go up in the back half of this year, as you're seeing.
+one is the start-up costs associated with dalian, or china, factory for memory, and then some of the first wafers coming out for 3d nand and 3-d crosspoint.
+hard to pick the quarter, but it should become a tailwind as we get into 2017.
+okay.
+great.
+so i think you're seeing some lumpiness here.
+i wouldn't run rate that out.
+thank you so much.
+it's getting a little bit more difficult to track because of ccg, including the mobile.
+and then in q4, we're expecting seasonal end demand but some depletion of inventory pipeline.
+if you think about the size of the pc market, you're down to changes in inventory levels across the worldwide pc supply chain that are measured in days or certainly less than a week of inventory that shifts around.
+got it, and then, guys, maybe as my follow-up, all year long, you guys have been giving what's turned out to be conservative gross margin guidance by quarter.
+hi, guys.
+any more color would be appreciated.
+we now have the spinout or the divestiture, excuse me, of the intel security business.
+then we'll get some incremental savings.
+our next question comes from the line of chris danely from citigroup.
+i'd tell you it's some mix.
+we're also watching the sell-through as it goes all the way through the oems and out into the retail sectors.
+we're talking about a couple of days.
+so it doesn't take a big swing.
+so that played out as expected.
+thanks.
+those are still, as we talked about earlier in one of the questions, growing in a percentage of our overall data center business.
+we're quite happy, and i think our thesis of what continues to drive their growth is holding.
+so they're doing quite well.
+as brian said, when we get into the first half of next year, those products are ramping.
+we're shipping thousands of samples to customers.
+but i think your question is -- you can correct me if i got it wrong, a, how much of the enterprise slowdown that we saw is being driven by cannibalization, basically, of people waiting for purley, aka skylake platform?
+i'm just trying to gauge if there could be a reacceleration in dcg around purley.
+so we don't see that.
+it has more integration of the silicon photonics.
+we'd see an increase.
+so as we bring out new products and bring out new features, we make sure that the value-based pricing is there and that people are either getting more value for the same price or quite a bit more for a slightly increased price.
+thank you very much.
+we've seen less-than-expected growth rates in the enterprise.
+but i think i asked you last call about feeling good about this $800 million improvement in losses this year.
+we've, as you just heard earlier, our volume's a little lower, our contra revenue's looking a little lower, the product margins all look good.
+from a -- can we sustain the double-digit growth?
+i notice that your next-generation platform, the 7480, was just qualified at at&t just this month.
+and you should just think about we're really targeting modem technology advancements on that annual basis, and typically, you're right; they get qualified in the third and fourth quarter of the year before.

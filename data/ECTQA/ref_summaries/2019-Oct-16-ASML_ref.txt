@@ -1,0 +1,47 @@
+so you're right.
+and therefore, the average sales price of those systems will reflect the -- about 30% increase over the 3400b systems.
+and then just as a follow-up, did the -- those systems, meaning the full 3400c systems, have an impact on the number of systems that ultimately you plan to ship in 2020, i guess, just given the higher throughput?
+no.
+okay.
+but as you also know, that in 2019, we were back-end loaded this year.
+can you just help, how do you feel on the axial technology programs, first, multi-beam and kind of the big steps that you were hoping to see in the business?
+i think we are -- the first pilot system will ship early q1 of next year.
+just a follow-up, peter, to the last question.
+and i'm asking you this because e-beam was supposed to be part of it.
+yes.
+how do you see that $1 billion, which you characterized as having very minimum downside risk, trending into 2020?
+but if you look at it over, let's say, 2-, 3-year period, it's going to be at least at that level.
+now it could be 1 year, it could be a little bit more.
+like i said, it is predominantly euv.
+and then just as a follow-up for roger.
+how do we think about the gross margin for euv?
+does it still like fit in with your prior plan, you're going to have a 40% exit run rate next year for euv gross margin?
+it's achal from credit suisse.
+that is the ambition, and we have the plans to get there.
+next question is from mr. adithya metuku.
+and how should we think about that into next year?
+that's the way to look at it.
+so you will see for 2020 that there is more potential there.
+in terms of capex, i think that the capex number that you've seen for the first quarters, i think you will see a slight increase.
+so i just wanted to maybe check with you where we stand in the ramp of euv in logic in terms of penetration in the node that are rolling out, being ramped up now and the next generation that is going to be ramping up maybe in 1 or 2 years from now.
+thank you.
+it's -- when you look at the 7-nanometer node, i mean we said this before, on average, there is about 10 layers, yes.
+and we are still focusing on improving the next-generation points you see in na euv tools in terms of productivity.
+so that will be a higher value.
+and the -- you have to realize, it's all about cost.
+and i think it was an earlier question, what do we think is going to rebound first, nand or dram?
+and i answered that by saying we don't know.
+on the increase in utilization, we have actually said in terms of the utilization, what we have seen is that the utilization numbers have stabilized and it's just a matter of to see how dram pricing will recover, how inventories that are in the chain, how inventories will be in and up and will be absorbed over what time periods, then customers will start to utilize the tools even at the higher level before they start putting in orders for new wafer fab equipment.
+we talked about it in that context.
+as my follow-up, you talked about not achieving your target at least on the near-term buyback plan.
+so that's another driver.
+i mean all of that contributes to a free cash flow pattern this year, which is a bit of an anomaly.
+a bit of a -- if i could start with a follow-up actually to one of the earlier questions on layer count.
+but as we look at the 5-nanometer, is there still the opportunity for that to go higher?
+when you look at that and we do this and customer will gain more confidence over time and obviously in 2020 on the use of euv in high-volume production and we execute on our plans, i see a trend similar to what we saw on the 7-nanometer, is that the number of layers might go up.
+so for the foreseeable future, i think what you're looking at is that the capacity is okay.
+i understand that in 1z, there is only 1 euv layer for now being planned.
+and that is not so much a factor, if you like, in throughput, it's a factor in the availability.
+at 20%?
+but currently, we are looking at 3 to 4 layers.
+just trying to understand what's led to the customer go ahead and place such a large order at this stage.

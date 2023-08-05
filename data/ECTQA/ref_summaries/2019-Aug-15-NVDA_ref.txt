@@ -1,0 +1,38 @@
+sure.
+it's pretty clear now the future of gaming will include ray tracing.
+and one of the things that's really exciting is our rtx studio line that we introduced recently.
+they use it for 3d content creation and high definition video editing and image optimization and things like that.
+with the exception of a couple of hyperscalers, c.j., i would -- we're seeing broad-based growth in data centers.
+in the area of training, the thing that's really exciting everybody, and everybody is racing towards, is training these large gigantic natural language understanding models, language models.
+my expectation is that this is going to continue to be a big growth opportunity for us.
+but more importantly, in addition to that, we're seeing that ai is -- the wave of ai is going from the cloud to the enterprise to the edge and all the way out to the autonomous systems.
+and so we're seeing broad-based excitement around ai as they use it for their products and new services.
+does it go at a different phase?
+there's a couple of different dynamics that's causing that on first principles to grow.
+and of course, one of them is as ai is well known now to require accelerated computing, our computing architecture is really ideal for it.
+and so like all software programs, you can't predict exactly how the software is going to get programmed.
+i had 2 as well, one for jensen and the other for colette.
+if you simply ask a chat bot a simple question, where is the closest pizza and you would -- pizza shop, and you would like to have a conversation with this bot, it would have to do speech recognition, it has to understand what it is that you asked about, it has to look it up in a recommender based on the locations you're at, maybe your preferences of styles of pizza and the price ranges that you're interested and how far you're willing to go, to go get it.
+and it makes it really hard for these services to be deployed quite broadly and used for all kinds of different applications.
+and so that's the near-term opportunity, it's interactive conversational ai inference.
+and your next question comes from the line of harlan sur with jpmorgan.
+inferencing continues to see strong momentum.
+would you guys expect that this translates into a double-digit percentage sequential growth in data center in q3 off of the low base in q2?
+i guess i'm just wondering whether there's some element of this is more around product cadence that gets resolved as you do roll out the product.
+and we expect volta to be successful all the way through next year.
+the number of software engineers we have in the company is in the thousands, and we have the benefit of having built on top of this architecture for over 1.5 decades.
+you have seen, in this last quarter, we executed a sequential increase really focusing on moving to a normalization of our gaming business.
+and the pricing in the spot market is drifting higher than msrp.
+going from multi-core cpus to multi-node multi-core cpus is an enormous challenge.
+what's the outlook for that part of the business?
+and the 2 systems that we use there is called dgx for training and constellation for simulation and what is called replay.
+and the reason for that is because pascal was basically dx12.
+and turing is the world's first dxr, the first ray tracing gpu, brand-new functionality, brand-new api and a lot more performance.
+and with so few people and so few gamers in the world that are able to game on a laptop, i think this is going to be a nice growth market for us.
+and this is an underserved segment of the market where consumers, enthusiasts, they could be artists that are working on small firms, they need powerful computers to do their work.
+and the enthusiasm has been great.
+we've launched 27 different laptops, and i'm looking forward to seeing the results of that.
+my first question is on data center.
+thanks, everyone.
+ai is the most powerful technology force of our time and a once-in-a-lifetime opportunity.
+this concludes today's conference call.

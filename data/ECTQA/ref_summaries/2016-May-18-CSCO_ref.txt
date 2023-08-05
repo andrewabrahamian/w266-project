@@ -1,0 +1,42 @@
+in terms of your first question on the acquisitions, we'll start to see -- in the current run rate you have the bulk of, like opendns and everything else.
+ittai, this is chuck.
+we have a rack version of ucs.
+i think that's what's going on right now.
+kelly, on the gross margin question?
+so, i would say a normalized view on the gross margin would have been closer to 64.5%.
+and i think the thing i'm most excited about longer term is that we see a path to deploying that model across the rest of our portfolio.
+but i think that we've executed well this quarter.
+what we did see is we saw our data center switching revenue growth increase.
+and, again, that's $4 billion and it grew double digits in orders.
+on the routing business, we've seen a few things.
+clearly there is a macro issue that we're dealing with.
+can you help us to understand what were the factors to drive it higher?
+and, again, congratulations to you and your team.
+again, the thing to keep in mind -- true, we did guide with the extra week which came in, in line -- but just, again, a couple things.
+that is also a driver.
+but, again, the strength we're seeing this quarter mostly came from just improvements in productivity.
+if i get that correctly you had revenues up 31% there.
+and then if we exclude that very strong performance on that segment, what did the rest of enterprise look like in terms of, so you were down 2% over all?
+i'll start.
+let me just clarify the question.
+sorry about that, pierre.
+on the rest of the portfolio, to your question on service provider, we're seeing, again, the slowdown from just the overall service provider capex spend.
+but i do think that our teams have done a really good job here.
+thank you for taking the question.
+mark moskowitz,  barclays.
+and then is there any change in terms of public cloud versus private cloud related to margin, either from a gross margin perspective or operating margin perspective that we should be aware of?
+thank you.
+if you look at what we declared and we stated our strategy is around cloud, it really is focused on enabling what we believe is going to be the long-term desire of our customers, which is to operate in a hybrid cloud model.
+and we said that we're going to do three primary things.
+so, the differentiation is not much there.
+yes, i think when we hit it last quarter it was probably roughly $2 billion.
+or 15% of our service provider revenue?
+we just don't disclose that.
+so, coming into that earnings call, we had seen a very tough close to the quarter from an orders perspective.
+and i think that led us to a very cautious tone.
+great.
+so if you could talk how you're countering the threat or the substitution effect of those web-scale customers building or buying unbranded switches, rather than your products.
+maybe just highlight if you feel like that relationship is still on track for this $1 billion by 2018. the reason i ask, obviously ericsson had a very soft march quarter.
+we're focused on the execution and operational excellence, and at the same time we're focused on transitioning our business and investing in the future, which i think was displayed by our progress in the different areas that i highlighted during the call today.
+i think that, again, if you look at our success in security and collaboration, next-gen data center, the meraki cloud networking platform, and overall in our transition to software and subscription; i think we're on that journey.
+we now plan to close the call.

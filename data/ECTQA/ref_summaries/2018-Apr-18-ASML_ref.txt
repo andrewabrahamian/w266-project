@@ -1,0 +1,49 @@
+yes.
+it's logic, dram, nand, logic being foundry.
+there is nand initiatives.
+so it's the -- i would say, it's the entire breadth of the business that we're covering.
+we pretty know -- we know pretty well what kind of technology is actually used, so we can calculate the bit supply pretty well as installed and as planned to be shipped.
+when we give you guidance on what we believe the memory business is, it is based not on the order flow, it is based on the continued discussions we have with our customers on their ramp-up plans, their technology transitions.
+and secondly, if it is going to remain higher, why are you not capitalizing some of this r&d, given that, i mean, just what peter said in his prepared remarks that some of these shipments on high-na euv are really going to happen in 2024, et cetera?
+okay.
+we're very heavily investing in high-na, both here at asml and through our high-na agreement order size.
+but we are also investing heavily in holistic lithography in the guided beam and the multi-beam solutions.
+and there, you don't have a difference.
+and how should we think about that in the next couple of years?
+so curious, as you think about announced and unannounced greenfield capacity as well as emerging spend out of china, could you talk about visibility and how you're thinking about 2019?
+sure, that's helpful.
+and then given that you pushed 2 tools into 2019, should we infer that 32 could be the new number?
+i would, for the time being, stay at the 30 units.
+i mean, that's a question you really need to ask our customers, but i can give you some qualitative indication.
+as what we said before, it reduces the complexity.
+so, that's not us.
+so -- but it -- but that all looks very much that we're on target to reach our over 90% availability when customers need it.
+i think that's what they will do.
+it's andrew gardiner from barclays.
+so is -- 2 quarters on from when you first said that, is the demand level for 2019 still at that kind of a level, so far outstripping the capacity today?
+because it is not only whether you use 6 or you use 10 layers, but it's also what is the wafer capacity that you are going to build.
+so it's also a bit of how quickly do they want to ramp to a certain first phase of that node, yes?
+so that is also, of course, determining whether -- how much the end demand will be over our capacity.
+but what we're currently seeing, and i think that's kind of -- a long time that we've seen memory prices, especially dram prices, staying very strong and even growing, while you could argue the cost of manufacturing goes up.
+i think the demand is extremely high, and that means that even customers -- that end customers are willing to pay the high prices.
+i mean, that's what every customer confirms.
+when yields go up, cost per bit goes down.
+just quickly on the -- you made a comment earlier to say you're still increasing your duv capacity.
+by taking the long route, and that's basically building a factory and hiring people and don't change your processes; or you can drive down cycle times and just get more out of the same square meters.
+that's clear.
+and then just coming back on the euv high-na discussion, you've made a few comments on value and pricing.
+but like i said earlier, we have this agreement on our return on investment of the r&d and the capex we do with carl zeiss, which will translate into a reduction, a discount on the optics, which is the most expensive part of the entire tool.
+and the euv source is the same source as we use in 0.33. so that learning curve will have kicked in by the time that we start shipping the high-na tools.
+the next question comes from mr. adithya metuku.
+it's adi from bank of america merrill lynch.
+so i had 2 questions.
+firstly, looking at the growth drivers in 2018, you're saying you're confident that memory has increased in the last quarter.
+and then from now on, you will see the revenue recognition at the time of shipment, so it's going to be much more in sync.
+and just a quick follow-up if i could.
+do you have any thoughts around that?
+and finally, just all the best to wolfgang.
+the last question will come from ms. tammy qiu.
+you said that in the presentation, you already demonstrated the first 9-beam tool.
+and the -- since that is a productivity advantage, a significant one, that also means that the value out of a tool like that will be higher than a single tool.
+so you could actually say that the value of the tool scales with the number of beams.
+thank you.

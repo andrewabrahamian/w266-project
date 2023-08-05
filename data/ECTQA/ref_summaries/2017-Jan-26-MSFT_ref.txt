@@ -1,0 +1,32 @@
+thanks, amy.
+thank you.
+excellent.
+thank you for taking the questions.
+let me start, and then i'll turn it over to amy to talk about the specifics of the synergies.
+brent thill, ubs.
+i'm not particularly sure exactly what is happening on february 1.
+but, i would say the overall change that we're going through -- and this is been ongoing for, i would say, the last multiple years -- is transforming our field engagement model, where we are putting a lot more technical depth in the front line sellers so that they can engage.
+so, that's the transformation that you will increasingly see us push forward.
+i think that's how i tend to look at it.
+we'll take the next question, please.
+and now that you're getting to some big revenue numbers, is there any reason why, at a similar revenue scale you shouldn't be able to match the gross margins of what aws -- what you can back into from the financials of aws?
+so, when i think about the material gross margin improvement we saw on azure, it continues the path we've actually been on.
+where we've been discussing, as you continue to see customers ask for us and our help in managing their digital estate consistently, securely, through one interface, you'll actually see growth across all components of that cloud.
+amy, i'm going to ask another question on gross margins, but this time at the microsoft level.
+your prior guidance was for ex-linkedin fy17 gross margins to be down 100 basis points.
+that is the guidance we gave and, even inclusive of linkedin, i continue to believe it is about 1 point.
+that tends to have a very good margin profile.
+it was obviously helped by windows server 2016, sequel server 2016.
+how should we think about, on a longer-term horizon over the next 12 months or even longer -- how those two should help on the on-premise isis or annuity business on the cloud and azure?
+thank you, mark.
+hi.
+and i'm wondering how we should think about the factors impacting and the timing in the handoff of profit growth from mpc to ic and pbp?
+and so some of the confidence that we have in the transition of that investment in operating expense and to even more revenue growth comes from seeing the consumed revenue trend that we're seeing today, as well as the pipeline of projects and customers that we have.
+so i don't think of it as margin shifts across the segments, and that's why we think of all of this as one digital estate, at least from a customer end perspective.
+for example, are there incremental waves of activity on the horizon that you would tie to tier 1 workloads, or large data center migrations, or serverless usage which would enable that?
+and in terms of, is there a long-term gross margin cloud number that is industry-leading, i think right now there's a benchmark in the saas community that's probably around the number you talked about in terms of more saas applications.
+how do you think this plays out?
+but really, from an arpu perspective, the biggest driver continues to be the transition to e3.
+i guess i'm pointing to the fact that it did seem to decelerate quite a lot this quarter.
+but in addition to that, i must say there are two other things that are increasingly becoming fairly relevant in the adoption cycle, which is moving to both office 365 and windows 10 and getting essentially to this new frontier for productivity, which is an always up-to-date operating system, which is secure, and an always up-to-date office experience that is a fast service.
+that wraps up the q&a portion of today's earnings call.

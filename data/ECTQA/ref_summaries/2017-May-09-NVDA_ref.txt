@@ -1,0 +1,53 @@
+and that's on the serve -- cloud service provider side of the internet companies.
+and so i think the nut of it all is that we're seeing data center growth in gpu computing across the board.
+the esports is growing.
+i think it's amazing.
+and of course, the first-party titles, the aaa titles are doing great work.
+it's a very complicated software problem.
+and inferencing, inferencing as it turns out, is far, far less complicated than training.
+the cpu is really the only processor at the moment that has the ability to basically run every single network.
+and i think that's a real opportunity for us.
+it's not about provisioning inferencing.
+the average selling price of the nvidia geforce is about 1/3 of a game console.
+people are willing to spend $200, $300, $400, $500 for a new game console.
+your next question comes from the line of c.j.
+it's a product that i -- that is sold both into our installed base as well as growing our installed base.
+how much of our installed base has upgraded to pascal?
+i guess as my follow-up, on the inventory side, that grew, i think, 3% sequentially.
+come to the keynote tomorrow.
+every hyperscaler in the world is using nvidia for either deep learning, for some announcements that you'll read about in data center deployment, tomorrow hopefully, and then a lot of them have now standardized on provisioning the nvidia architecture in the cloud.
+can you maybe provide some additional color for the individual segments?
+we feel good about the guidance that we're providing for q2.
+but again, we do believe datacenter is a super great opportunity for us.
+at the ces earlier this year, you guys announced geforce.
+yes, atif, thanks for the question.
+and we are -- i said at gtc that around this time, that we'll likely open it up for external beta.
+and that's -- it's still years away from being able to find the right balance between cost and quality of service and the pervasiveness of virtualizing a gaming pc.
+so we've been working on it for several years and these things take a while.
+is that a business that is of interest to you?
+but i expect it to be high.
+and at the core, it's because in the future, every aspect of transportation will be autonomous.
+the world is just growing too fast in an instant delivery, delivered to your home, delivered to you right now phenomenon.
+well, let's see here.
+there's a -- it's a great question and there's a couple of ways to come at it.
+first of all, ai is going to infuse all of software.
+we've been using now deep learning.
+and the combination of those 2 things makes it look like it's the end of moore's law.
+we want the best transistors.
+and like i said, it's really, really important to us and i want the best.
+and i guess just on that note, how do you think about segmenting the sales effort?
+it's both of those.
+we have a team that's working with the manufacturing industry.
+that's helpful.
+just wondering if you have any comments on what drove that.
+high-performance computing is used by companies who are using simulation approaches to develop products or to, well, to simulate something.
+it's just not right.
+and then there's inferencing.
+and so i published a blog.
+and then just moving to the gaming gpu side.
+i was just wondering if you could just talk about the competitive landscape, looking back at the last refresh and then looking forward into the back half of this year.
+we've been running internal beta and closed beta for some time.
+my expectation is that it's going to be some time as we scale that out.
+and as you know, overnight successes don't happen overnight.
+we'll have exciting news to share, next-generation ai, self-driving cars, exciting partnerships and more.
+you may now disconnect.

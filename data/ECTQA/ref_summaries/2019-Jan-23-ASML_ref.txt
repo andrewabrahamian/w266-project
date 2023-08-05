@@ -1,0 +1,45 @@
+a number of our customers are looking into high-volume manufacturing for euv, not too long from now.
+so that means that we have a significant cost burden right now, while the revenues only kick in at the end of the year.
+and then there's about 1% left, which is miscellaneous.
+so that kind of gives you the bridge from the 48.5% to the 40% that we had in q1.
+now back to your question, how is all of that going to -- how we going to recover to normal margin levels, if you like, in h2, and as i mentioned, how we going to get from this situation into the -- towards 50% gross margin that we expect as we exit 2019 into 2020. so as it relates to the mix effect and also the loading effect as a result of the uptake of the business that we expect for the second half, that is what is the main driver -- the main driver behind that.
+we also expect some of the field upgrades that we lost as a result of prodrive in the first quarter.
+yes.
+now you can add it all up.
+and if you then come to that number, that sales number will be divided half-on-half.
+got it, got it.
+and then just as a follow-up.
+or do you think it's going to take a quarter or 2 before you see that happening?
+well, it is what i said earlier.
+so it's quite a significant reduction.
+now if they're right, on the second half of the year, we should see a rebound of those orders in the course of the year.
+the next question comes from mr. david mulholland.
+obviously, you talked a lot about this at your capital markets day and, at some point, this needing to move towards multipatterning.
+i think some of the comments that we've seen in some industry events were suggesting that might even be the case at kind of the 5-nanometer node or the industry 5-nanometer node.
+it was not there.
+well, to answer your last question, we, of course, have a customer that does both.
+or how do we think about that?
+okay.
+we've guided that for the 3400c.
+not entirely, but the vast majority of the performance upgrade can be obtained through a few upgrades.
+but having said that, i mean, it's going to be a question of economics on this because it's a different lens.
+so actually, basically, you need to be able to take the hit of quite an expensive upgrade and that, of course, needs to be balanced with the real performance of the b and the real performance with -- of the c. so we'll just have to see whether that's going to happen.
+in that context, how do you see the current downturn compared to prior cycles?
+to be very frank, we can only repeat or tell you what we get from the discussions from our customers because they have a better view of their market in the discussions with their customers.
+and you cannot strip euv out because it drives this technology transition.
+and as a follow-up, i guess, specific to euv gross margins, it looks like you came in around 20% in q4 of '18, if i pro-forma that onetime charge.
+i think you've talked about exiting calendar '19 at 30%.
+so that is the main driver through its higher asp.
+the next question comes from mr. amit harchandani.
+the reason i ask this is because, as i look at the number for 2019 and then i look at some of the scenarios you had laid out for 2020, i think the installed base number was seen at about eur 3.6 billion to eur 3.7 billion in 2020. just wondering if you still think you could get to that number, what would drive that around?
+but when you look at h2, it will be a strong logic-driven half.
+and that means that if we can prove, and i think we will, that by the end of this year you have a euv tool that has availability of over 90% with 170 wafers per hour and the economics for euv are so convincing that i believe that our customers are definitely going to -- will look at their plans and you'll see which layers in logic, but particularly at dram, are now eligible for euv introduction.
+my understanding was it will be 10 per quarter in 2020. so any color there would be very helpful.
+now having said that, what is particularly important is not so much the lithographic performance.
+so this is good.
+and i think this will -- this is why i also said in an answer to an earlier question that the 3400c and its performance is going to be a big driver also in 2020. and we're confident that we're going to get there.
+operator, may we have the last caller, please?
+sandeep deshpande here at jpmorgan.
+my question is regarding, peter, about the -- you mentioned in one of your press releases that your dram windows are looking at euv at this point.
+and then one quick follow-up on your gross margin.
+thank you.

@@ -1,0 +1,47 @@
+your line is open.
+okay.
+thank you.
+our next question comes from vijay rakesh of mizuho.
+just on the dram side, i know you mentioned that, obviously, great results there, as well.
+how do you see the transition to 60-nanometer as you progress through the year?
+we have a number -- a broad set of products that are supported by that 1x technology.
+great.
+thanks.
+it's a very significant shrink for us.
+your question, please.
+hi, yes, good afternoon.
+so if you net that out, that's almost 20% dram bit growth per system and maybe a little north of 40% on nand.
+thank you.
+and last question, in terms of on the balance sheet, how do you think about reducing the level of debt going forward now that you're entering into a period of higher free cash flow generation?
+thank you.
+first question, mark, you made some recent comments about china and about them potentially flooding the market if they do get access to ip, so my question is, can you again remind us of what your mission statement is around the potential of sharing ip or licensing ip into china?
+relative to what micron has said about our interests in china, we have a great interest in doing business in china.
+and that's just part of us being effective managers of the company, and we'll continue to do that and if we can figure out things that make the company stronger, we'll always consider that in terms of the long-term benefits and act accordingly.
+thank you for that.
+so i'm wondering, is there any like contingency planning happening?
+that's helpful.
+it's a matter of getting that balance right, making sure you have the product, have the right products in that -- in those lagging nodes so you can address the right market opportunities.
+for example, in the storage business unit with ssds, how are you managing your customer expectations for longer design cycles and qualification cycles given that product is tight now and you're saying it could be tight for a while, especially as you ramp 3d nand and maybe it has some puts and takes along the way?
+and then just a quick clarification, so on inotera i understand you don't want to go too much deeper into the numbers, but in terms of some of the synergies that are potentially ahead of you with inotera, should we just think of it more as the flexibility to manage bits a little bit more efficiently or should we consider that there could be some meaningful cost savings that could come through to the margins down the road?
+our next question comes from chris danely of citigroup.
+a lot of that is in the chinese value handsets, and i don't think we want to get specific in terms of percentages, but i think it's fair to say that we had strong growth in china, as well as at some of the high end smartphone manufacturers.
+so it might seem to me that as you guys move to 1x you'll have a bigger wafer start base at 1x than you had at 20 nanometers.
+we have -- as i mentioned, we've got a number of different products coming.
+i think you're going to see us make some steady quarter-on-quarter growth, but i don't think in dram particularly you're going to see it continue at the levels that you've seen it for the last couple quarters.
+i would also tell you relative to some of the pricing, you'll note that we widened our revenue guidance range a little bit and that's reflective of a bigger business, and the fact that we realize pricing environment continues to be dynamic.
+congratulations on the strong results.
+yes, thanks so much for taking my question.
+we do have what we think is a much better product portfolio now that's got a lot of customer excitement and eagerness, and we think that we're well-positioned with long-term customers who really want to buy from micron.
+so, yes.
+thanks, ernie.
+can i also ask you, what's the net operating -- the nol balance today, and can you just educate us on restrictions in terms of utilizing that asset against future tax provisions?
+thanks very much.
+there are no significant restructuring charges anticipated.
+we borrowed $2.5 billion relative to inotera.
+and on your 3d xpoint, you said that you'd have your first revenue in 2017. can you say what end market that would be?
+we're talking to a number of different customers and we probably don't want to say yet.
+i'm just wondering if you had any comments on what is different between the previous cycle?
+clearly, the industry is a lot better than the past, but the question is how much, and i'm just trying to ask if you have any particular thoughts of this time versus 2014 in particular?
+and then finally, you layer on what's going on with nand right now from a demand perspective, it's just explosive, i think, is probably the right word in terms of demand and elastic, as well.
+can you talk about whether you see that product impacting dram demand down the road?
+xpoint.

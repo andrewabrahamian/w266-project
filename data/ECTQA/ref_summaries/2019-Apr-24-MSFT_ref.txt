@@ -1,0 +1,27 @@
+and so that absolutely contributed and has contributed over the past couple of years to what i do believe has been reasonably consistent commercial bookings strength versus the expiration base.
+that means it shows up in bookings and again not in the unearned balance in the same way.
+and so you will see as we go forward, and you're already starting to see it, more volatility in this number not just based on the way we've traditionally talked about it, which is the movement of the expiration base but also in some of these larger, longer-term commitments by what we now think of not just as customers, but these are really now partnership relationships that we have where, to your point, we're co-collaborating to help customers be successful as they build their digital future.
+and then perhaps a follow-up for amy.
+so operating margins really exceeded our expectations this quarter and i think consensus expectations.
+yes.
+so let me start.
+amy, can you delve into the impact of azure hybrid benefits on azure revenues, server and tools, renewals?
+and satya, can you give us some added color on why this specific offering is resonating so well with customers, which is what we're hearing?
+maybe i can start on the second part and then leads to the first question.
+and so what we provide in terms of both the technology and the business model, i think, shows up with the maximum flexibility.
+and so over time though, how you should think about that is it will eventually show up in azure consumed revenue growth.
+but to your specific question, it shows up today in the on-prem number, it's where you could see most of the strength of that value.
+when i think about the durable trends that i expect to see, it's been the hybrid value prop that we really just talked about on mark's last question and then the premium mix.
+and so even with some of that benefit of the durable trends plus, i think, a more temporal one of end of support, i do expect to see a deceleration in that number in q4.
+are we starting to see a shifting where e5 is sort of increasing in relevance and e3 is played out a bit?
+or is this sort of equally balanced?
+in terms of overall reach of office 365, we continue to see significant opportunity going forward on multiple dimensions.
+this quarter and a little bit last, i actually think some of the arpu increase has been masked by some of the trends in seat growth.
+if you think about it, in the client/server era, we never participated in the core of the digital infrastructure of financial services or in health care or in retail or in manufacturing.
+and the way that would show up, mark, is a little bit, i think, where you were leading with the question you asked, which is when we think about the microsoft commercial cloud at $9.6 billion and growing over 40%, how do you see that evolving?
+that's one example.
+and to your overall commercial cloud gross margin question, you're right that the fundamental driver is, when i look forward into the next year, i expect each service, just like it did this year, to really see gross margin improvement, whether that service is linkedin or dynamics or office 365, azure per user or azure iaas and paas.
+that type of architectural approach is what we see is possible now for every saas application when they're out there as well because we think about the number of saas -- number of business applications that were built on sql server, i feel that, that's an architecture that can support both what they want to do on the edge but as well as in the cloud.
+our next question comes from the line of raimo lenschow from barclays.
+thanks, raimo.
+thank you all.

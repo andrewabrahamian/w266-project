@@ -1,0 +1,28 @@
+yes.
+thanks, john.
+i mean i think one of the things -- we got very strong demand for tiger lake.
+and i think it gives you an indication of just how much our performance was improving on 10-nanometer.
+and so we feel good about the overall gross margin dynamics.
+but when you overlay covid, it's -- we'll just have to see how that plays out.
+i appreciate all the color in these uncertain times.
+we got a great set of products that we're building and developing, and we're going to invest to position ourselves well to capitalize on the current disruptions that we're wrestling with.
+it's part of why we said we think our free cash flow is going to be pretty resilient in the year because we've seen in some of the geographies where we have major construction projects underway, we're actually seeing that being pushed somewhat by regulatory requirements.
+is that -- just kind of describe what led to that decision.
+and to george's earlier point, the demand signals we're seeing and our confidence in both the product and the yield is -- has us at a point where we expect to accelerate the ramp and adoption a bit faster than we did coming into the year.
+i don't think we'll see a crossover point this year.
+i want to go to the data center group, you have the color commentary about the enterprise and government being weaker in the second half, and i don't think that surprises anybody.
+and possibly, even going into the second half of the year, that's tbd, but the trends are relatively encouraging, the demand signals are very high.
+pierre, it's george.
+they're in a part of the automotive market that is growing substantially.
+and then as bob said, on the data center side, enterprise and government appear to have been very strong in the first half, and so we would expect some digestion.
+our next question comes from the line of srini pajjuri from smbc nikko.
+i'm just wondering, the remaining half, is that because of reserves, which is going to reverse in the second half?
+well, i think the things that are structural is we're going to see more 10-nanometer demand in the year than we had forecasted at the beginning of the year.
+and that will have a little bit of dampening on margins but not materially different from what we had seen coming into the year.
+i would say both ice lake and the 5g socs are a little bit stronger than we would have thought coming into the year and -- which is consistent with just the demand activity that we're seeing in mobility and the infrastructure around that.
+and i would just say through the first 90 days, we're much better.
+i would say the -- any kind of dislocation that we're looking at right now is more a function of just the supply chain challenges that some of the oems had, particularly in the first half of the first quarter.
+obviously, in the first quarter, demand was also greater.
+it was greater for -- across the board, server and notebook, in particular.
+thanks again for joining us.
+you may now disconnect.

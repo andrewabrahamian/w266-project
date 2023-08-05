@@ -1,0 +1,30 @@
+it started with sort of a bit of a shift in theme, from what i could tell, at the i/o earlier this year.
+and the foundations of all this is all the work we have done with our computing platforms to date and the successful consumer services and the developer platforms we have built.
+can you just help us understand if that's impacting kind of the advertising and monetization side of the business yet or how that can play out going forward?
+anytime -- maybe i'll answer it as, bert, which is the name of the technique we are using, and we rolled it out in search now.
+and so i would just characterize this as a big improvement, which improves search quality and creates that virtuous cycle by which people engage more.
+thanks, heather.
+and our next question comes from mark mahaney from rbc capital markets.
+i presume that's what you're talking about.
+and then maybe just elaborate a bit on the long-term vision of moving shopping functionality into properties like youtube and how you think that experience will evolve.
+image search, youtube, maps are all great services by which i think users come with varying degrees of commercial interest, looking to discover and, at times, transact as well.
+so we are thinking through the end-to-end experience across all our services and are investing, but i see the user interest, and it's an area where i think we have significant opportunities ahead.
+can you just talk to us about some of the kpis that you monitor, what you're seeing when it comes to query volumes, click-through rates, overall response time?
+what are you seeing that sort of give you confidence that you're continuing to get more and more relevant results for your users?
+and what we see is that desktop does remain an important form factor for certain more complex tasks.
+those are all some of the deeper work we are undertaking.
+on the first part, we consistently want to work and build products that benefit users and support the ecosystem.
+that's about $25 billion of growth in the last year, and we are continuing to invest in long-term opportunities.
+and then second, maybe just a follow-up for ruth, sundar spoke at length about your investments in renewable energy earlier.
+so these are -- you want to be helpful to users in a way that makes sense for them more continually, and the combination of search and discover helps us do that.
+it helped us reduce energy consumption, not only positive for sustainability but was an efficiency effort.
+and as much as we're extremely excited about the long-term implications for quantum computing, part of your question there about near-term computing requirements, given our outlook in particular across google, we do expect to see ongoing demand for compute investments to support our growth particularly for machine learning, cloud, search and youtube.
+our next question comes from brent thill from jefferies.
+can you just walk through how you prioritized the 2 big buckets?
+obviously, we talk a lot about gcp.
+i think i'll ask on youtube.
+we are pleased with our option so far across both youtube music and youtube premium.
+so there is definite -- the user satisfaction on the product is very high, and so we're focused on continuing our expansion, building out a great service and building awareness for the service.
+and the efforts, while early, are definitely showing strong traction.
+as in the first and second quarter, the rate of youtube click growth decelerated in the third quarter.
+and that concludes our question-and-answer session for today.

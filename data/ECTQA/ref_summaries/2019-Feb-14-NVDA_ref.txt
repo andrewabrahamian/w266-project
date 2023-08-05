@@ -1,0 +1,51 @@
+and second question is inventory was up on the balance sheet.
+and so i think that the situation wasn't ideal.
+and that it's possible with rtx technology, the combination of applying ray tracing and ai for us to deliver much more beautiful images without sacrificing performance.
+and then probably one of the biggest stories that came out just last week is unreal engine and unity, both of the game engines are going to incorporate rtx and ray tracing technology in the engine itself.
+i guess on the commentary regarding a pause in spending in datacenter and a handful of deals that got delayed, can you give a little bit more color in terms of, i guess what you're seeing across enterprise, cloud, high-performance compute?
+and if you take a look at where we are, our deep learning solution is unquestionably the best in the world.
+we have inference that we're actively working on.
+we have data analytics that's called rapids.
+and because of the partnerships that we've developed and the excitement that people see around enterprises around the world, we've developed partnerships with large it companies to pre-configure systems that make it easier for enterprises to be able to adopt our technology.
+and so we're looking forward to when the pause releases, and now we'll get back to growing.
+on the clarification, gross margins, colette, what is the normalized run rate for gross margin that as you get your sales back to normalized levels, how should we think about the trajectory of gross margins?
+so i'll go first.
+the mix of our products based on our market platforms but also the mix of our products within data center as well as within gaming.
+it attracts a lot more players because it's social, and you want to play with your friends.
+if you compare that -- if you compare also the rate of which our gaming notebook is growing, i think that's pretty exciting.
+what i have to ask, though, is if you're still going through of the channel inventory worked out in fiscal first quarter, it seems like to hit your full year guide, the expectation is for gaming revenue to accelerate well above that normalized level you talked about.
+yes.
+but the bigger picture, i think is this, that the market segments that we serve, whether it's in deep learning, machine learning, data analytics, those segments are really quite large.
+rendering is a brand-new market for us because of turing.
+and they both -- they all see, they see the opportunities that we've created.
+and we're seeing a lot of great success with that.
+and we'll just have to see how that ends out.
+our datacenter business is growing.
+and so i think this is going to be a good year for self-driving cars as well.
+you have said that mix was going to be the primary driver of your gross margins.
+and i know that sequentially they're up, but if i correct for the inventory write-down in q4, the normalized gross margin this quarter was 61.7%.
+is there something else going on that we should be aware of?
+this is our year guidance for now, and we'll update you as we go.
+the fundamental dynamics doesn't change.
+and we have 4 new ways to grow our datacenter business.
+we have inference, we have data analytics and machine learning.
+we have rendering.
+and so with a little bit of a tailwind, i think we could have a fairly good year, and we'll just report it as we go.
+the vast majority of the world's data center only runs on cpus today.
+and it's creeping along at a few percent a year, and unfortunately, that's just not good enough.
+and i think our position is really quite good.
+i have just a couple of questions.
+yes, they have definitely been volatile over the historical period.
+it is great to see them coming down in price.
+kind of building on the discussion around the turing platform and particularly to the gaming market, i'm curious, you mentioned in your prepared comments pricing of these new solutions was a bit of an inhibitor.
+the inability to launch 2060 was a big inhibitor for us.
+china is an important market, and it's an important gaming market.
+and your next question comes from the line of mark lipacis with jefferies.
+and your next question comes from the line of mitch steves with rbc capital markets.
+a question for colette.
+did you grow faster than the overall capex?
+but the overall growth rate, as you can see from our data center business, grew more than 50% for the full year.
+and when we listen to other providers around you, they all seem to be -- i mean they all demonstrate a bit of a confidence that in the second half, spending should resume.
+we do have 4 growth drivers.
+on the china gaming weakness, is it the slower economic environment?
+i will now turn the call back over to jensen for any closing remarks.

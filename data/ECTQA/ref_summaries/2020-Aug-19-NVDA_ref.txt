@@ -1,0 +1,39 @@
+yes.
+and so there's just so much that you could do with video games now.
+it's a type of software that really wants acceleration, and nvidia's gpu acceleration is the perfect medium, perfect platform for it.
+and then lastly, cloud microservice transactions really benefit high-speed networking, and that's where mellanox comes in.
+but this is the future, and it's not -- there's no going back, and we just found everything accelerated.
+and then we see this talk about you and arm.
+and the way we push architecture is we start from the system, but we believe that the future computer company is a data center-scale company.
+the computing unit is an entire data center now.
+and then in the last -- in this current generation with ampere, we invented the world's first multi-instance gpu.
+and because it's energy-efficient, it has the headroom to scale into very high-performance levels over time.
+what does that look like as you look through the back half of the calendar year?
+we are -- we're still in the ramping of the rtx generation.
+one technology is a ray tracing acceleration core that makes the tracing of rays and looking for intersections between the ray and the scene -- objects in the scene super, super fast.
+it's a super-complicated problem.
+let me see if i can answer this one for you.
+yes, we have been talking about our visibility of data center.
+a100 is ramping.
+it's ramping very strong into our existing installed bases but also into new markets.
+your next question comes from the line of c.j.
+they're sharing it with the community.
+the number of different ways you could game has just really, really exploded.
+and so the pc has just become such a large platform for gaming.
+i think it's going to be the most amazing season ever.
+and so i think it's going to be quite a huge second half of the year.
+your next question comes from the line of toshiya hari of goldman sachs.
+i had one for jensen and another one for colette.
+thank you.
+and so in the last 3 years, we've seen somewhere between 1,000 to 3,000x increase in the size of models, the computational requirement necessary to create these ai models and to deploy these ai models.
+and so the #1 trend that we're probably indexed to is the breakthroughs of ai and the usefulness of ai and how people are using it.
+nvidia is the only accelerated architecture that allows you to do microservices for conversational ai and other types of ai applications to scale up applications like high-performance computing, training, big data analytics to virtualize applications like workstations.
+and so we're in the beginning of this multiyear cycle and the enthusiasm has been fantastic.
+the guide looks to be roughly similar to that into q3.
+are you more demand or more supply limited at this point?
+i think people have simplified it down to almost a ridiculous level, right?
+and so we put a lot of energy into that, and then the last thing i would say is that going forward, it's really about data center-scale computing.
+of course, we start with building the world's best processors, and we use the world's best foundries, and we partnered them very closely to engineer the best process for us.
+we put up selene in 4 weeks' time.
+adopting of nvidia computing is accelerating.
+you may now disconnect.

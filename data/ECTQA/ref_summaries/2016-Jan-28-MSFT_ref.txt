@@ -1,0 +1,30 @@
+congrats on a great quarter.
+satya, when you look at the growth rates there in commercial cloud, and particularly azure, you talk about new customer wins but also existing customers transitioning more workloads into azure.
+and we also see network effects between if you are using office 365, you want to extend the data in office 365 by building applications that join it with some other data inside of our data link service in azure, obviously azure becomes the natural choice for such application development.
+we will move to the next question, please.
+we see both those trends from an application workload development synergies, as well as infrastructure from identity management, device management work out.
+good afternoon.
+i'm just trying to get a sense for how you see the wave cresting for new workloads versus existing workloads that can migrate over.
+and that's because, first of all, the move to the cloud combines a whole bunch of different categories, as well as take something that you mentioned, which is linux.
+so those are things that we participate in which we didn't participate in the past.
+thank you.
+how should we think about that?
+and then a follow-up for amy.
+our next question comes from the line of raimo lenschow with barclays capital.
+thanks for the question.
+i noticed your long-term unearned revenue was up quite a bit.
+i'm wondering if you could help us understand what drove the unearned and how that contributed to those commercial bookings?
+that is where macro pressure on occasion shows itself first, is in some of that non-annuity lumpiness.
+between all of those hardware products as well as our gaming performance, another hardware component in quarter, we did a little better than we had expected in our launches.
+and that was a couple of points of impact, for example, on oem pro in quarter.
+if you think about all those components, which actually were very similar to q2 in terms of their strength, you see them again in q3.
+and the pilots, the most -- the place which in the second half is going to be a huge focus for us is the enterprise deployment.
+i would just add one thing, is that we've actually announced a number of important partners to help us take the surface portfolio into commercial customers.
+i think there two aspects of it.
+if you look at even the thing that we're seeing is in terms of engagement with the browser, or things like xbox live, with the store or new device categories like the two-in-one; all i think make it much more possible for users to engage with windows in more mobile formats and in more productivity scenarios.
+that's right.
+i would just add that we did see that premium mix go up in office 365 on the commercial side, as you were noting.
+that is been our goal, and that's working well.
+and it is sort of shows up in our all-up growth.
+and more interestingly, a mix of all of them, because the enterprise is heterogeneous.
+that wraps up the q&a portion of today's call.

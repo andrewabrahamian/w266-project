@@ -1,0 +1,42 @@
+one of the key questions that we have though is, as you continue to show good demand for the new catalyst 9k products and distribution expands, what are you seeing in terms of attach rates for subscriptions to that new product?
+and the acquisition of that product, in my opinion, is a clear belief in the next-generation architecture with the automation platform that we're announcing, which is what the advanced subscription model requires.
+kelly?
+yes.
+it's mainly in the opex line.
+so that's what's driving that.
+okay.
+the other thing i'll point out is that i think we said on one of the calls a while back that the enterprise segment, we would expect to lag the commercial segment with the 9k.
+and that's where we're banking on the long-term success.
+and just on the spvss business, we will -- it is in my guidance right now because we're going to -- obviously, we continue to run this business until the deal closes.
+so it's the bulk of that.
+if you can comment on that as well that would be great.
+in my product gross margin, it hurt us to the tune of about 60 basis points year-over-year.
+so the slope of the increases are getting less, though it's still increasing year-over-year.
+that has a negative impact on our rate as well.
+obviously, we're going to continue the business model evolution, but the #1 priority was to get the enterprise portfolio and particularly the switching business stabilized, which our teams have done a great job.
+and the enterprise routing, i will tell you that our teams have been working hard on the integration with the viptela acquisition into our enterprise routing portfolio.
+good.
+we've had continued progress with several of them and continued favorable discussions.
+those have not gone away.
+and the web-scale providers know that as well, which has really enabled us to build these broad relationships that extend well beyond just the data center.
+thanks.
+and so yes, the headwind is still there because we are very much increasing the number of offers that we have as well as the revenue dollar that we're putting on the balance sheet.
+it definitely now is approaching the 2 to 2.5. and as we ramp more and more of the portfolio, we'll continue to see that.
+i guess my question is on the recurring revenue.
+is that primarily a function of cat 9k ramping in volume?
+but we feel great about how it's progressing.
+the only caveat i'll give you on that is, when we go into our fiscal year '19, we have to adopt the new revenue standard, which will have some implication on some of the products that are included in this.
+i have a brief question for chuck and then kelly, more of a clarification one.
+or how should we think about that?
+so let me hit the first one.
+and we anticipate using that in the next, basically, 18 to 21 months.
+i actually wanted to circle back a little bit and poke at the recurring revenue piece.
+as i said, overall, the growth of product recurring revenue was over 30%, like it has been for the last 5 quarters.
+it's really more the denominator of total revenue that's driving just the slight round down to 32%.
+and i think that as you look at the architecture that we have, which extends from e-mail to endpoints to the network to the cloud and then has this massive state machine where we can correlate threats and then dynamically defend, it's a unique proposition.
+mark moskowitz from barclays capital.
+is there any inflection point with respect to the selling cycle?
+we have fantastic demand.
+so feel really good about the q4 guide, and we're just going to take it one quarter at a time.
+so i want to just thank everybody for joining us today.
+we now plan to close the call.

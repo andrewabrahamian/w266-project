@@ -1,0 +1,29 @@
+yes.
+bob, you've done a great job in managing opex since coming on board.
+so really, the underlying dynamics is we've made trade-offs to invest in higher growth segments of the business.
+during the course of this year, we exited wind river.
+but -- and we're going to increase it in the areas that we think can generate differentiated growth for us.
+or how should we be thinking about that dynamic?
+and therefore, by definition, the lower end of pc and the iot business is being constrained.
+our next question comes from the line of ambrish srivastava from bank of montreal.
+and i'd characterize it, ambrish, this way.
+and as we progress through in the -- through the fourth quarter into 2019, if we're further ahead on 10-nanometer yields, that will influence the amount of capex next year.
+so we'll try to provide you a little more analytical color versus that qualitative cover in january.
+how much were you constrained by the shortages that you saw?
+so whether it's our expanded tam, our new products or the mix of our business, we have some tailwinds as we think about 2019. at the same time, to your point, there's some headwinds.
+and the headwinds, first, this has been a fantastic year for us and i think for the industry, and that just makes comps a little bit tougher as we go into next year.
+well, i think, first, we've -- in terms of growth for next year in the aggregate, we haven't really provided any quantitative color, more qualitative cover in terms of the dynamics that we see.
+so fourth quarter, we expect really solid demand.
+as we go into next year, we got -- murthy highlighted, we've got a good product road map of expanded features for cascade lake as we exit this year, cooper lake, middle of next year.
+secondly, sell-through of product, either -- on the cpu side, we're working with our customers and shaping demand to where we had inventory.
+and then second, on our modem growth, our explosive modem growth in the quarter.
+so what all that means when you adjust for kind of one-timers, the 66% is closer to 64% in terms of normalized basis going into the fourth quarter.
+so there's really 3 dynamics that we see playing out in the fourth quarter.
+one, we expect asps to be better.
+so that will impact our q3 to q4 gross margins.
+and it's a function of the progress we're making on 10-nanometer.
+and the modem product is also -- the combination of memory and modem are accretive to our year-on-year earnings growth but dilutive to our gross margins.
+so continued good yield, unit cost performance on 14-nanometer.
+and we do expect to continue to grow memory and modem.
+and i was hoping you could maybe talk about that a little bit more.
+thank you, ladies and gentlemen, for your participation in today's conference.

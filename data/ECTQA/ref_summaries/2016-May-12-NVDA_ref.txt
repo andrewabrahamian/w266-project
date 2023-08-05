@@ -1,0 +1,44 @@
+first of all, our gpu architecture is just superior, and we dedicated an enormous amount of effort to advancing our gpu architecture.
+and so, we've been talking about this area for some time, and now we're starting to see the broad deployment in production.
+next question, mark lipacis, jefferies.
+and a new computing model doesn't come along very frequently.
+hey, thanks for taking my questions.
+jen-hsun or colette, first of all i want to see if you can help provide some color on some of the drivers of growth for fiscal 2q, whether most of it is coming from pascal possibly in the gaming market, or in the tesla products, or if there was also some outgrowth and tegra automotive as called for fiscal 2q?
+sure.
+as we go forward, there is still continued work to do.
+we're in the initial stages of rolling out what we have in software services, our overall systems.
+so i don't expect it to be a material part of the overall gross margin, but it will definitely be a great value proposition for us, for what we put forth.
+next question, ambrish srivastava, bmo capital markets.
+and how should we think about your asp, and even gross margin trend as you are ramping this product for the rest of the year?
+i guess, two questions around the data center.
+one of the things that we do know is that high-performance computing is an essential approach for one of the most important computing models that we know today, which is machine learning and deep learning.
+hyperscale datacenters all over the world is relying on this new model of computing, so that it can harvest, it could study all of the vast amounts of data that we're getting to find insight for individual customers, make the perfect recommendation, predict when somebody would anticipate, would look forward to in terms of news or products or whatever it is.
+and it explains one of the reasons why we have such a great lead in this particular aspect.
+and we've optimized our entire stack of platforms from the architecture, to the design, to the system, to the middleware, to the system software, all the way to the work that we do with developers all over the world, so that we can optimize the entire experience to deliver the best performance.
+and i think that it goes without saying, that this new computing model in the last couple of years has really started to deliver very promising results, and i would characterize results as being superhuman results.
+and so, i think this is a very big deal.
+and i don't think it's a short-term phenomenon, and the amount of data that we process is just going to grow.
+great, thank you.
+and how does that differ from sort of previous reference designs that you've done, and is there any kind of difference in economics to nvidia if you sell founders edition?
+but a founders edition is designed so that it could be manufactured, it could be marketed, and customers can continue to buy it from us, for as long as they desire.
+so that's basically it, founders edition, the most exquisitely engineered add-in card the world has ever seen, directly from nvidia.
+depending on which one of our businesses that you're talking about, gaming is rather macro-insensitive for some reason.
+and the reason for that is, because while people are gaming, they're hanging out with their friends and they're chatting with their friends.
+and so, gaming for one, appears to be doing quite well, in all aspects of the market.
+we're a large company, and we have a lot of things that we're doing.
+i think the oem business is down year over year, isn't it?
+so we'll look at that as our side product, and probably would not be a growth business in q2.
+and so, they want their networks to be larger, they want to deploy their networks across more applications, and they want to train their network with new data all the time.
+and so, we're scaling, we're ramping up training for production for hyperscale companies.
+it's called the m4.
+now the benefit of using gpu for inferencing, is that you're not just trying to inference only.
+you're trying to, often times, decode the image, or you could be decoding the video, you inference on it.
+and colette, let me just add one thing.
+and the thing to realize is, you're not selling a chip into that car.
+i think you indicated that all pascal parts had taped out.
+and so, pascal is, whether it's ai, whether it's gaming, whether it's vr, is really the most ambitious project we have ever undertaken, and it's going to go through all of our markets.
+the application for self-driving cars is going to be pretty exciting.
+and so, we're not waiting around for 2019, we'll ship autonomous vehicles by the end of this year.
+this is the work that we do.
+and so, i don't know exactly how big it's going to be.
+we thank you for your participation, and we ask that you please disconnect your line.

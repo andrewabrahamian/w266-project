@@ -1,0 +1,42 @@
+sure, vivek.
+so we believe that ip-related revenue will be a factor as we go forward, but our primary focus is on the product-related revenue and the product-related growth.
+got it.
+we see ryzen continuing to ramp.
+in terms of the headwinds, we have the semi-custom seasonality, and we're also predicting that there will be some leveling off of some of the cryptocurrency demand.
+so overall, we do expect there will be some puts and takes in the semi-custom business as we go into 2018 and there will be some product revenue that will ramp, particularly in the second half of 2018.
+our next question is coming from mark lipacis from jefferies.
+yes.
+yes, absolutely, mark.
+and we've seen growth both on the ryzen side, particularly in the desktop side of the business, as well as on the graphics side.
+we did see some benefit of channel restocking, so if you look at the -- our channel inventories today compared to july, we have healthier channel inventory levels.
+as we look into q4 though, we also see growth from just the oem side of the gpu business as we start ramping vega into oems.
+and we're seeing significant interest from enterprise customers ramp now as some of the oem platforms are becoming available and starting their seeding.
+mobile asps are down.
+but overall, behaving as we expected and in some sense, we're very pleased with how we're positioned competitively with the product.
+but as far as our 2017 guidance is concerned, i have said previously 31% has potential of revenue, but i think right now where the numbers are coming out, especially with the strength of the revenue side of the equation, we think we end up at about 30% on an expense-to-revenue ratio in 2017, of which you -- as you probably recall, is at the upper end of what we are setting of a long-term target model, which is 26% to 30%.
+it's a major node, so we have a lot of engineering resources on that.
+we're overall pleased with how the performance on that is looking, and then we will opportunistically look at some products to go into 12-nanometer as it makes sense for the road map.
+and second, i think a lot of us are aware of the forward charges you'll get for using wafers from other foundries, but i assume that, that applies also to the gaming console business that comes out of tsmc currently.
+and you see the benefit across both the segments.
+and from a go-forward standpoint, despite the costs being there, we look at it overall from a viewpoint of the trend of the margin.
+major provider of the gross margin uplift is the premium new products that we are launching.
+so is that the right way to think about that segment this december?
+but it's -- there's no particular opex impact of using multiple foundries.
+but i would say that our product portfolio, in general, will take advantage of 7-nanometer.
+and then as a follow-up, if you can answer this, and maybe it was already answered, so forgive me.
+so we did say that the ip transaction was a patent licensing-related transaction, so that's different from the technology licensing, for example, that we did with thatic.
+our next question today is coming from vijay rakesh from mizuho.
+so the question was sort of the strength of epyc and where do we see it -- how do -- where do we see it going in q4.
+we will see more growth or we expect to see more growth into q4, especially as some of these trial runs turn into more deployment activity.
+lastly, just wondering how channel inventory in graphics side gpus are.
+our next question is coming from chris danely from citigroup.
+but again, i would wait until the overall results come out in a few weeks.
+i think that's a good question.
+but overall, i think the pc market was about what is expected, and that's a good thing.
+have you seen the number of design wins increase in the quarter?
+we've seen customers who started with one platform now looking at multiple platforms with epyc.
+okay.
+i do believe that customers do want some integrated system solutions.
+thank you.
+we appreciate you joining our call.
+that does conclude today's teleconference.

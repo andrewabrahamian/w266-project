@@ -1,0 +1,39 @@
+and since then, every major cloud provider, from amazon, microsoft, google to baidu, alibaba, tencent and even recently, oracle, has announced support for volta and we'll be providing volta for their internal use of deep learning as well as external public cloud services.
+the applications for these gpu servers has now grown to many markets.
+so this is a fairly significant growth opportunity for us.
+and so the money that we save and the capability we provide is really, the value is incredible.
+and as a result of this new tool, this new capability, all these unsolvable problems in the past are now interestingly solvable.
+i mean, all of these segments, we're now in a position to start addressing because we've put our gpus in the cloud, all of our oems are in the process of taking these platforms out to market and we have the ability now to address high-performance computing and deep learning training as well as inference using one common platform.
+and so i think the -- we've been steadfast with the excitement of accelerated computing for data centers, and i think this is just the beginning of it all.
+let's see.
+there's a need -- the need is there, and the foundations for getting volta to market is primed.
+with respect to gaming, what drives our gaming business?
+as you know, esports is incredibly, incredibly vibrant, and what drives -- the reason why esports is so unique is because people want to win and having better gear helps.
+your next question comes from the line of c.j.
+i was hoping to sneak in a near-term and a longer-term question.
+and now that we've moved beyond hpc and hyperscale training to more into inference and gpu as a service and you've hosted gtc around the world, curious if you could extrapolate on how you're seeing that advantage and how you've seen it evolve over the year and how you're thinking about cuda as the ai standard.
+yes, thanks a lot, c.j.
+and the reason for that is because there are so much software and so much tools created on top of this one architecture.
+your numerical precision requirements for a self-driving car, where lives are at stake, to detecting where -- counting the number of people crossing the street, counting something versus trying to track -- detect and track something very subtle in all kinds of weather conditions is a very, very different problem.
+they're getting larger all the time.
+okay.
+the fact that we are singularly focused and completely dedicated to this one architecture and in an unwavering way allows everybody to trust us and know that we will support it for as long as we shall live.
+and we all know that nobody's going to be able to support 5 architectures forever.
+i hope that was helpful.
+so in our results, in the oem results, our specific crypto [boards] equated to about $70 million of revenue, which is the comparable to the $150 million that we saw last quarter.
+the -- longer term, the way to think about that is, is crypto is small for us but not 0. and i believe that crypto will be around for some time, kind of like today.
+and there's data center and i've already talked about the 5 different segments within data center.
+there's provis and even that has multiple segments within it.
+and of course, you know that we have high-performance computing.
+so what happens is, is when a crypto -- when a currency -- digital currency market becomes very large, it entices somebody to build a custom asic for it.
+if you want to create a new cryptocurrency algorithm, optimizing for our gpus is really quite ideal.
+the end of moore's law is just laws of physics.
+and so nobody's ever seen large problems like these before, large-scale problems like these before.
+it could be a delivery vehicle.
+and so i think in terms of revenues, my expectation is that this coming year, we'll enjoy revenues as a result of the supercomputers that customers will have to buy for training their networks, for simulating the -- all these autonomous vehicles driving and developing their self-driving cars.
+and maybe, jensen, you could talk a little bit about -- you mentioned volta being such a huge chip in terms of transistor count.
+most of our data center products, if we can improve the throughput of a data center by another 50% or, in our case, often times we'll improve something from 2x to 4x, the way to think about that is that billion-dollar data center just improved its productivity by a factor of 2. and all of the software work that we do on top of cuda and the incredible work that we do with optimizing compilers and graph analytics, all of that stuff then all of a sudden translates to value to our customers, not measured by dollars, but measured by hundreds of millions of dollars.
+and the modern gpu is not a graphics accelerator.
+but these processors are domain-specific parallel accelerators, and they're enormously complex.
+and we're building the future of autonomous driving.
+this concludes today's conference call.

@@ -1,0 +1,45 @@
+thanks for taking my question.
+and when do you -- do you have to wait for like regulatory approval to get this through?
+this is lisa.
+this one is very positive for us, not just from the standpoint that it leverages our ip, but it also gives us a very key partner in the chinese market, which we all believe is going to be very, very important for data center growth going forward.
+yes, and if i may, just one quick follow-up.
+yes.
+polaris is on track to launch in the middle of the year and we will expect that will drive -- further strengthen the second half.
+or is that something different?
+great, thank you.
+can you give us a sense on zen, based on you're hitting all your performance milestones, what part of the server market are you addressing?
+and we will continue to work with both oems and odms to ensure that they have the right boards and platforms for our products.
+will you compete with them with standard products within china, or is there some kind of dividing of the market?
+the licensing payment is well understood.
+okay.
+as it relates to our guidance for the second quarter and then the full year, if you think about the semi-custom business in the last few years, the third quarter is always the peak.
+and then as far as the levels going on from there, i think it partly is a mix of the business overall from a viewpoint of the semi-custom business and other businesses.
+as a follow-up on the semi-custom side, the -- didn't some embedded revenue will likely come in in the second half?
+the -- what we are licensing is microprocessor technology and system-on-chip technology.
+the jv will be able to manufacture and sell x86 server chips.
+so maybe that led to some of the incremental better-than-market-unit growth.
+if you look at the overall asps, actually mobile asps were up.
+but there is not a dramatic change in asps, if that is what you're asking.
+harlan sur, jpmorgan.
+so again, on the pc market, i think our view of the pc market is very consistent with what's out there, probably down, let's call it, high-single digits.
+really, as we are transitioning to a new product portfolio on the graphics side, so i think that is a strong driver for us.
+we are looking for ones that are very additive to our product portfolio and to our roadmap objectives.
+so first question is you talked about eesc revenue will be up annually, and i think you talk about the different components.
+and at the segment level, we expect both segments to be up -- to contribute to our overall guidance of revenue being up.
+and which segment do you think has the biggest opportunities?
+christopher danely, citigroup.
+in light of your ip licensing agreement with thatic, can you just kind of talk about your expectations for the china server market in 2016/2017?
+and if are there any longer-term milestones?
+and we have also said the second half of the year, we are expecting strength over first half, and obviously that leads to higher inventory.
+and what is the time frame for the jv?
+vijay rakesh, mizuho securities.
+and what is the timeline to get commercial products in the market with this licensing agreement?
+obviously, vr seems to be a huge market as you look out.
+thanks.
+so look, on the jv licensing payments, we will expect about half of the licensing revenue to come over the next two years, so over 2016 and 2017. our current forecast for 2016 was that $50-ish million that devinder mentioned, and it is contingent on several milestones that we believe are on track.
+and there is more than enough server market to go after, given where we are.
+so yes, we believe that graphics becomes much more valuable in this framework, and we will be looking for how to leverage and monetize that across both our semi-custom business as well as our discrete graphics and apu businesses.
+i think if anybody were to do a different console or a new console, then that would be a new negotiation.
+will polaris be suited to that?
+i think going forward, you will see a bit more focus from us in that area.
+that concludes today's teleconference.

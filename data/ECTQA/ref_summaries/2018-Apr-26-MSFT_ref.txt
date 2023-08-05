@@ -1,0 +1,34 @@
+great.
+so maybe i'll start and then i'll have you, amy, go into some of the numbers.
+and actually, it's been going up as we begin to get scale through these services over time, actually.
+so that should help you roughly to think about how much depreciation is to that number.
+if you think about gross margins, in particular, what you'll see is azure continuing to be a growing percentage of the total revenue growth.
+the next question is coming from the line of mark moerdler with alliancebernstein.
+we know that you build out -- you significantly invested in the data center footprint ahead of demand, but you don't build out the equipment itself that far in advance.
+and as a follow-up, how should we think about that for the next couple of quarters?
+thanks, mark.
+a year ago, q3 was actually a little low.
+one of the highlights from my perspective was definitely linkedin and what seems to be an acceleration in the revenue growth in linkedin.
+so 2-parter here.
+and that obviously then translates into revenue growth of those business solutions we mentioned.
+so let me also say, after a year of working with them closely, my appreciation and frankly a lot of inspiration that i think you've seen at our own product development has been their focus on users and how important it is and how focused they are on it.
+so i guess, my question is in the spirit of this, to amy, on the overall growth margin trade-off as you look into fiscal '19.
+you see it this quarter.
+and it's true that we are, at this point, at scale on azure and with very, very high growth rates.
+so the first thing is on the infrastructure side itself with the combination of the edge and the cloud, i believe, between azure stack and azure as well as inclusive of our servers, we have the best cloud platform for what is going to be hybrid computing and we'll continue to push on that, so you'll see growth that just got a different margin profile.
+and you see that even in the way customers use it.
+at 58% growth, it certainly speaks to having a big base and a big growth number.
+so i think that, that's where the synergies lie because ai starts with having a data estate that can really bring data from all of your applications, silos, in some sense, together so that you can start doing, building an analytical power that you can then visualize and put in the hands of people using power bi or run an ai model that does some prediction that you can deploy in your system, whether it's forecasting, sales lead scoring, what have you.
+we have this common data model.
+the next question is coming from the line of ross macmillan with rbc capital markets.
+let me talk about this in 2 or even a couple of components because when you think about windows 10, what we've seen over the past couple of years is you're right, a very strong enterprise deployment cycle and real pull for that product inside enterprises because of the security value prop of the product itself.
+and amy, could you please give us a sense of the margin profile of the areas of gaming that exceeded expectations?
+so anytime a new game, whether it's first-party or third-party releases, the fact that xbox is where the best engagement is driven, benefits us.
+the performance in q3 and the guidance for q4 shows actually strong performance in a number of places that we expect to continue.
+that has been a double-digit grower.
+or is there any sort of bias in the mix, if you will, in terms of what's driving that strength?
+i think that yes, i mean, cosmos db's pretty unique capability, in combination with everything else we do in both the data layer, the ai layer and the infrastructure layer, i think we have a tremendous opportunity because, as i said, the ai era is mostly first data era.
+and what kinds of products and services that are new and upcoming or maybe you sell them today that comprise that incremental swing factor over the baseline of what it is today versus wherever we're likely to go with the digitization of business processes?
+so that's a transformational outcome that we're very well positioned.
+and we feel we -- at microsoft, we're well positioned both with the technology but also with our front-line sales capability, service capability and partner capacity to best address the digital transformation needs.
+ladies and gentlemen, this does conclude today's teleconference.

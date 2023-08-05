@@ -1,0 +1,40 @@
+c.j., your line is open.
+can you here me?
+great results.
+we integrated all of that with all of the complicated software stacks into an appliance that we maintain over the cloud.
+my sense is that as we look forward to next year, we're going to continue to see that major trend.
+i actually had one question for jen-hsun and one clarification for colette.
+the growth was impressive, and i'm wondering you mentioned that the hyper-scale players really have embraced the products first.
+in the case of real applications that we're engaging now, you could just imagine that in the transportation industry, in car companies creating self-driving cars, one car company after another needs to take all of their road data and start to train their neuro-networks for their future self-driving cars.
+that's one application example.
+medical imaging companies all over the world have recognized the importance of deep learning in their ability to detect cancer and retinopathy, and the list of examples goes on and on.
+the fact of the matter is at this point, deep learning and ai has really become how future software development's going to be done for a large number of industries, and that's the enthusiasm we're seeing around the world.
+hi, thanks for taking my question, and congratulations to the team on great results and guide.
+the thing that we have to do now is we have to make the headsets easier to use with fewer cables.
+i would think about vr in the context of both professional applications as well as consumer applications; but i think the first year was absolutely a great success.
+your next question comes from the line of romit shah with nomura.
+yes, thank you.
+if i may, jen-hsun, the revenue beat this quarter wasn't as big as we've seen in the last several periods, and most of it came from data center.
+it basically kind of works, but it doesn't work good enough, well enough, to be useful.
+but your question specifically has to do with the perception layer, and that perception layer quite frankly is just a small part of the self-driving car problem.
+you've got video coming in, you want to detect lanes.
+if you put all that stuff together, we have the processor, we have the tier-one partnerships for the integration of the systems, we have all the software on top of it, the deep learning networks, the car partnerships, of course, and integrated into maps around the world.
+all that entire stack, when you put them all together, should allow us to have self-driving cars on the road.
+where are you in terms of hyper-scale adoption for specialized inference-type solutions, and how big do you think that market counts going to be?
+it's -- as you know very well, in the future almost every computing device will have inferencing on it.
+in the data center, there's several areas where inferencing is quite vital.
+i had a question on gross margins.
+the delta from q4 to q1 is we only have a partial part of recognition from the intel, and that stops in the middle of march.
+your next question comes from the line of stephen chin from ubs.
+there's the tesla processors used for high-performance computing, and it has fp64, fp32, ecc.
+that's our deep learning stack, and that's also very important.
+our next generation -- so that's all based on a pascal generation.
+while achieve level three with one processor today, next year we'll achieve level four with one processor, and with several processors, you could achieve level five.
+this end-to-end stack of software is really quite a large undertaking.
+whereas ai autopilot achieves level four driving, ai co-pilot looks out for you in the event that it doesn't have the confidence to drive on your behalf.
+i think that number one, e-sport is one of the reasons why gaming continues to grow.
+the simple way to think about that is this.
+i don't know exactly how big it's going to be yet, but our aspiration is that we would reach the parts of the market where they're casual, or they just want to have another way, another device where they can game, or somebody would like to come into the gaming world and isn't quite ready to invest the time in building a computer or buying into a g-force pc yet.
+when i learn more about g-force now, i'll be more than happy to share it.
+data center now represents -- had grew at 3x over year over year, and it's on its way to become a very significant business for us.
+this concludes today's conference call.

@@ -1,0 +1,35 @@
+two questions if i can.
+great.
+and finally, i think cloud is another important way by which we can start working together.
+so i do think we are seeing a lot of traction there.
+i think the main point, it is still very early but -- in terms of our progress.
+g suite is definitely, i think, seeing a lot of momentum.
+we are definitely -- have noticed in the -- now i think it's -- it can definitely sell the needs of a large enterprise.
+and so it's an important area of focus.
+and our next question comes from doug anmuth of jpmorgan.
+you've talked about the higher cost as you shift to machine-learning-driven business and then also your tech upgrade cycle around machine.
+and then very importantly, it reflects the importance of machine learning across our products, including search and ads.
+you talked about android in your prepared remarks.
+but we're also looking forward to finding a solution above all that preserves the enormous benefits of android to users and so on.
+sundar commented on some of them.
+as did i., looking at opportunities to enhance the user experience, to continue to improve tools for advertisers and both of which extend the growth there.
+and that's for mobile, and what we're increasingly seeing is, as we focus on mobile, the benefits are across platform and help explain the growth we're seeing in desktop and youtube.
+i don't want to leave you with an answer, with the notion that the investment is just going to the newer businesses.
+and then more specifically to your question, what we look at is the opportunity set, the -- each one of these is different.
+when we start with cloud, as sundar commented, given the core capabilities that we are building upon, our technical infrastructure, security, apps, machine learning, analytical tools, our view is that we're addressing a rapidly growing market with the core pillars that are needed to win.
+there's this big bucket of ad spend called trade promotion spend that's largely been off-line i think, and it's almost as big maybe on a global basis as kind of traditional tv brand advertising.
+and then in terms of kind of trends in advertising to your question, we have talked about this quite a bit in the past.
+but i'm curious in particular about maps, and with it being product aimed at driving store visits, one would assume maps would play an interesting part in that.
+and our next question comes from brent thill of jefferies.
+and so we definitely are going to continue to build out our capabilities, and we'll be going after the opportunities in these areas very seriously.
+and more generally, what do you envision monetization for google assistant if we should still expect to see more of a transactional bent to that platform?
+so on a year-on-year basis, that's the trend that you're really seeing as the ongoing strength in mobile.
+what is usual time frame, do you think, do you see where those investments pay off?
+and what factors would make the capex-to-sales ratio start growing even faster from here?
+and we are obviously helping a lot of health care partners across their needs, and verily is definitely doing very specialized solutions in this area.
+and we'll have a lot more to say on all of this over the course of time.
+and then with respect to capex, look, i think our view is that what you're seeing here is an aggressive pace of investment given our outlook for growth, and as i've said, the required additional compute capacity, we're quite focused on the kind of full resource utilization across businesses.
+the google marketing live, we really highlighted what we're seeing there and the benefits, whether we're talking about responsive search ads or local campaigns, smart shopping campaigns.
+and overall, we've invested a lot in making sure we are delivering the content responsibly, and it's a been a big area of focus across google.
+thanks, everyone, for joining us today.
+this does conclude the program, and you may all disconnect.

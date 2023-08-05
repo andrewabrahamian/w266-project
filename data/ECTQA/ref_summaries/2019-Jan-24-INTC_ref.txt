@@ -1,0 +1,27 @@
+yes.
+first, i would say that since we look at just overall demand for the data center environment, the end user demand by consumers and by enterprises, the workloads that we're seeing, the continued growth in workloads, we are as excited about the future as we've ever been.
+as you know, the purchases are done in -- kind of in cycles, massive purchases through the first 9 months.
+and we started to see some of those purchases consumed in the fourth quarter.
+and we end the year, we think, with inventory levels on the server side of the business just a little bit higher than they had been historically.
+so as bob said, the first half, a little bit tougher but second half, with product momentum as well as what we're hearing from our customers, we expect to be better in the data center group.
+and roughly flattish for the full year would suggest that overall, you're looking for a revenue trajectory in 2019 that's very similar to the trajectory you had in 2018, which was very, very strong sequentially, in many of the quarters.
+like how do we think about that?
+and we try to take into account both the macroeconomics, the geopolitical risk, the modest inventory build as we enter the year and the competitive environment.
+we've kind of taken those into account, reflected them the best we can as we go into the year, and we feel pretty good about how things stack up right now.
+our next question comes from chris danely with citigroup.
+and we do expect that that will be largely, although not completely, offset by spending as a percentage of revenue coming down again in 2019.
+i think just on the gross margin, the trends are going to be a little bit similar to what you've seen in the past, although we do expect a little bit less asp -- gross margin improvement from asp.
+during that time frame, r&d has grown.
+we exited wearables.
+so, on the operating margin -- or operating margin percent, that's a slight positive.
+and our expectations for the year is the pc tam is going to be relatively flat.
+and that will constrain us a little bit on just overall growth in the first half of the year.
+so the story is not just about 10-nanometer yields but 10-nanometer now being a key part of our entire product portfolio.
+and as i say, i think that, coupled with our focus on the pillars of technology that bob talked about, in my mind, i think, puts our product portfolio looking forward in a pretty good position.
+and that's why the investments we're making in memory are for, what we believe, differentiated technology, both in the manufacturing process capabilities of 3d nand but also the differentiated technology for optane and the role that it plays, both on the pc side but, most importantly, for us on the data-centric side.
+so we're not particularly excited about commodities.
+i'll just maybe add one thing, it's navin.
+both the consumer cloud and the enterprise commercial cloud, we see both of those continuing to grow.
+let me -- maybe if i could just close out, mark.
+our -- strategically, what it is we're trying to do and the opportunities we see are as strong, if not stronger, today heading forward as they've ever been.
+ladies and gentlemen, thank you for participating in today's conference.

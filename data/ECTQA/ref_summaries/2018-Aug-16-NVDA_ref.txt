@@ -1,0 +1,40 @@
+and it completes our new computer graphics platform, which is going to reinvent computer graphics altogether.
+the first is for the markets of visualization today, they require photorealistic images.
+the second area where you're going to see the benefits of ray tracing, we haven't announced.
+and this platform has those 4 computation methods that i described for generating images.
+thus, this week at siggraph, we announced quadro, which is the first -- the quadro rtx 8000, 6000 and 5000 -- the world's first accelerated ray-tracing gpus.
+and stay tuned, we've got a lot more stories to tell you about rtx.
+so i think the inventory balance is getting ready for that.
+sure, thanks for that -- for the question.
+let's see, pascal was really successful.
+we've partnered with microsoft to create dxr.
+and as a result, on the day that turing comes out, we're going to have a richness of applications that gamers will be able to enjoy.
+i actually think that on a year-over-year performance, we're doing terrific.
+in your prepared remarks, you talked about ai and high-performance computing driving new verticals and some of these verticals are fastest growing.
+and we'll see probably a mix of both selling our tesla v100 platforms but also a good contribution from our dgx.
+i think the one simple way to think about that is this.
+and so that's another supercomputer that you have to build for simulating all your software costs, those billions and billions of virtually created, challenging miles.
+so for short term, as you think about your gaming guide, are you embedding any drawdown of channel inventory there?
+what turing adds over pascal is the same tensor core that is inside volta.
+the tensor core inference capability of turing is going to be off the charts.
+and i guess, i'm trying to understand the impact that crypto would have on the guidance for october, given that it seems like it was very small in the july quarter.
+i had one for jensen and one for colette.
+inference is going to be a very large market for us.
+and the reason for that is because artificial intelligence and deep learning software and neural net models are going to -- prediction models, are going to be infused into software everywhere.
+yes.
+we probably possibly see that again in our q3 guidance, the year-over-year growth across each and every one of those platforms.
+but definitely, our gaming and our data center are expected to grow sequentially.
+you're obviously enabling a lot of capabilities.
+but that will take some time for that all to partake.
+so we'll see how that goes.
+i'm curious if that's related to the data center business or what's really driving that as kind of a follow-up question.
+computing demand is increasing at historical levels of 10x every 5 years.
+your next question is from harlan sur with jpmorgan.
+hgx-1 was, i guess, kind of the prototype of hgx-2.
+hgx-2 is doing incredibly well for all the reasons that you mentioned.
+your next question is from tim arcuri with ubs.
+and even though new cards -- at the current prices, it doesn't make much sense for new cards to be sold into the mining market.
+and that's exactly the reason why we built xavier.
+our core platforms exceeded expectations even as crypto largely disappeared.
+we launched turing this week.
+and nvidia rtx with turing is the greatest advance since cuda nearly a decade ago.

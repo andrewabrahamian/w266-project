@@ -1,0 +1,31 @@
+thank you.
+okay.
+this year, with that in mind and then knowing that our growth rate is actually accelerating on a unit basis, we are - q2 was 28% unit growth for paid units, but fulfilled by - units fulfilled by amazon is much higher than that due to the growth of prime and fba.
+we are also nearly doubling our content spend in the second half of this year versus the second half of 2015. we have a great slate of new amazon originals coming out later this year, both in the us and internationally, and we're nearly tripling our number of new amazon original shows - tv shows and movies compared with the second half of last year.
+sure.
+it was a great day for small businesses and sellers who saw great year-over improvement in their sales.
+this is darin.
+however, today we're not going to update that number.
+we know customers love it.
+we think when we expand geographically, existing customers will run more of their workloads on aws.
+so, the move into boston and also now into london give us some really good data points and as - it's a great customer feature for the prime offering.
+the - it has a different purpose, although some of the products overlap.
+thanks for taking my questions.
+and the second one on prime, on aws margins, can you just walk us through some of the puts and takes that have been driving the aws margin expansion we've seen in the first half of this year?
+and now we have 1,900 third-party skills for the alexa, including new skills from kayak, lyft, nbc, honeywell and more.
+so there's a lot of uses that we're seeing for echo.
+fba is bringing more prime-eligible selection to prime and then the growth of prime and the type of customers that utilize prime and their buying behavior is a great traction for other fba sellers.
+so that's part of what we saw, very strong operating efficiencies as we hit essentially the highest end of our revenue guidance.
+and there can be timing, quarter-to-quarter, the operating margin and levels of investment can fluctuate, but certainly continue to expand.
+hi.
+you can see us continue to invest in things like new application services, higher up the stack, additional technologies that will make integrating with aws seamless for those companies that have a hybrid it environment and then continuing to add functionality for data analytics, mobile, internet of things, machine learning offerings, things like that, that will add greater and greater value for aws customers.
+so that continues to grow with the growth of the prime program.
+i will start with the second question.
+i'll comment on the customer accounts again.
+at a high level, can you just talk about how the overall logistics strategy is evolving from trucks and fulfillment centers to incorporate some of these new methods and how that might impact your unit costs going forward?
+let me take that first question.
+our next question comes from eric sheridan from ubs.
+for purposes of just making sure we can understand the trajectory, is there any way to frame it within second half of this year versus first half of this year, just so we can try to triangulate on a gross margin basis from the content spend?
+i was wondering, what are you seeing in that market that justifies that level of investment?
+we think it'll enter into a new chapter in india, and we've seen great success in every country in the world that we've launched prime, and we feel india is going to be no different.
+on italy, yes, we continue to invest in italy and really throughout europe to keep pace with the strong customer demand we see.
